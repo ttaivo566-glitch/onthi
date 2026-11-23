@@ -10182,6 +10182,2736 @@
     "Tôn trọng quyền tự nguyện theo quy trình và bảo vệ quyền lợi của họ"
    ],
    "a": 3
+  },
+  {
+   "id": "mwtepfb2wezx3",
+   "s": "mwtej4nrfj0tt",
+   "sh": false,
+   "q": "Khuếch tán là gì?",
+   "o": [
+    "Hiện tượng vật chất di chuyển từ nơi này sang nơi khác.",
+    "Hiện tượng vật chất di chuyển theo gradient nồng độ.",
+    "Hiện tượng vật chất di chuyển ngẫu nhiên – Brownian.",
+    "Tất cả đều đúng."
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb2b0i0v",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Khuếch tán theo gradient nồng độ là gì?",
+   "o": [
+    "Chất tan đi từ nơi có nồng độ cao đến nơi có nồng độ thấp.",
+    "Chất tan đi từ nơi có nồng độ thấp đến nơi có nồng độ cao.",
+    "Phân tử nước đi từ nơi có nồng độ chất tan cao đến nơi có nồng độ chất tan thấp.",
+    "Phân tử nước đi từ nơi có nồng độ chất tan thấp đến nơi có nồng độ chất tan cao."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtepfb2zgu6o",
+   "s": "mwtej4nrfj0tt",
+   "sh": false,
+   "q": "Chọn câu đúng nhất. Những chất nào dưới đây có thể khuếch tán trực tiếp qua màng phospholipid kép?",
+   "o": [
+    "Các phân tử có tính kỵ nước như glucose, fructose, saccharose.",
+    "Các chất khí như CO2, O2",
+    "Đáp án A và B đúng.",
+    "Đáp án A và B sai."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtepfb25oiq9",
+   "s": "mwtej4nrfj0tt",
+   "sh": false,
+   "q": "Trong sinh vật, khuếch tán xảy ra ở đâu?",
+   "o": [
+    "Bên trong tế bào.",
+    "Giữa các tế bào.",
+    "Qua lại nội bào và ngoại bào qua màng tế bào.",
+    "Tất cả đều đúng."
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb2nxq8i",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Trong chụp hình cắt lớp phát xạ Positronemission tomography (PET), người ta đánh dấu đồng vị lên Glucose để theo dõi hoạt động của các tế bào trong cơ thể?",
+   "o": [
+    "Đồng vị 18 Fluorine (18F2)",
+    "Đồng vị 53 lodine (53I)",
+    "Đồng vị 232 Thori (232Th)",
+    "Đồng vị 242 Plutonium (242Pu)"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtepfb2efpei",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Trong chẩn đoán hình ảnh, phương pháp chuẩn đoán nào sử dụng sóng radio?",
+   "o": [
+    "Siêu âm Doppler",
+    "Chụp cắt lớp CT",
+    "Chụp cắt lớp phát xạ PET",
+    "Chụp cộng hưởng từ hạt nhân MRI"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb26gph1",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Trong chuẩn đoán hình ảnh, phương pháp nào sử dụng sóng âm?",
+   "o": [
+    "Chụp cắt lớp CT",
+    "Chụp cắt lớp phát xạ PET",
+    "Chụp cộng hưởng từ hạt nhân MRI",
+    "Siêu âm"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb2t32qe",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Trong chuẩn đoán hình ảnh, phương pháp nào sử dụng tia X?",
+   "o": [
+    "Siêu âm",
+    "Chụp cắt lớp CT",
+    "Chụp cắt lớp phát xạ PET",
+    "Chụp cộng hưởng từ hạt nhân"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtepfb257kod",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Trong chuẩn đoán hình ảnh, phương pháp nào ghi nhận tia phóng xạ từ chất đánh dấu?",
+   "o": [
+    "Siêu âm",
+    "Chụp cắt lớp CT",
+    "Chụp cắt lớp phát xạ PET",
+    "Chụp cộng hưởng từ hạt nhân MRI"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb2xywc6",
+   "s": "mwtej4nrfj0tt",
+   "sh": false,
+   "q": "Năng lượng là gì?",
+   "o": [
+    "Là đại lượng vật lý được chuyển đến một đối tượng để thực hiện một công hoặc để làm nóng các đối tượng.",
+    "Có thể được chuyển đổi thành các hình thức khác nhau, nhưng không được tạo ra hoặc phá hủy.",
+    "Câu A và B đều đúng.",
+    "Câu A và B đều sai."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb2pyiv0",
+   "s": "mwtej4nrfj0tt",
+   "sh": false,
+   "q": "Nhiệt động học hệ sinh vật là lĩnh vực nghiên cứu về?",
+   "o": [
+    "Hiệu ứng năng lượng.",
+    "Sự chuyển hóa giữa các dạng năng lượng.",
+    "Chiều hướng của các quá trình xảy ra trong hệ thống sống.",
+    "Tất cả các lĩnh vực trên."
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb20a6u6",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Phát biểu nào sau đây SAI về hệ:",
+   "o": [
+    "Hệ là một vật thể hay một nhóm vật thể được dùng làm đối tượng để nghiên cứu.",
+    "Hệ cô lập là hệ không có sự trao đổi vật chất và năng lượng giữa hệ với môi trường xung quanh.",
+    "Hệ kín là hệ không trao đổi năng lượng với môi trường xung quanh nhưng có trao đổi vật chất với môi trường xung quanh.",
+    "Hệ mở là hệ có trao đổi cả vât chất và năng lượng với môi trường xung quanh."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb2bz18l",
+   "s": "mwtej4nrfj0tt",
+   "sh": false,
+   "q": "Nội năng?",
+   "o": [
+    "Là động năng và thế năng của một hệ.",
+    "Là động năng của một hệ.",
+    "Là thế năng của một hệ.",
+    "Tất cả đều sai."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtepfb2tg3kk",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Hình thức truyền năng lượng từ hệ này sang hệ khác thông qua:",
+   "o": [
+    "Công",
+    "Nhiệt",
+    "Công và nhiệt",
+    "Không phái các yếu tố trên"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb29d9m9",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Phát biểu nào sau đây SAI về hệ quả của nguyên lí I nhiệt động học?",
+   "o": [
+    "Nếu hệ biến đổi theo một chu trình kín thì nội năng của hệ thay đổi.",
+    "Nếu hệ biến đổi theo một chu trình kín thì nội năng của hệ không đổi.",
+    "Khi cung cấp cho hệ một nhiệt lượng và hệ không thực hiện công thì nội năng của hệ tăng.",
+    "Khi không cung cấp nhiệt lượng cho hệ mà muốn hệ thực hiện công thì chỉ có cách là làm giảm nội năng của hệ."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtepfb2k1n7y",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Hầu hết công do cơ thể sinh ra là do?",
+   "o": [
+    "Trao đổi chất",
+    "Trao đổi năng lượng",
+    "Tỏa nhiệt",
+    "Sự co cơ"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb2w6mld",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Năng lượng trong quá trình co cơ được lấy trực tiếp từ?",
+   "o": [
+    "ATP",
+    "ADP",
+    "Creatine",
+    "Glucose"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtepfb2umofs",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Trong cơ thể sinh vật, ATP được tổng hợp chủ yếu từ?",
+   "o": [
+    "Phosphocreatine",
+    "Glucose",
+    "Creatine",
+    "ADP"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtepfb2wexaj",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Phát biểu nào không thuộc nguyên lí II nhiệt động học?",
+   "o": [
+    "Năng lượng vẫn giữ nguyên giá trị khi qui đổi thành nhiệt lượng.",
+    "Nhiệt không thể tự động truyền từ vật lạnh sang vật nóng.",
+    "Không thể có một quá trình biến đổi chuyển toàn bộ nhiệt lượng thành công.",
+    "Đối với hệ cô lập, mọi quá trình trong tự nhiên đều diễn biến theo chiều tăng của entropi."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtepfb2v8m9i",
+   "s": "mwtej4nrfj0tt",
+   "sh": false,
+   "q": "Tính thấm là khả năng cho các chất đi qua màng tế bào:",
+   "o": [
+    "Không có tính chọn lọc.",
+    "Có tính chọn lọc.",
+    "Cả A và B đều đúng.",
+    "Cả A và B đều sai."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb25a5yz",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Phương pháp nào không dùng để nghiên cứu tính thấm của tế bào?",
+   "o": [
+    "Dùng chất chỉ thị màu",
+    "Trắc quang",
+    "Dùng các chất đồng vị phóng xạ đánh dấu",
+    "Buồng đếm hồng cầu"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb22myyp",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Màng tế bào được cấu thành từ các thành phần cơ bản nào sau đây?",
+   "o": [
+    "DNA, Glucose, Protein.",
+    "Photpholipis, Chloesteron, Protein.",
+    "Axit amin, Nucleotit, Photpho.",
+    "Carbonhydrat, Eyme, Protein."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtepfb2yhklh",
+   "s": "mwtej4nrfj0tt",
+   "sh": false,
+   "q": "Các chất muốn xâm nhập vào bên trong tế bào qua siêu lỗ trên mảng cần có một giá trị năng lượng nhất định để thắng lực cản nào?",
+   "o": [
+    "Lớp phân tử rất chặt chẽ trên bề mặt màng tế bào.",
+    "Lực tương tác tĩnh điện.",
+    "Hàng rào điện thế.",
+    "Tất cả các lực trên."
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb2qnmr7",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Ure và Glucose có thể thấm nhanh qua màng tế bào là do?",
+   "o": [
+    "Nó là chất không phân cực.",
+    "Nó là chất phân cực mạnh.",
+    "Có chất vận chuyển trung gian.",
+    "Có kích thước siêu nhỏ."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb24lwtn",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Vận chuyển thụ động diễn ra là do?",
+   "o": [
+    "Sự tồn tại của gradient",
+    "Có chất mang trung gian",
+    "Do bơm sử dụng ATP",
+    "Do cấu trúc sống bị phá vỡ"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtepfb2ra88q",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Phát biểu SAI về vận chuyển tích cực các chất qua màng tế bào?",
+   "o": [
+    "Là quá trình vận chuyển các chất ngược hướng tổng gradient.",
+    "Quá trình vận chuyển cần tiêu tốn năng lượng.",
+    "Chỉ diễn ra khi có nhu cầu của tế bào.",
+    "Vận chuyển không có chọn lọc."
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb2gm7ms",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Phát biểu SAI về quá trình vận chuyển chủ động các ion dương qua màng tế bào khi ở trạng thái tĩnh:",
+   "o": [
+    "“Bơm Natri – Kali” được sử dụng để vận chuyển Na+ và K+ qua màng.",
+    "Nguồn năng lượng cung cấp trực tiếp cho “bơm Natri – Kali” hoạt động được lấy từ ATP.",
+    "Chất chuyển trung gian có khả năng liên kết với Na+ ở mặt ngoài của màng, sau đó chuyển Na+ vào mặt trong của màng tế bào.",
+    "Ion Na+ và K+ hoạt hóa enzyme ATPase để xúc tác cho phản ứng thủy phân ATP tạo năng lượng."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb2vfur1",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Cơ chế vận chuyển của đường qua màng tế bào:",
+   "o": [
+    "Đường được vận chuyển theo cơ chế thụ động.",
+    "Đường tan trong lipid nên được thấm trực tiếp qua màng.",
+    "Đường được vận chuyển trực tiếp qua siêu lỗ.",
+    "Đường sẽ tạo phức với chất chuyển đặc trưng có thể tan trong lipid nên đường được khuếch tán qua màng tế bào một cách dễ dàng."
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb23ncx1",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Phát biểu nào ĐÚNG với tính thấm của tế bào và mô đối với axit và kiềm:",
+   "o": [
+    "Các ion H+ và OH- của axit mạnh và kiềm mạnh tương tác tĩnh điện tốt với các ion trên thành siêu lỗ.",
+    "Các ion H+ và OH- của axit mạnh và kiềm mạnh khó bị các phân tử trên bề mặt màng hấp phụ.",
+    "Các axit yếu và kiềm yếu có thể thấm qua màng tế bào một cách dễ dàng vì chúng hòa tan tốt trong lipid.",
+    "Axit mạnh và kiềm mạnh thấm vào trong tế bào dễ dàng."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb2jazym",
+   "s": "mwtej4nrfj0tt",
+   "sh": false,
+   "q": "Phát biểu ĐÚNG về điện sinh học:",
+   "o": [
+    "Tạo nên điện trường của toàn cơ thể.",
+    "Phản ánh tính chất lý – hóa của quá trình trao đổi chất.",
+    "Chỉ số quan trọng đáng tin cậy về các chức năng sinh lý của cơ thể sống.",
+    "Tất cả đều đúng."
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb2euswq",
+   "s": "mwtej4nrfj0tt",
+   "sh": false,
+   "q": "Việc xây dựng cơ sở lý thuyết và giải thích cơ chế của việc hình thành dòng điện sinh học còn có nhiều hạn chế, do:",
+   "o": [
+    "Tốc độ biến đổi tín hiệu trên đối tượng nghiên cứu thay đổi quá nhanh.",
+    "Đối tượng nghiên cứu thường có kích thước nhỏ.",
+    "Không làm ảnh hưởng đến trạng thái sinh lý của đối tượng khảo sát.",
+    "Tất cả các lý do trên."
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb2cfrqo",
+   "s": "mwtej4nrfj0tt",
+   "sh": false,
+   "q": "Phát biểu ĐÚNG về điện thế năng:",
+   "o": [
+    "Chuyển động của các ion thông qua bơm ion, tạo nên một điện áp giữa hai phía của màng, gọi là điện thế năng.",
+    "Sự hình thành hiệu điện thế màng do sự cân bằng nồng độ của các loại ion ở hai phía màng.",
+    "Sự hình thành hiệu điện thế màng do vận chuyển thụ động của những ion qua bơm ion có trên màng.",
+    "Tất cả đều đúng."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtepfb2xxolo",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Phát biểu SAI về đặc điểm của điện thế nghỉ:",
+   "o": [
+    "Chiều trong điện thế nghỉ là không đổi.",
+    "Mặt trong của màng tế bào sống luôn luôn có giá trị điện thế dương so với mặt bên ngoài.",
+    "Điện thế nghỉ có giá trị điện thế biến đổi rất chậm theo thời gian.",
+    "Giá trị điện thế nghỉ giảm đi khi chức năng của tế bào bắt đầu xuất hiện."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtepfb2oqk2y",
+   "s": "mwtej4nrfj0tt",
+   "sh": false,
+   "q": "Cơ chế hình thành điện thế nghỉ:",
+   "o": [
+    "Sự phân bố ion ở hai bên màng tế bào và sự di chuyển của các ion qua màng tế bào.",
+    "Tính thấm có chọn lọc của màng tế bào đối với ion.",
+    "Bơm Na – K.",
+    "Cả 3 cơ chế trên."
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb21f23j",
+   "s": "mwtej4nrfj0tt",
+   "sh": false,
+   "q": "Phát biểu ĐÚNG về sự phân bố ion ở hai bên màng tế bào ở trạng thái nghỉ:",
+   "o": [
+    "Nồng độ ion K+ bên trong tế bào cao hơn bên ngoài tế bào.",
+    "Nồng độ ion K+ bên trong tế bào thấp hơn bên ngoài tế bào.",
+    "Nồng độ ion K+ bên trong tế bào bằng bên ngoài tế bào.",
+    "Tất cả đều sai."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtepfb2ci3ca",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Phát biểu SAI về điện thế tổn thương:",
+   "o": [
+    "Là hiệu điện thế xuất hiện do sự chênh lệch điện thế giữa vùng bị tổn thương và vùng không bị tổn thương.",
+    "Điện thế tổn thương có cùng dạng như nhau trên các đối tượng sinh vật.",
+    "Nơi bị tổn thương dương hơn so với vùng không bị tổn thương.",
+    "Giá trị của hiệu điện thế giảm dần và biến đổi chậm theo thời gian."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb2rs80p",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Quá trình hình thành điện thế hoạt động của tế bào:",
+   "o": [
+    "Tế bào bị kích thích, đảo cực, khử cực, tái phân cực.",
+    "Tế bào bị kích thích, đảo cực, tái phân cực, khử cực.",
+    "Tế bào bị kích thích, khử cực, đảo cực, tái phân cực.",
+    "Tế bào bị kích thích, khử cực, tái phân cực, đảo cực."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb2xrreh",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Phát biểu SAI về hưng phấn:",
+   "o": [
+    "Là sự chuyển từ trạng thái nghỉ ngơi sang trạng thái hoạt động.",
+    "Nơron thực hiện chức năng chuyển tín hiệu kích thích thành tín hiệu điện và dẫn truyền sóng hưng phấn.",
+    "Phản ứng trả lời kích thích diễn ra ở cơ quan: mô, tế bào và cả ở mức độ phân tử.",
+    "K+ có vai trò chính trong việc hình thành nên điện thế hoạt động."
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb2wonln",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Dòng điện hưng phấn muốn truyền từ Noron trước sang Noron sau phải vượt qua:",
+   "o": [
+    "Eo Ranvie",
+    "Xinap",
+    "Chất nền",
+    "Lớp Myelin"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtepfb33z334",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Dòng điện một chiều không có tính chất nào sau đây?",
+   "o": [
+    "Chiều dòng điện không thay đổi.",
+    "Cường độ dòng điện không thay đổi.",
+    "Chiều dòng điện thay đổi liên tục.",
+    "Dòng điện một chiều ký hiệu DC."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb3ncowe",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Dòng điện một chiều không được tạo ra từ nguồn nào sau đây?",
+   "o": [
+    "Ắc quy",
+    "Nguồn pin",
+    "Năng lượng mặt trời",
+    "Máy phát điện xoay chiều"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb3xcdur",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Phát biểu nào sau đây không đúng?",
+   "o": [
+    "Chúng ta có thể bắt gặp điện một chiều trong các thiết bị như: pin, sạc điện thoại, bình ắc quy, …",
+    "Đối với điện DC thì trên thiết bị chứa điện DC sẽ ký hiệu âm (-) và dương (+).",
+    "Dòng điện một chiều được ký hiệu DC.",
+    "Chiều dòng điện được quy ước đi từ âm sang dương."
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb3vko96",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Chọn câu phát biểu đúng về dòng điện xoay chiều:",
+   "o": [
+    "Điện xoay chiều được ký hiệu là DC.",
+    "Là dòng điện có chiều và độ lớn không đổi theo thời gian.",
+    "Dòng điện xoay chiều thường được ký hiệu là chữ AC hoặc dấu ngã (~).",
+    "Nguồn cung cấp dòng điện xoay chiều là ắc quy."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb3jn4ll",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Tác dụng nào sau đây không phải là tác dụng của dòng điện một chiều",
+   "o": [
+    "Tác dụng do sự tập trung của các ion",
+    "Tác dụng vận mạch",
+    "Tác dụng lên hệ thần kinh",
+    "Tác dụng khuếch tán"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb3ixvz7",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Tác dụng của dòng điện cao tần trên cơ thể dựa trên nền tảng cơ bản là:",
+   "o": [
+    "Làm tăng nhiệt độ của tổ chức và kích thích gây ra hiệu ứng sinh học.",
+    "Tác động kích thích vận động.",
+    "Tác động làm co và giãn cơ.",
+    "Làm giảm nhiệt độ của tổ chức và không gây ra hiệu ứng sinh học."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtepfb32vnb9",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Chọn câu sai. Các thông số phụ thuộc thời gian của một xung điện động là:",
+   "o": [
+    "Thời gian xung",
+    "Thời gian pha",
+    "Khoảng giữa xung",
+    "Cường độ xung"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb36ntd5",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Chọn câu phát biểu sai. Người ta phân loại dòng điện xung căn cứ vào:",
+   "o": [
+    "Tần số dòng điện",
+    "Loại dòng điện",
+    "Chế độ phát xung",
+    "Cường độ dòng điện"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb3gaftp",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Hình bên là hình ảnh của dòng xung? (xem câu 48, 49 gốc)",
+   "o": [
+    "Đơn pha",
+    "Hai pha",
+    "Đối xứng",
+    "Bất đối xứng"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtepfb38ggzm",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Hình bên là hình ảnh của dòng xung? (xem câu 48, 49 gốc )",
+   "o": [
+    "Gai nhọn liên tục đều",
+    "Gai nhọn biến đổi biên độ",
+    "Gai nhọn biến đổi tần số",
+    "Gai nhọn có nhịp nghỉ"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb39ktuy",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Tia ion nào sau đây thuộc loại hạt vật chất?",
+   "o": [
+    "Tia tử ngoại",
+    "Tia X (tia Rontghen)",
+    "Tia g (tia Gamma)",
+    "Tia Nơtron (n)"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb3cc8on",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Phát biểu nào sau đây là sai khi nói về ion hoá:",
+   "o": [
+    "Tia ion hoá là bất kì bức xạ nào có khả năng ion hoá nguyên tử hay phân tử mà nó gặp trên đường đi.",
+    "Tia ion hoá luôn có bản chất là sóng điện từ.",
+    "Tác động trực tiếp của ion hoá là trực tiếp truyền năng lượng cho đối tượng.",
+    "Tác động gián tiếp của ion hoá là truyền năng lượng cho các thành phần có sẵn trong môi trường, tạo nên các sản phẩm và sau đó chính các sản phẩm này sẽ phá hỏng đối tượng."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtepfb3l1i2z",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Sắp xếp theo thứ tự tăng dần về khả năng đâm xuyên của các ion hoá sau:",
+   "o": [
+    "Tia Alpha (a), tia Beta (b), tia Rơntghen (X), tia Gamma (g).",
+    "Tia Alpha (a), tia Rontghen (X), tia Beta (b), tia Notron (n).",
+    "Tia Alpha (a), tia Beta (b), tia Notron (n), tia Rontghen (X).",
+    "Tia Alpha (a), tia Beta (b), tia Notron (n), tia Gamma (g)."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtepfb3oq06s",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Trong các tia sau đây, tia nào có mức độ ion hoá mạnh nhất?",
+   "o": [
+    "Tia Beta (b)",
+    "Tia Alpha (a)",
+    "Tia Gamma (g)",
+    "Tia Rontghen (X)"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtepfb3anuwi",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Trong các tia sau đây tia nào có mức độ đâm xuyên mạnh nhất?",
+   "o": [
+    "Tia Beta (b)",
+    "Tia Alpha (a)",
+    "Tia Gamma (g)",
+    "Tia Notron (n)"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb3xamrt",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Phát biểu nào sau đây sai khi nói về tính chất của tia X?",
+   "o": [
+    "Khả năng đâm xuyên tốt.",
+    "Không có tác dụng lên kính ảnh.",
+    "Có khả năng ion hoá không khí và các chất khí.",
+    "Tác dụng sinh học rất mạnh: huỷ hoại tế bào, diệt vi khuẩn, …"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtepfb3qnxyr",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Các bộ phận thiết bị cơ bản sử dụng trong phương chụp X-quang được bố trí theo thứ tự",
+   "o": [
+    "Bộ phận phát tia X, bộ phận cơ thế cần chuẩn đoán, bộ phận thu nhận tín hiệu, bộ phận xử lí tín hiệu.",
+    "Bộ phận cơ thể cần chuẩn đoán, bộ phận phát tia X, bộ phận thu nhận tín hiệu, bộ phận xử lí tín hiệu.",
+    "Bộ phận thu nhận tín hiệu, bộ phận cơ thể cần chuẩn đoán, bộ phận phát tia X, bộ phận xử lí tín hiệu.",
+    "Bộ phận phát tia X, bộ phận thu nhận tín hiệu, bộ phận cơ thể cần chuẩn đoán, bộ phận xử lí tín hiệu."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtepfb36t5n9",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Trong phương pháp chụp cắt lớp (CT – Computed Tomography), tia bức xạ nào sau đây được sử dụng",
+   "o": [
+    "Tia Alpha (a)",
+    "Tia Beta (b)",
+    "Tia Gamma (g)",
+    "Tia Rontghen (X)"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb33s3lm",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Trong cấu tạo máy chụp cắt lớp (CT – Computed Tomography), phát biểu nào sau đây không đúng?",
+   "o": [
+    "Hệ thống đầu dò được tăng số dây lên nhằm mục đích thu được nhiều hình ảnh chụp cắt lớp hơn và lớp cắt có độ mỏng hơn.",
+    "Tốc độ quét của chùm tia X càng nhanh nghĩa là thời gian chụp càng ngắn.",
+    "Các lát cắt càng mỏng thì sẽ thu được nhiều hình ảnh hơn, rõ nét hơn, tầm soát sẽ tốt hơn.",
+    "Số lát cắt càng tăng lên nghĩa là bệnh nhân chịu một liều ion hoá càng giảm đi."
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb3evvxp",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Nguyên tắc chung trong chuẩn đoán hình ảnh bằng phương pháp chụp X-quang và phương pháp chụp cắt lớp (chụp CT) là:",
+   "o": [
+    "Dựa trên mức độ phản xạ tia X khác nhau của các mô trong mẫu vật (bệnh nhân).",
+    "Dựa trên mức độ hấp thụ tia X khác nhau của các mô trong mẫu vật (bệnh nhân).",
+    "Dựa trên tốc độ quay của máy phát tia X.",
+    "Dựa trên tốc độ xử lí số liệu của thiết bị."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtepfb3opd70",
+   "s": "mwtej4nrfj0tt",
+   "sh": false,
+   "q": "Tìm phát biểu đúng về chuyển động trong phân tử",
+   "o": [
+    "Các electron tự xoay xung quanh nó.",
+    "Các electron tự xoay xung quanh hạt nhân.",
+    "Các electron hạt nhân tự xoay.",
+    "Tất cả đều đúng."
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb349vjz",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Trong hình ảnh chụp MRI cơ bản, tín hiệu hình ảnh thu được chủ yếu là tín hiệu của chất nào?",
+   "o": [
+    "Protein",
+    "Xương",
+    "Chất béo và nước",
+    "Chất điện giải"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb3eiz7c",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Những hạt nhân nào dưới đây được gọi là hạt nhân không có khả năng tạo tín hiệu trong NMR – MRI?",
+   "o": [
+    "1H",
+    "13C",
+    "16O",
+    "19F"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb33sxhu",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Khi đặt các Spin vào từ trường B0, vecto từ M của tổng các Spin sẽ có phương và hướng như thế nào?",
+   "o": [
+    "Phương và hướng cùng chiều với B0.",
+    "Phương và hướng ngược chiều với B0.",
+    "Phương vuông góc với B0, và hướng trái hay phải tuỳ vào các Spin.",
+    "Phương và hướng không xác định."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtepfb30f2ub",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Trong chụp MRI, để có hiện tượng cộng hưởng xảy ra, xung kích thích phải có tần số như thế nào?",
+   "o": [
+    "Tần số vùng sóng radio",
+    "Tần số Lamor",
+    "Tần số siêu âm",
+    "Tần số hạ âm"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtepfb3gget7",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Quá trình hồi phục (relaxation) trong MRI là quá trình gì?",
+   "o": [
+    "Hấp thu năng lượng kích thích.",
+    "Giải phóng năng lượng sau kích thích.",
+    "Bức xạ năng lượng sau kích thích.",
+    "Bức xạ năng lượng trước kích thích."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtepfb358z36",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Thời gian hồi phục T1 là gì?",
+   "o": [
+    "Thời gian để M trở về trạng thái ban đầu trên trục đứng Oz.",
+    "Thời gian để M biến đổi pha quay trên mặt phẳng nằm ngang xOy.",
+    "Thời gian để M trở về trạng thái ban đầu sau kích thích.",
+    "Khoảng thời gian M nhận xung kích thích."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtepfb3f7wkg",
+   "s": "mwtej4nrfj0tt",
+   "sh": false,
+   "q": "Thời gian hồi phục T1 được định nghĩa như thế nào?",
+   "o": [
+    "Khoảng thời gian để Mz giãn hồi đến khi giá trị của nó bằng 1/3 M0.",
+    "Khoảng thời gian để Mz giãn hồi đến khi giá trị của nó bằng 2/3 M0.",
+    "Khoảng thời gian để Mz giãn hồi đến khi giá trị của nó bằng M0.",
+    "Tất cả đều sai."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtepfb3xvy1m",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Thời gian hồi phục T2 được định nghĩa như nào?",
+   "o": [
+    "Là thời gian để các thành phần của M trên mặt phẳng ngang giãn hồi bằng khoảng 1/3 giá trị ban đầu.",
+    "Là thời gian để các thành phần của M trên mặt phẳng ngang giãn hồi bằng khoảng 2/3 giá trị ban đầu.",
+    "Là thời gian để các thành phần của M trên trục đứng lên đến 1/3 giá trị ban đầu.",
+    "Là thời gian để các thành phần của M trên trục đứng lên đến 2/3 giá trị ban đầu."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtepfb3nt2ok",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Momen từ của hạt nhân hidro chính là momen từ của:",
+   "o": [
+    "Photon",
+    "Proton",
+    "Notron",
+    "Electron"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtepfb3nqkfk",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Trong các tia bức xạ ion hóa, tia nào mang bản chất sóng điện từ",
+   "o": [
+    "Tia X, tia Gamma (g)",
+    "Tia X, tia Alpha (a)",
+    "Tia Gamma (g), tia Beta (b)",
+    "Tia Alpha (a), tia Beta (b)"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtepfb3pcsgp",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Điện tâm đồ của người này so với người khác:",
+   "o": [
+    "Đồng nhất về hình dạng của cùng một đơn sóng bất kì.",
+    "Luôn giống nhau về thành phần các đơn sóng trong một chu kì điện tim.",
+    "Khác nhau về biên độ của cùng một đơn sóng nào đó.",
+    "Đồng nhất về thời khoảng của cùng một đơn sóng bất kì."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb3zy64v",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Tác dụng quang động lực là sự tổn thương….. (I)… một số chức năng sinh lý và cấu trúc dưới tác dụng của ….. (II)….… với sự có mặt của ….(III)..…",
+   "o": [
+    "I: không phục hồi, II: ánh sáng, III: ôxi + chất màu.",
+    "I: có thể phục hồi, II: bức xạ ion hóa, III: ôxi + chất màu.",
+    "I: có thể phục hồi, II: ánh sáng, III: ôxi + chất màu.",
+    "I: không phục hồi, II: bức xạ ion hoá, III: ôxi + chất màu."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtepfb328hyl",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Kích thích càng mạnh thì",
+   "o": [
+    "Xung điện động kéo dài càng lâu.",
+    "Biên độ xung điện thế hoạt động càng lớn.",
+    "Vùng bị kích hoạt trên màng tế bào càng rộng.",
+    "Thời gian kéo dài và biên độ xung điện động vẫn không thay đổi."
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb3rx0fi",
+   "s": "mwtej4nrfj0tt",
+   "sh": false,
+   "q": "Mắt cận thị là mắt:",
+   "o": [
+    "Chỉ có khả năng nhìn gần.",
+    "có điểm cực viễn ở cách mắt một khoảng hữu hạn.",
+    "Ở trạng thái thư giãn, có tiêu điểm ở trước võng mạc.",
+    "Cả A, B, C đều đúng."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb3wecsd",
+   "s": "mwtej4nrfj0tt",
+   "sh": false,
+   "q": "Về nguyên nhân tồn tại tính phóng xạ của các hạt nhân trong tự nhiên:",
+   "o": [
+    "Các proton mang điện tích cùng dấu đẩy nhau nên hạt nhân không bền vững.",
+    "Lực liên kết giữa các nucleon không đủ mạnh để giữ hạt nhân bền vững.",
+    "Xu hướng hạt nhân nặng giải phóng dự trữ năng lượng lớn của nó.",
+    "Cả A, B, C đều đúng."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtepfb3ol10a",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Điểm cực viễn của mắt không có tật là:",
+   "o": [
+    "Điểm mà nhìn vào đó mắt phải điều tiết tối đa.",
+    "Điểm xa nhất trên trục nhìn mà đặt vật ở đó, mắt còn nhìn thấy rõ, không cần điều tiết.",
+    "Điểm ở xa vô cùng trên trục nhìn.",
+    "Điểm xa nhất mà mắt còn nhìn rõ."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtepfb3x8onn",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Phương trình cân bằng vận chuyển điện tích qua màng tế bào được xây dựng trong điều kiện",
+   "o": [
+    "Có tính đến sự tham gia của các iôn hoá trị 2 như Ca++, Mg++….",
+    "Không tính đến sự vận chuyển thụ động.",
+    "Tổng điện tích được vận chuyển qua màng trong một đơn vị thời gian theo 2 hướng ngược nhau là bằng nhau.",
+    "Chỉ tính đến sự vận chuyển hai loại ion K+, Cl- qua màng mà không tính đến sự vận chuyển của ion Na+."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb3c7g47",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Quá trình nhìn có thể biểu diễn thông qua sơ đồ tổng hợp và phân hủy sắc tố thị giác : Rodopxin <-> opxin + Retinal. Khi độ rọi sáng tăng",
+   "o": [
+    "Hàm lượng Rodopxin được điều chỉnh thông qua phản ứng hóa sinh trung gian.",
+    "Cân bằng sẽ dịch chuyển sang phải.",
+    "Cân bằng sẽ dịch chuyển sang trái.",
+    "Hàm lượng Rodopxin được điều chỉnh bằng cách bổ xung Retinal lấy từ vitamin A dự trữ."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtepfb3b6n9x",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Chọn nhận xét đúng về thị giác Scoto:",
+   "o": [
+    "Các tế bào que và tế bào nón cùng tham gia vào quá trình này.",
+    "Trong quá trình nhìn này Rodopxin phân hủy thành Opxin và Retinal.",
+    "Chỉ có các tế bào nón tham gia vào quá trình này.",
+    "Ánh sáng tác dụng lên mắt trong thị giác Scoto có độ rọi lớn."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtepfb34yulp",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Đặc điểm khác nhau giữa điện thế nghỉ và điện thế hoạt động I. Tính định xứ II. Thời gian tồn tại III. Dấu của điện thế",
+   "o": [
+    "I và III",
+    "II và III",
+    "I, II và III",
+    "I và II"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb3uvxg5",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Tác dụng của dòng điện lên cơ thể:",
+   "o": [
+    "Dòng một chiều làm thay đổi tính thấm màng tế bào do đó có thể làm tăng trao đổi chất.",
+    "Gây tử vong chủ yếu do toả nhiệt.",
+    "Dòng một chiều gây kích thích cơ và thần kinh là chủ yếu.",
+    "Xung điện gây các phản ứng hoá học trong cơ thể và dưới các điện cực."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtepfb3b3mzm",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Về kính sửa tật cân thị:",
+   "o": [
+    "Mắt cận thị đeo kính phân kỳ để nhìn rõ vật ở gần như mắt không tật.",
+    "Mắt cận thị đeo kính hội tụ để nhìn rõ vật ở xa vô cực như mắt không tật.",
+    "Mắt cận thị đeo kính hội tụ để nhìn rõ vật ở gần như mắt không tật.",
+    "Mắt cận thị đeo kính phân kỳ để nhìn rõ vật ở xa vô cực như mắt không tật."
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb3ats70",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Đặc điểm của phương pháp đánh dấu phóng xạ:",
+   "o": [
+    "Khối lượng chất đánh dấu phóng xạ thường rất nhỏ.",
+    "Chỉ có thể đưa chất phóng xạ vào cơ thể bằng hình thức tiêm hoặc uống.",
+    "Có thể dùng chất phóng xạ có sẵn trong cơ thể.",
+    "Chỉ đánh dấu PX được các chất vô cơ mà không đánh dấu với các chất hữu cơ vì khối lượng của chúng quá lớn."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtepfb33ming",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Xác định phát biểu sai về cơ sở phân tử của sự thụ cảm ánh sáng:",
+   "o": [
+    "Ở tế bào que có Iodopxin, ở tế bào nón có Rodopxin là các sắc tố thụ cảm ánh sáng.",
+    "Ở võng mạc người ta thấy có các tế bào thụ cảm ánh sáng là tế bào nón và tế bào que.",
+    "Sự tái tạo Rodopxin (hoặc Iodopxin) trong bóng tối được thực hiện dưới tác dụng của năng lượng hoá sinh.",
+    "Phản ứng quang hoá phân huỷ Iodop xin (hoặc Rodopxin) làm phát sinh các xung động thần kinh truyền vào dây thần kinh thị giác."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtepfb31sxs9",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Trong hiệu ứng quang động lực, tác dụng của ánh sáng lên cơ thể sống là:",
+   "o": [
+    "Tác dụng trực tiếp.",
+    "Tác dụng tổng hợp.",
+    "Tác dụng gián tiếp.",
+    "Tác dụng phân tích."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtepfb3coq6r",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Khả năng hội tụ chùm tia laser vào một điểm rất nhỏ đạt được là nhờ:",
+   "o": [
+    "Tính đơn sắc của chùm tia laser.",
+    "Tính kết hợp của chùm tia laser.",
+    "Tia laser có thể tồn tại ở dạng xung.",
+    "Tia laser có cường độ lớn."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtepfb3dvx3l",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Khả năng phân ly của kính hiển vi bị giới hạn bởi hiện tượng:",
+   "o": [
+    "Giao thoa ánh sáng.",
+    "Nhiễu xạ ánh sáng.",
+    "Hấp thụ ánh sáng.",
+    "Phản xạ ánh sáng."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtepfb38jcr9",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Mức độ gây nguy hiểm của dòng điện khi đi qua cơ thể chủ yếu được quyết định bởi",
+   "o": [
+    "Đường dẫn truyền qua cơ thể.",
+    "Tần số của dòng điện.",
+    "Hiệu điện thế đặt vào cơ thể.",
+    "Cường độ dòng điện đi qua cơ thể."
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb34u50m",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Từ các cơ chế của tác dụng quang động lực người ta thấy chất màu đóng vai trò xúc tác quang hoá ở trạng thái .............(I)................ và nó ...............(II) ............... ở cuối phản ứng.",
+   "o": [
+    "I : triplet ; II : bị phân huỷ.",
+    "I : singlet ; II : được tái tạo.",
+    "I : singlet ; II : bị phân huỷ.",
+    "I : triplet ; II : được tái tạo."
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb3x67iw",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Cận thị là tật của mắt mà khi mắt không điều tiết thì:",
+   "o": [
+    "Không nhìn rõ những vật ở gần.",
+    "Tiêu điểm của mắt nằm trước võng mạc.",
+    "Tiêu điểm của mắt nằm sau võng mạc.",
+    "Ảnh của các vật ở vô cùng hiện lên ở điểm cực viễn của mắt."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtepfb35l5mo",
+   "s": "mwtej4nrfj0tt",
+   "sh": false,
+   "q": "Có 4 chùm hạt α, p+ ,p- , γ cùng mật độ cùng xuyên vào tấm chì dày 5 cm, sau tấm chì ta thấy còn có các loại hạt:",
+   "o": [
+    "Tia γ",
+    "p+,p- và tia γ",
+    "Không có hạt nào",
+    "α và p-"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtepfb35qi4l",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Ảnh cắt lớp sử dụng tín hiệu là ……….(I)……... cho chúng ta thông tin về cấu trúc của phần tử thể tích, tức là …..…. (II) ……….",
+   "o": [
+    "(I) : thời gian hồi phục T1, T2, (II) : chứa nhiều loại chất gì : máu , chất dịch, não hay tuỷ….",
+    "(I) : tín hiệu cảm ứng suy giảm tự do FID, (II) : chứa nhiều loại chất gì : chất dịch, não hay tuỷ….",
+    "(I) : tín hiệu cảm ứng suy giảm tự do FID, (II) : chứa nước, mỡ hay máu…",
+    "(I) : thời gian hồi phục T1, T2, (II) : chứa nhiều hay ít proton (mật độ proton)"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtepfb35iyr2",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Xác định phát biểu sai về hiệu ứng sinh học của tia phóng xạ đối với cơ thể sống:",
+   "o": [
+    "Tế bào có thể mất khả năng phân chia.",
+    "Nhân tế bào bị tổn thương ít hơn so với màng.",
+    "Các phân tử protein bị đứt gãy làm giảm khả năng hoạt động chức năng một số mô.",
+    "Cấu trúc của ADN có thể bị thay đổi tạo ADN dị thường."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtepfb38f0jm",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Vật kính và thị kính trong kính hiển vi có vai trò:",
+   "o": [
+    "Vật kính tạo ra ảnh ảo rất lớn của vật cần quan sát và thị kính dùng như một kính lúp để quan sát ảnh ảo nói trên.",
+    "Thị kính tạo ra ảnh thật rất lớn của vật cần quan sát, vật kính dùng như một kính lúp để quan sát ảnh nói trên.",
+    "Thị kính tạo ra ảnh ảo rất lớn của vật cần quan sát, vật kính dùng như một kính lúp để quan sát ảnh nói trên.",
+    "Vật kính tạo ra một ảnh thật rất lớn của vật cần quan sát và thị kính dùng như một kính lúp để quan sát ảnh nói trên."
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb3f1til",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Cơ sở của phương pháp phân tích cấu trúc vĩ mô bằng tia X (phương pháp chẩn đoán bằng hình ảnh do tia X tạo ra):",
+   "o": [
+    "Tia X là sóng điện từ có bước sóng nhỏ hơn 10-2 μm.",
+    "Tia X mang năng lượng  = hf",
+    "Tia X phản xạ, khúc xạ giống như ánh sáng.",
+    "Định luật hấp thụ tia X: I = I0. e-μ x"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb3pqhcp",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Cơ sở của cơ chế tác dụng trực tiếp của các bức xạ iôn hoá lên cơ thể sống",
+   "o": [
+    "Ảnh hưởng của hàm lượng nước và nhiệt độ đối với các hiệu ứng sinh học do chiếu xạ.",
+    "Ảnh hưởng của nồng độ oxy đối đối với các hiệu ứng sinh học do chiếu xạ.",
+    "Bức xạ ion hóa có khả năng kích thích hoặc ion hóa mọi loại phân tử, bao gồm cả các đại phân tử hữu cơ.",
+    "Sự xuất hiện của các gốc tự do và phân tử H2O2 trong đối tượng bị chiếu xạ."
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb39otuj",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Khả năng đâm xuyên của các bức xạ hãm trong chùm tia X phụ thuộc vào ...................",
+   "o": [
+    "Bản chất kim loại làm anốt.",
+    "Cường độ dòng đốt nóng katốt.",
+    "Hiệu điện thế anốt-katốt.",
+    "Bản chất kim loại làm katốt."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb3uepl1",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Lân quang là sự bức xạ lượng tử ánh sáng do các phân tử, nguyên tử phát ra khi chúng:",
+   "o": [
+    "Chuyển từ trạng thái kích thích singlet về trạng thái cơ bản.",
+    "Chuyển từ trạng thái kích thích triplet về trạng thái cơ bản.",
+    "Chuyển từ trạng thái kích thích mạnh về trạng thái kích thích yếu hơn.",
+    "Chuyển từ trạng thái kích thích triplet này sang trạng thái kích thích triplet khác."
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb3v5sqi",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Ánh sáng bị tán sắc bởi lăng kính thuỷ tinh vì:",
+   "o": [
+    "Mỗi màu có bước sóng riêng.",
+    "Lăng kính trong suốt.",
+    "Ánh sáng trắng có bảy màu.",
+    "Chiết suất thuỷ tinh đối với ánh sáng đơn sắc có λ khác nhau thì khác nhau."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb3di1ag",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Nhận xét về quĩ đạo của các hạt vi mô tích điện khi xuyên vào vật chất:",
+   "o": [
+    "Quĩ đạo hạt proton là đường ngoằn ngoèo, gấp khúc.",
+    "Quĩ đạo hạt p- là đường thẳng.",
+    "Quĩ đạo hạt p- là đường ngoằn nghoèo, gấp khúc.",
+    "Quĩ đạo hạt α là đường ngoằn nghèo, gấp khúc."
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb3bgslz",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Dùng …………… để rút lại lượng nước thừa từ buồng trước của mắt để chống lại sự tăng nhãn áp",
+   "o": [
+    "Dung dịch đẳng trương.",
+    "Dung dịch ưu trương.",
+    "Dung dịch nhược trương.",
+    "Dung dịch muối."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtepfb3cb8ls",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Các cơ chế vận chuyển vật chất qua màng tế bào",
+   "o": [
+    "Vận chuyển thụ động với sự giúp đỡ của các protein vận chuyển và năng lượng ATP.",
+    "Vận chuyển tích cực với sự giúp đỡ của các chất mang và năng lượng dự trữ trong các loại gradient ở vùng màng.",
+    "Khuếch tán đơn giản qua lớp lipid kép đối với các phân tử khí, phân tử thích nước và có kích thước nhỏ.",
+    "Khuếch tán qua các kênh protein và kênh ion dành cho các phân tử thích nước và các ion."
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb321sqy",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Áp suất phụ tác dụng lên mặt thoáng cong của chất lỏng:",
+   "o": [
+    "Có độ lớn tỷ lệ nghịch với khối lượng riêng của chất lỏng và độ cong của mặt thoáng.",
+    "Có chiều độc lập với sự định hướng của mặt cong.",
+    "Có độ lớn phụ thuộc vào bản chất của chất lỏng và độ cong của mặt thoáng.",
+    "Có phương luôn tiếp xúc với mặt thoáng."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb38zefr",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Tại phổi oxi O2 được khuếch tán từ phế nang vào các mao tĩnh mạch, còn khí cacbonic CO2 được khuếch tán từ mao tĩnh mạch vào phế nang là do",
+   "o": [
+    "phân áp O2 ở phế nang cao hơn ở tĩnh mạch.",
+    "phân áp O2 ở mao tĩnh mạch cao hơn ở phế nang.",
+    "phân áp CO2 ở phế nang cao hơn ở mao tĩnh mạch.",
+    "phân áp CO2 ở phế nang thấp hơn môi trường."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtepfb3ty2mo",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Giữa hai đầu một đoạn mạch trong hệ tuần hoàn yếu tố nào sau đây không thay đổi:",
+   "o": [
+    "Áp suất",
+    "Vận tốc",
+    "Năng lượng",
+    "Lưu lượng"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb3rabfj",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Dung dịch:",
+   "o": [
+    "Dung dịch ưu trương có áp suất thẩm thấu nhỏ hơn áp suất thẩm thấu của dung dịch chuẩn.",
+    "Dung dịch nhược trương có áp suất thẩm thấu lớn hơn áp suất thẩm thấu của dung dịch chuẩn.",
+    "Tế bào để trong dung dịch nhược trương sẽ bị mất nước và teo lại.",
+    "Dung dịch đẳng trương có áp suất thẩm thấu bằng áp suất thẩm thấu của dung dịch chuẩn."
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb39ikbx",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Khi cơ thể chuyển từ trạng thái nghỉ ngơi sang trạng thái hoạt động tích cực, biện pháp quan trọng và hiệu quả nhất mà hệ tuần hoàn đã thực hiện để cung cấp đủ oxi và các chất dinh dưỡng là:",
+   "o": [
+    "Giảm bớt hoạt động của một số tổ chức không cần thiết nhằm ổn định lưu lượng máu lưu thông trong hệ mạch.",
+    "Giãn mạch để tăng lưu lượng máu lưu thông theo công thức Poadơ.",
+    "Tăng nhịp đập của tim.",
+    "Tăng áp suất máu để đẩy được một lượng máu lớn vào hệ mạch theo công thức Poadơ."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtepfb35n4m8",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Về siêu âm",
+   "o": [
+    "Một thanh sắt từ khi bị từ hóa thì chiều dài của nó tăng lên một chút, đó là hiện tượng từ giảo.",
+    "Các chất dùng làm nguồn phát và thu siêu âm có khả năng biến dạng lớn dưới tác dụng của ngoại lực và có khả năng đàn hồi lớn.",
+    "Nguyên tắc thu siêu âm dựa vào hiệu ứng áp điện nghịch.",
+    "Nguyên tắc phát siêu âm dựa vào hiệu ứng áp điện thuận và hiện tượng từ giảo."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtepfb3yx4t6",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Nếu con người từ tư thế nằm chuyển sang tư thế đứng",
+   "o": [
+    "Ở kỳ tâm trương lượng máu từ các tĩnh mạch dưới đổ về tim bị giảm bớt.",
+    "Do tác dụng của trọng lực áp suất máu ở chi dưới thay đổi đáng kể.",
+    "Áp suất máu do tim co bóp tăng lên.",
+    "Khối lượng máu được tim đẩy ra sau một lần co bóp không đổi."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtepfb3cbrgh",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Tính chất của chùm siêu âm:",
+   "o": [
+    "Với 2 chùm siêu âm có cường độ như nhau, chùm siêu âm có tần số càng lớn thì khả năng xuyên sâu vào cơ thể càng lớn.",
+    "Trong quá trình lan truyền của sóng siêu âm khi gặp các vật cản có thể xảy ra hiện tượng nhiễu xạ.",
+    "Với kích thước và hình dạng thích hợp của đầu phát có thể thu được chùm siêu âm có độ phân kỳ nhỏ.",
+    "Sóng siêu âm khi lan truyền cũng có các tính chất tương tự như sóng âm."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb4itzdu",
+   "s": "mwtej4nrfj0tt",
+   "sh": false,
+   "q": "Hai âm phức tạp khác nhau mà có cùng tần số, độ to thì khác nhau bởi:",
+   "o": [
+    "Biên độ áp suất gây ra tại màng nhĩ.",
+    "Thành phần dao động điều hoà hình sin đã tạo nên mỗi âm.",
+    "Độ cao của âm.",
+    "Cả A, B, C."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtepfb43l9n4",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Sóng âm:",
+   "o": [
+    "Là sóng ngang lan truyền được trong môi trường đàn hồi, có tần số từ 16Hz đến 20.000Hz.",
+    "Là sóng dọc lan truyền được trong mọi môi trường.",
+    "Là sóng dọc lan truyền trong môi trường đàn hồi, có tần số từ 16Hz đến 20.000Hz.",
+    "Là sóng ngang lan truyền được trong mọi môi trường, kể cả chân không."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb4lrace",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Trong 4 đặc trưng của sóng dưới đây, đặc trưng nào không liên quan đến các đặc trưng còn lại:",
+   "o": [
+    "Vận tốc truyền sóng.",
+    "Bước sóng.",
+    "Biên độ.",
+    "Tần số sóng."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb4vine0",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Sự trao đổi chất xảy ra ở thành mao mạch có động lực là",
+   "o": [
+    "Gradien áp suất thủy tĩnh, thủy động ở thành mao mạch.",
+    "Các loại gradien nồng độ ở thành mao mạch.",
+    "Các loại gradien áp suất ở thành mao mạch.",
+    "Gradien áp suất thẩm thấu ở thành mao mạch."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb4izsts",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Hiện tượng nào có liên quan đến bệnh màng phổi ở trẻ sơ sinh đẻ non:",
+   "o": [
+    "Hiện tượng thẩm thấu.",
+    "Hiện tượng tràn khí màng phổi.",
+    "Hiện tượng mao dẫn.",
+    "Hiện tượng căng mặt ngoài."
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb4aaysx",
+   "s": "mwtej4nrfj0tt",
+   "sh": false,
+   "q": "Trong hiệu ứng Doppler, f là tần số sóng từ nguồn phát ra, f’ là tần số sóng máy thu sẽ thu được, ta có: I. Nguồn và máy thu đi xa nhau f’ > f; II. Nguồn và máy thu đi lại gần nhau f’ < f",
+   "o": [
+    "I sai II đúng.",
+    "I và II đều sai.",
+    "I và II đều đúng.",
+    "I đúng II sai."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtepfb4eb0j3",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Áp suất máu giảm dần từ cửa thất trái đến cửa nhĩ phải thì khoảng làm giảm áp suất nhiều nhất là:",
+   "o": [
+    "Tiểu động mạch và tiểu tĩnh mạch.",
+    "Tĩnh mạch chủ.",
+    "Mao động mạch và mao tĩnh mạch.",
+    "Động mạch chủ."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtepfb4hb1j2",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Sự hình thành cảm giác âm ở cơ quan thính giác người",
+   "o": [
+    "Độ to của âm có được căn cứ vào tốc độ lan truyền của xung kích thích về thần kinh trung ương.",
+    "Âm có tần số lớn tạo ra chuyển động xoáy kích thích vị trí gần với đỉnh ốc tai của màng đáy.",
+    "Cảm giác độ cao hình thành phụ thuộc vào vị trí sóng âm kích thích màng đáy ở tai trong.",
+    "Âm sắc hình thành trên cơ sở số lượng xung thần kinh được truyền tới thần kinh trung ương."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb4rh2kd",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Người ta thấy các đặc trưng của cảm giác âm phụ thuộc vào các đặc trưng vật lý:",
+   "o": [
+    "Độ to không phụ thuộc vào tần số âm.",
+    "Âm sắc phụ thuộc vào tần số âm.",
+    "Độ to của âm phụ thuộc vào cường độ âm.",
+    "Độ cao của âm phụ thuộc vào thành phần cấu tạo âm."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb4yt7lq",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Để bù sự mất máu do bị thương hay mất nước do tiêu chảy, người ta đưa vào cơ thể một lượng dung dịch:",
+   "o": [
+    "Đẳng trương so với máu.",
+    "Nồng độ tùy tình trạng người bệnh.",
+    "Nhược trương so với máu.",
+    "Ưu trương so với máu."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtepfb4320ul",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Kích thích càng mạnh thì?",
+   "o": [
+    "Vùng bị kích hoạt trên màng tế bào càng rộng.",
+    "Xung điện động kéo dài càng lâu.",
+    "Thời gian kéo dài và biên độ xung điện động vẫn không thay đổi.",
+    "Biên độ xung điện thế hoạt động càng lớn."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb4ofj6d",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Tại vùng màng tế bào, gradient nào sau đây không tồn tại",
+   "o": [
+    "Gradient áp suất thẩm thấu.",
+    "Gradient điện thế.",
+    "Gradient áp suất thủy tĩnh.",
+    "Gradient nồng độ."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb4ebbm6",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Đại lượng độc lập với các điều kiện vật lý của môi trường là:",
+   "o": [
+    "Tần số âm.",
+    "Bước sóng âm.",
+    "Tốc độ lan truyền âm.",
+    "Cường độ âm."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtepfb41l029",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Tổn thương sinh học do tác dụng trực tiếp của các bức xạ iôn hoá lên cơ thể sống",
+   "o": [
+    "Phụ thuộc hàm lượng nước và nhiệt độ trong đối tượng bị chiếu xạ.",
+    "Chỉ có thể xảy ra tại khu vực bị chiếu xạ.",
+    "Do sự xuất hiện của các gốc tự do và phân tử H2O2 trong đối tượng bị chiếu xạ.",
+    "Mạnh lên khi nồng độ oxy trong đối tượng bị chiếu xạ tăng."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtepfb4089c7",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Xác định phát biểu sai về phát quang:",
+   "o": [
+    "Tắt ánh sáng kích thích, lân quang có thể tồn tại trong khoảng thời gian đáng kể rồi mới tắt.",
+    "Bước sóng huỳnh quang, lân quang ngắn hơn bước sóng kích thích.",
+    "Tắt ánh sáng kích thích, huỳnh quang tắt ngay.",
+    "Từ trạng thái cơ bản, nguyên tử hấp thụ phôtôn sẽ chuyển sang trạng thái kích thích singlet S*."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtepfb46x8lw",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Khi cơ thể chuyển từ trạng thái nghỉ ngơi sang trạng thái hoạt động tích cực, biện pháp quan trọng và hiệu quả nhất mà hệ tuần hoàn đã thực hiện để cung cấp đủ oxi và các chất dinh dưỡng là?:",
+   "o": [
+    "Giảm bớt hoạt động của một số tổ chức không cần thiết nhằm ổn định lưu lượng máu lưu thông trong hệ mạch.",
+    "Tăng áp suất máu để đẩy được một lượng máu lớn vào hệ mạch theo công thức Poadơi.",
+    "Tăng nhịp đập của tim.",
+    "Giãn mạch để tăng lưu lượng máu lưu thông theo công thức Poadơi."
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb44wtyt",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Một người cận thị phải đeo kính đúng là -2 điốp. Điểm cực viễn của mắt người này khi không đeo kính là:",
+   "o": [
+    "1m",
+    "2m",
+    "0,5m",
+    "1,5m"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb4r8sxw",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Yếu tố nào không có ý nghĩa đối với dòng chảy của máu trong tĩnh mạch",
+   "o": [
+    "Sự co bóp các cơ trơn trên thành tĩnh mạch.",
+    "Lực co bóp của tâm thất.",
+    "Các van trong tĩnh mạch.",
+    "Áp lực ép lên thành tĩnh mạch từ các cơ bao quanh."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtepfb4gnf3h",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Về kính sửa tật viễn thị:",
+   "o": [
+    "Mắt viễn thị đeo kính hội tụ để nhìn rõ vật ở xa vô cực như mắt không tật.",
+    "Mắt viễn thị đeo kính phân kỳ để nhìn rõ vật ở xa vô cực như mắt không tật.",
+    "Mắt viễn thị đeo kính phân kỳ để nhìn rõ vật ở gần như mắt không tật.",
+    "Mắt viễn thị đeo kính hội tụ để nhìn rõ vật ở gần như mắt không tật."
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb4kmcug",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Giữa hai đầu một đoạn mạch trong hệ tuần hoàn yếu tố nào sau đây không thay đổi:?",
+   "o": [
+    "Áp suất.",
+    "Năng lượng .",
+    "Lưu lượng.",
+    "Vận tốc."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb4mk746",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Trong hệ SI, đơn vị để đo liều hấp thụ của các bức xạ iôn hoá là:",
+   "o": [
+    "J/kg được gọi là Sievert, ký hiệu là Sv.",
+    "J/kg",
+    "W/m2",
+    "W/kg được gọi là Gray, ký hiệu là Gy."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtepfb4nk4dp",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Về các đặc trưng của cảm giác âm:",
+   "o": [
+    "Độ to của âm phụ thuộc vào cường độ âm.",
+    "Độ cao của âm phụ thuộc vào dạng đồ thị của âm",
+    "Âm sắc phụ thuộc vào tần số âm.",
+    "Ta nghe được mọi âm có mức cường độ lớn hơn 0 dB."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtepfb47vbnx",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Khi ánh sáng có độ rọi lớn (thị giác Photo)",
+   "o": [
+    "Cả 2 loại tế bào cảm thụ ánh sáng đều tham gia vào quá trình nhìn.",
+    "Chỉ có tế bào que tham gia vào quá trình nhìn.",
+    "Chỉ có tế bào nón tham gia vào quá trình nhìn.",
+    "Tùy thuộc thời gian ánh sáng tác dụng lên võng mạc, tương ứng sẽ có một loại tế bào cảm thụ ánh sáng tham gia vào quá trình nhìn."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtepfb4pz5ae",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Áp suất thẩm thấu của một dung dịch:",
+   "o": [
+    "Không phụ thuộc khả năng phân li hay kết hợp của các chất tan trong dung dịch.",
+    "Phụ thuộc mật độ tất cả các phần tử phân tán trong dung dịch.",
+    "Phụ thuộc nồng độ mol của chất tan trong dung dịch.",
+    "Càng lớn khi phân tử lượng của chất hoà tan càng lớn."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtepfb4mn71l",
+   "s": "mwtej4nrfj0tt",
+   "sh": false,
+   "q": "Âm đến tai ta càng xa nguồn càng yếu vì:",
+   "o": [
+    "Cả 3 nguyên nhân còn lại.",
+    "Phản xạ, khúc xạ, nhiễu xạ…",
+    "Phân bố năng lượng trên mặt cầu bán kính ngày càng lớn.",
+    "Năng lượng mất bớt do ma sát."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtepfb48ua19",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Màu sắc của ánh sáng đơn sắc không liên quan với:",
+   "o": [
+    "Biên độ sóng sáng.",
+    "Chu kỳ sóng sáng.",
+    "Tần số sóng sáng.",
+    "Bước sóng."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtepfb4nmj9g",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Trong ngân hàng máu, để bảo quản hồng cầu người ta dùng dung dịch chứa:",
+   "o": [
+    "Ưu trương một chút so với hồng cầu.",
+    "Đẳng trương so với hồng cầu.",
+    "Nhược trương so với hồng cầu.",
+    "Ưu trương so với hồng cầu."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtepfb4j51e1",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Một âm đến tai với mức cường độ âm 10dB. Cường độ âm ấy tại tai là:",
+   "o": [
+    "4.10-11 W/m2",
+    "2.10-11 W/m2",
+    "3.10-11 W/m2",
+    "1.10-11 W/m2"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb4wiai5",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Cận thị là tật của mắt mà khi mắt không điều tiết thì:?",
+   "o": [
+    "Ảnh của các vật ở vô cùng hiện lên ở điểm cực viễn của mắt.",
+    "Tiêu điểm của mắt nằm trước võng mạc.",
+    "Không nhìn rõ những vật ở gần.",
+    "Tiêu điểm của mắt nằm sau võng mạc."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtepfb4max6m",
+   "s": "mwtej4nrfj0tt",
+   "sh": false,
+   "q": "Dòng điện dễ gây tổn thương cho cơ thể sống là do:",
+   "o": [
+    "Cơ và thần kinh rất nhạy cảm với kích thích điện.",
+    "Dòng điện gây hiệu ứng nhiệt.",
+    "Cơ thể là môi trường dẫn điện tốt.",
+    "Cả ba phương án trên."
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb4dyoxx",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Trong các tia bức xạ ion hóa, tia nào mang bản chất hạt?",
+   "o": [
+    "Tia X, tia Alpha (a)",
+    "Tia Gamma (g), tia Beta (Q)",
+    "Tia Alpha (a), tia Beta (b)",
+    "Tia X, tia Gamma (g)"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb4ur4un",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Trong các tia bức xạ ion hóa, tia nào không phải do quá trình phóng xạ hạt nhân tạo ra",
+   "o": [
+    "Tia X",
+    "Tia Gamma (g)",
+    "Tia Alpha (a)",
+    "Tia Beta (b)"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtepfb46s22a",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Hãy chỉ ra công thức sai khi áp dụng định luật phóng xạ?",
+   "o": [
+    "N(t) = N0.e-lt",
+    "m(t) = m0.e-lt",
+    "N(t) = N0.2t/T",
+    "N(t) = N0.2-t/T"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb403mw7",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Điền từ còn thiếu trong phát biểu sau “Giai đoạn sinh học dưới tác động của tia phóng xạ lên cơ thể sống kéo dài từ vài ………. đến hàng chục ………. sau khi bị chiếu xạ”",
+   "o": [
+    "Giây, giờ",
+    "Ngày, tuần",
+    "Ngày, năm",
+    "Tháng, năm"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb4482ly",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Chọn phát biểu sai:",
+   "o": [
+    "Sinh vật tiến hóa càng cao thì độ nhạy cảm phóng xạ càng thấp và ngược lại.",
+    "Liều bán từ vong có ký hiệu là LD50/30 là liều gây chết 50% động vật thí nghiệm trong 30 ngày theo dõi kể từ sau khi bị chiếu xạ.",
+    "Loại nào có LD50/30 càng nhỏ thì độ nhạy cảm phóng xạ càng cao.",
+    "Loại nào có LD50/30 càng nhỏ thì độ nhạy cảm phóng xạ càng thấp."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtepfb4n7ec6",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Chọn phát biểu sai “Đối với các tế bào ung thư chúng ta ……… để điều trị”",
+   "o": [
+    "Có thể phẫu thuật",
+    "Có thể hóa trị",
+    "Có thể xạ trị",
+    "Tuyệt đối không được phẫu thuật"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb4fdrog",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Chọn đáp án sai về các chùm tia có thể dùng trong xạ trị chiều ngoài:",
+   "o": [
+    "Chùm tia X",
+    "Chùm tia Proton",
+    "Tia Gamma (g)",
+    "Tia Alpha (a)"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb4zleie",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Điền từ vào chỗ trống trong phát biểu sau “Xạ trị trong là phương thức điều trị bằng cách đưa vào cơ thể một đồng vị phóng xạ nguồn ……… dưới dạng thuốc qua đường ………, đường tiêm hoặc truyền qua động mạch, tim mạch”",
+   "o": [
+    "Hở, uống",
+    "Kín, cấy ghép",
+    "Hở, cấy ghép",
+    "Kín, uống"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtepfb4i4qrg",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Điều trị áp sát (Brachytherapy) không áp dụng trong điều trị bệnh ung thư nào?",
+   "o": [
+    "Tử cung, cổ tử cung",
+    "Tuyến tiền liệt, da",
+    "Tuyến giáp, xương",
+    "Gan"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb4sn0yt",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Xác định phát biểu sai về hiệu ứng sinh học của tia phóng xạ đối với cơ thể sống:?",
+   "o": [
+    "Cấu trúc của ADN có thể bị thay đổi tạo ADN dị thường.",
+    "Tế bào có thể mất khả năng phân chia.",
+    "Các phân tử protein bị đứt gãy làm giảm khả năng hoạt động chức năng một số mô.",
+    "Nhân tế bào bị tổn thương ít hơn so với màng."
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb4kap5j",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Các tật cận thị, viễn thị, loạn thị:",
+   "o": [
+    "Là các tật của mắt liên quan đến độ nhạy cảm của các tế bào cảm thụ ánh sáng phân bố trên võng mạc.",
+    "Là các tật của mắt có liên quan với cấu trúc hình học và khả năng khúc xạ của mắt.",
+    "Là các tật của mắt liên quan đến khả năng nhận biết màu sắc của mắt.",
+    "Là các tật của mắt liên quan đến khả năng phân ly của mắt."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtepfb4je5pz",
+   "s": "mwtej4nrfj0tt",
+   "sh": false,
+   "q": "Trong quá trình phát sinh một xung điện thế hoạt động, sự thiết lập lại trạng thái phân cực ban đầu (pha tái phân cực) trên màng tế bào diễn ra rất nhanh chóng là nhờ:",
+   "o": [
+    "Hoạt động mạnh lên của các bơm Natri.",
+    "Tính thấm của màng tế bào đối với ion Na+ tăng đột biến.",
+    "Tính thấm của màng tế bào đối với ion K+ bắt đầu tăng mạnh.",
+    "Vai trò của cả ba yếu tố còn lại."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb4af4eu",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Đặc điểm của phương pháp đánh dấu phóng xạ:?",
+   "o": [
+    "Chất đánh dấu phóng xạ có chu kì bán rã dài.",
+    "Chất đánh dấu phóng xạ không tham gia vào quá trình trao đổi chất.",
+    "Mật độ chất đánh dấu phóng xạ trong cơ thể phản ánh mức độ trao đổi chất.",
+    "Chất đánh dấu phóng xạ phát ra tia α."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb4392t6",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Sự trao đổi chất xảy ra ở thành mao mạch có động lực là?",
+   "o": [
+    "Các loại gradient áp suất tồn tại ở hai phía thành mao mạch.",
+    "Áp suất dòng chảy của máu.",
+    "Áp suất thẩm thấu keo của máu.",
+    "Các loại gradient nồng độ tồn tại ở hai phía thành mao mạch."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtepfb48hvat",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Xác định điều sai trong các phát biểu về tác dụng gián tiếp của bức xạ ion hoá lên cơ thể sống:",
+   "o": [
+    "Các gốc tự do tạo ra phát tán ra xa vùng bị chiếu xạ đầu tiên và tiếp tục gây hại.",
+    "Nếu hàm lượng O2 trong môi trường càng nhiều thì bức xạ iôn hoá càng dễ tạo H2O2.",
+    "H2O2 là một chất ôxy hoá rất mạnh nên trong tổ chức có H2O2 nó sẽ phá huỷ phần lớn các phân tử hữu cơ ở đó.",
+    "Tổn thương do tác dụng gián tiếp dừng lại khi chiếu xạ chấm dứt."
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb4aoivn",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Trong công nghệ sinh học, chiếu xạ lên sinh vật để (I) các nấm mốc, vi sinh vật gây hại, (II) hạt giống cây trồng, (III) để tạo giống mới tốt hơn sau khi chọn lọc kết quả chiếu xạ.",
+   "o": [
+    "(I) : gây đột biến gen, (II) : kích thích, (III) : (bỏ trống).",
+    "(I) : kích thích, (II) : tiêu diệt, (III) : gây đột biến gen.",
+    "(I) : tiêu diệt, (II) : kích thích, (III) : gây đột biến gen.",
+    "(I) : kích thích, (II) : gây đột biến gen, (III) : (bỏ trống)."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb4q7wea",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Tật khúc xạ của mắt không liên quan với:",
+   "o": [
+    "Chiết suất các dịch trong mắt.",
+    "Hoạt động của các cơ vòng đỡ thủy tinh thể.",
+    "Độ dài trục trước – sau của mắt.",
+    "Độ nhạy của mắt."
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb4ip5ul",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Mức độ gây nguy hiểm của dòng điện khi đi qua cơ thể chủ yếu được quyết định bởi?",
+   "o": [
+    "Cường độ dòng điện đi qua cơ thể.",
+    "Đường dẫn truyền qua cơ thể.",
+    "Hiệu điện thế đặt vào cơ thể.",
+    "Tần số của dòng điện."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtepfb4184pq",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Bản chất sự lan truyền điện thế hoạt động là",
+   "o": [
+    "Dòng điện trong môi trường điện ly ở hai phía màng tế bào.",
+    "Sự lan truyền sóng điện từ.",
+    "Sự lan truyền sóng cơ học trong môi trường đàn hồi.",
+    "Sự kích hoạt nối tiếp các vùng cạnh nhau trên màng tế bào."
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb4g411w",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Theo quan điểm của nhiệt động lực học, năng lượng “không” có khả năng sinh công và phát tán dưới dạng nhiệt độ trong cơ thể được gọi là",
+   "o": [
+    "Năng lượng liên kết",
+    "Năng lượng sinh học",
+    "Năng lượng bức xạ",
+    "Năng lượng nhiệt động"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtepfb4k8g26",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Kỹ thuật chụp X-Quang dựa vào khả năng truyền qua của tia X đối với các vật chất khác nhau trong cơ thể người để tạo hình ảnh chuẩn đoán. Ảnh có màu đen là của",
+   "o": [
+    "Mô mềm",
+    "Kim loại",
+    "Xương",
+    "Phổi"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb4xg0bb",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Laser công suất thấp được ứng dụng trong y học nhờ",
+   "o": [
+    "Hiêu ứng bay hơi",
+    "Hiệu ứng kích thích sinh học",
+    "Hiệu ứng quang cơ",
+    "Hiệu ứng quang đông"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtepfb4bi85v",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Lượng nhiệt làm tăng nhiệt độ cơ thể người lên 3°C thì sẽ làm tăng nhiệt độ vật liệu bằng polyethylene lên bao nhiêu nếu cùng khối lượng? Cho biết nhiệt dung riêng của cơ thể người bằng 3558 (J/kg°C), và nhiệt dung riêng của sắt/polyethylene bằng 2100 (J/kg°C)",
+   "o": [
+    "4,04 °C",
+    "5,08 °C",
+    "6,48 °C",
+    "7,91 °C"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtepfb4jhbwi",
+   "s": "mwtej4nrfj0tt",
+   "sh": false,
+   "q": "Sóng xung kích siêu âm có thể dùng để",
+   "o": [
+    "Giảm đau vật lý trị liệu, phá sỏi, lấy vôi răng, tăng khả năng tình dục.",
+    "Phá sỏi",
+    "Giảm đau vật lý trị liệu, phá sỏi, lấy vôi răng, điều trị loạn dương cương.",
+    "Phá sỏi, lấy vôi răng"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb4dmkvv",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Một người cận thị và mang kính 5D, khi nhìn một vật qua kính hiển vi có độ phóng đại 10 lần và độ phóng đại thị kính 4 lần thì hình ảnh thu được của 1 vật có độ phóng đại là",
+   "o": [
+    "200",
+    "20",
+    "50",
+    "40"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb4oy9ox",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Các yếu tố nhận thức và cảm xúc ảnh hưởng đến sự kiểm soát dòng tín hiệu đau hướng tâm qua cơ chế",
+   "o": [
+    "Ức chế hệ điều biến đau ly tâm.",
+    "Kích thích hệ ức chế đau ly tâm.",
+    "Ức chế hệ dẫn truyền đau hướng tâm.",
+    "Hoạt hóa hệ điều biến đau ly tâm."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb4ddp8k",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Cơ thể sống có khả năng tích lũy năng lượng tự do ở dạng các hợp chất cao năng ATP, năng lượng tự do này được lấy từ",
+   "o": [
+    "Bức xạ mặt trời",
+    "Quang hợp",
+    "Từ phân tử ADP",
+    "Quá trình phân hủy các hợp chất cao phân tử peotein, gluxid, lipid."
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb44rqza",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Bệnh nhân bị ưng thư có thể dùng phương pháp xạ trị gamma-knife sử dụng nguồn Co-60 phát tia gamma. Khi tia gamma đi vào cơ thể người không xảy ra hiện tượng nào?",
+   "o": [
+    "Hủy cặp",
+    "Tạo cặp",
+    "Hấp thụ quang điện",
+    "Tán xạ comption"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtepfb4sopkh",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Khi bán kính một tiểu động mạch giảm 25% thì",
+   "o": [
+    "Dòng máu lưu thông qua đó khoảng 55%.",
+    "Dòng máu lưu thông qua đó giảm khoảng 70%.",
+    "Dòng máu lưu thông qua đó giảm khoảng 25%.",
+    "Dòng máu lưu thông qua đó giảm khoảng 60%."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtepfb4djixo",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Sóng siêu âm xung kích cường độ 25-30% mức phá sỏi có thể dùng trong vật lý trị liệu và nam học do cơ chế",
+   "o": [
+    "Cấp tính hóa các tổn thương mạn tính.",
+    "Giảm đau và vi tuần hoàn.",
+    "Kích thích quá trình sửa chữa và tái sinh.",
+    "Kích thích quá trình tân tạo mách máu."
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb4o90fq",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Theo công thức Lambr-Beer I=Iox10-εCL. Trong đó D=-εCL. Cho biết D độc lập với đại lượng nào",
+   "o": [
+    "Bước sóng ánh sáng",
+    "Mật độ chất hấp thụ",
+    "Độ dày của vật",
+    "Cường độ ánh sáng"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb4jxsls",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Hai phương pháp SPECT và PET, thiết bị ghi nhận phóng xạ sẽ ghi nhận tia phóng xạ nào phát ra từ cơ thể người sau khi được tiêm hoặc uống dược chất phóng xạ?",
+   "o": [
+    "Alpha",
+    "Beta",
+    "Gamma",
+    "Position"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb4x1nax",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Điện tích âm xuất hiện trên bề mặt xương do hiệu ứng áp điện có tác dụng",
+   "o": [
+    "Kích thích các tế bào hủy xương.",
+    "Kích thích tái tạo mạch máu.",
+    "Kích thích các tế bào tạo xương.",
+    "Kích thích các tế bào xương."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb47lnn8",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Các kỹ thuật ứng dụng laser công suất thấp trong điều trị gồm",
+   "o": [
+    "Laser chiếu ngoài, laser châm cứu và laser rọi tĩnh mạch.",
+    "Laser chiếu ngoài, laser rọi tĩnh mạch và laser châm.",
+    "Laser chiếu ngoài và laser châm.",
+    "Laser chiếu ngoài và laser rọi tĩnh mạch."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtepfb4a2yk4",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Ảnh thu trong SPECT, PET thể hiện",
+   "o": [
+    "Khả năng gây phản xạ của phóng xạ.",
+    "Khả năng truyền qua cơ thể nhiều hay ít của tia phóng xạ.",
+    "Khả năng gây cộng hưởng hạt nhân của tia phóng xạ.",
+    "Khả năng hấp thụ dược chất phóng xạ nhiều hay ít của mô."
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb49a1tu",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Laser dùng để can thiệp các tổn thương đáy mắt dựa trên",
+   "o": [
+    "Hiệu ứng quang hóa",
+    "Hiệu ứng quang đông",
+    "Hiệu ứng quang cơ",
+    "Bay hơi tổ chức"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtepfb5mi4pt",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Đơn vị nào là nguồn phóng xạ từ thực phẩm tự nhiên có thể gây ảnh hưởng lên cơ thể người",
+   "o": [
+    "131I",
+    "60Co",
+    "40K",
+    "222Rn"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb5kwtir",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Khi khảo sát điện thế nghỉ của màng tế bào, phương trình Goldman cho các ion Na+, K+, Cl- thành phương trình Nerst khi",
+   "o": [
+    "Các ion có độ dẫn chênh lệch nhau nhiều.",
+    "Các ion phân bố bất đối xứng qua màng.",
+    "Các ion có độ dẫn xấp xỉ nhau.",
+    "Hai ion có độ dẫn quá nhỏ."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb53sxhy",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Xoa bóp giúp giảm đau do",
+   "o": [
+    "Hoạt hóa hệ điều biến đau hướng xuống.",
+    "Kích thích các sợi nhỏ A-delta và C.",
+    "Dãn cơ, tăng tuần hoàn địa phương.",
+    "Kích thích các bộ lớn A-beta."
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb5olv5a",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Kích thích điện tần số tế bào có ưu điểm",
+   "o": [
+    "Kích thích cơ mạnh.",
+    "Ít gây đau.",
+    "Ít gây đau, có thể dùng ở chế độ giao thoa.",
+    "Ít gây đau, có thể tác dụng trên các vùng tổ chức rộng và sâu."
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb5kd135",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Tốc độ tiêu hao năng lượng của một người chạy xe đạp là 1100kcal/h. Tính năng lượng tối thiểu để một người chạy xe đạp trong 3h. Biết hiệu suất chuyển hóa năng lượng khoảng 30%",
+   "o": [
+    "11x103kcal",
+    "12 x103kcal",
+    "13 x103kcal",
+    "14 x103kcal"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtepfb5tnh7f",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Photon ánh sáng nào sau đây có bước sóng nhỏ nhất?",
+   "o": [
+    "Sóng radar",
+    "Tia gamma",
+    "Radio",
+    "Ánh sáng hồng ngoại"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtepfb5ls96t",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Vì sao tai người có thể nghe rõ hai âm thanh có cường độ chênh lệch nhau hàng triệu lần, ví dụ như tiếng tàu hỏa chạy và tiếng muỗi vo ve?",
+   "o": [
+    "Sự cảm thụ âm thanh tai tỷ lệ tuyến tính với cường độ âm thanh.",
+    "Sự cảm thụ âm thanh tai không tỷ lệ tuyến tính với cường độ âm thanh.",
+    "Sự cảm thụ âm thanh tai tỷ lệ với cường độ âm thanh theo logarit cơ số 10.",
+    "Tai có khả năng phân biệt âm tốt."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtepfb5yw3bu",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Để chế tạo nhiệt kế thủy ngân có vỏ thủy tinh để đo nhiệt độ cần có hệ số giãn nở nhiệt giữa thủy ngân và thủy tinh như thế nào",
+   "o": [
+    "βHg < β thủy tinh",
+    "βHg > β thủy tinh",
+    "β Hg = β thủy tinh",
+    "β Hg = β thủy tinh = 0"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtepfb56zgg5",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Trong chụp cộng hưởng từ MRI, cơ thể người được kích thích và phát ra loại sóng từ gì để máy nhận được",
+   "o": [
+    "Sóng radio",
+    "Tia gamma",
+    "Tia X",
+    "Tia beta"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtepfb5ws684",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "2 lam kính (1) và (2) có cùng độ dày t. Độ dày biểu kiến lam kính (1) lớn hơn lam kính (2). So sánh chiết suất của 2 lam kính:",
+   "o": [
+    "(1) > (2)",
+    "(1) < (2)",
+    "(1) = (2)",
+    "(1) =< (2)"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb5pbgyb",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Cơ chế định luật Wolff",
+   "o": [
+    "Xương chịu lực tốt",
+    "Xương có nhiều khoáng",
+    "Xương có cấu trúc áp điện",
+    "Xương có khả năng tái sinh hoàn chỉnh"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb5wrs3q",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Không khí có tỉ lệ O2:N2=1:4. Hãy cho biết áp suất riêng của khí Oxy tại bề mặt nước biển biết áp suất khí quyển tại đây bằng 760mmHg.",
+   "o": [
+    "122mmHg",
+    "132 mmHg",
+    "142 mmHg",
+    "152 mmHg"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb58m43o",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Mắt người có 3 loại tế bào cảm nhận màu sắc nhưng trong thực tế chúng ta có thể phân biệt được rất nhiều màu sắc khác nhau, chứng tỏ thị giác là một quá trình:",
+   "o": [
+    "Lượng tử",
+    "Gián đoạn",
+    "Kết hợp",
+    "Chọn lọc"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb5ba335",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Trong chu kỳ TB, pha nào kém nhạy với bức xạ nhất:",
+   "o": [
+    "S",
+    "G1",
+    "G2",
+    "M"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtepfb5vigg9",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Tăng khoảng cách nguồn chiếu xạ tới cá thể bị chiếu 2 lần thì liều chiếu giảm đi bao nhiêu lần?",
+   "o": [
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb5h6of9",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Hiện tượng thể hiện ánh sang có tính hạt",
+   "o": [
+    "Giao thoa",
+    "Nhiễu xạ",
+    "Quang điện",
+    "Bức xạ"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb5kk7ju",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Vận tốc ánh sáng trong môi trường bất kỳ được tính bằng công thức:",
+   "o": [
+    "v=kf",
+    "c=3x108m/s",
+    "v=c/n",
+    "c= fλ"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb5hx7s4",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Nhiệt sản xuất trực tiếp trong quá trình trao đổi chất từ các phản ứng sinh hóa được gọi là:",
+   "o": [
+    "Nhiệt sơ cấp",
+    "Nhiệt dung thứ cấp",
+    "Nhiệt hao phí",
+    "Nhiệt thứ cấp"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtepfb5ol9gm",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Để tăng độ phân giải khi nhìn qua kính hiển vi",
+   "o": [
+    "Dùng vật kính có chiết suất bé hơn.",
+    "Thêm kính lúp trước thị kính.",
+    "Dùng ánh sáng có bước sóng ngắn hơn.",
+    "Giảm góc mở vật kính."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb56vn46",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Năng lượng có khả năng sinh công trong cơ thể được gọi là:",
+   "o": [
+    "Điện năng",
+    "Năng lượng tự do",
+    "Năng lượng liên kết",
+    "Hóa năng"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtepfb5iv9b6",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Khi vào cơ thể người, hạt nguyên tử nào sau đây làm neutron mất năng lượng nhanh nhất?",
+   "o": [
+    "Nitơ",
+    "Oxy",
+    "Cacbon",
+    "Hidro"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb58wnui",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Cơ thể người có thể phát xạ để điều hòa thân nhiệt, bức xạ đó có bước sóng trong vùng",
+   "o": [
+    "Hồng ngoại",
+    "Radio",
+    "Nhìn thấy",
+    "Tử ngoại"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtepfb57rvp7",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Nơron có thể tân sinh trong suốt cuộc đời chủ yếu là do",
+   "o": [
+    "Vận động thể chất",
+    "Vận động tinh thần",
+    "Vận động thể chất và tinh thần",
+    "Sống lành mạnh"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb5o5zrr",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Không thể dùng phương pháp nào để tạo ánh sáng phân cực từ ánh sáng thường",
+   "o": [
+    "Hấp thụ chọn lọc",
+    "Nhiễu xạ",
+    "Phản xạ",
+    "Khúc xạ"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtepfb5rdoc9",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Một hệ nhận nhiệt khi nào?",
+   "o": [
+    "Bay hơi",
+    "Nhiệt độ môi trường lớn",
+    "Tiếp xúc với vật khác",
+    "Chênh lệch nhiệt độ"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb58qf51",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Khi nhiệt độ môi trường cao hơn nhiệt độ cơ thể, nhiệt được giải phóng qua cơ chế nào?",
+   "o": [
+    "Bay hơi",
+    "Bức xạ nhiệt",
+    "Đối lưu",
+    "Dẫn nhiệt"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtepfb5onaiz",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Kích thích thần kinh bằng điện qua da (TENS) có tần số thấp, cường độ cao, giảm đau chủ yếu qua cơ chế phóng thích beta-endorphin và một số morphine nội sinh khác tại các cấu trúc trên tủy gai:",
+   "o": [
+    "TENS kinh điển",
+    "TENS kiểu châm cứu",
+    "TENS mạnh",
+    "TENS kết hợp"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtepfb5msxi3",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Kích thích thần kinh bằng điện qua da (TENS) có tần số cao, cường độ cao, giảm đau chủ yếu qua cơ chế hoạt hóa các đường ức chế đau đi xuống là:",
+   "o": [
+    "TENS kinh điển",
+    "TENS kiểu châm cứu",
+    "TENS mạnh",
+    "TENS kết hợp"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb5xeya7",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Kích thích thần kinh bằng điện qua da (TENS) có tần số cao, cường độ thấp, giảm đau chủ yếu qua cơ chế đóng cổng tại sừng sau tủy gai nhờ phóng thích dyonorphin, enkephalin và GABA là:",
+   "o": [
+    "TENS kinh điển",
+    "TENS kiểu châm cứu",
+    "TENS mạnh",
+    "TENS kết hợp"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtepfb5nb0ef",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Kích thích thần kinh bằng điện qua da (TENS) có tần số cao, cường độ thấp, được tải bằng tần số thấp, giảm đau chủ yếu qua cơ chế đóng cổng tại sừng sau tủy gai và giải phóng các morphine nội sinh mức trên tủy gai là:",
+   "o": [
+    "TENS kinh điển",
+    "TENS kiểu châm cứu",
+    "TENS mạnh",
+    "TENS kết hợp"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb5jkcy3",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Để mô tả dòng máu trong hệ mạch, không cần bổ chính nhiều mà vẫn có thể dùng",
+   "o": [
+    "Phương trình liên tục và định luật Bernoulli.",
+    "Định luật Bernoulli và định luật Poiseulle.",
+    "Phương trình liên tục và định luật Poiseulle.",
+    "Phương trình liên tục, định luật Bernoulli và định luật Poiseulle."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtepfb50o23d",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Trong định luật Bernoulli, loại áp suất có nguồn gốc ngoại lai (từ bên ngoài tác động lên chất lỏng), là nguyên nhân gây ra chuyển động của chất lỏng chính là:",
+   "o": [
+    "Áp suất thủy tĩnh",
+    "Áp suất thẩm thấu",
+    "Áp suất động",
+    "Áp suất tĩnh"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtepfb5tsppl",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Với các chất lỏng kín và không chịu nén, áp suất ngoài có thể truyền không suy giảm tới mọi điểm trong chất lỏng và thành bình là nội dung của:",
+   "o": [
+    "Nguyên lý Pascal",
+    "Phương trình liên tục",
+    "Định luật Bernoulli",
+    "Định luật Poiseulle"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtepfb5lnxjb",
+   "s": "mwtej4nrfj0tt",
+   "sh": true,
+   "q": "Trong chuẩn đoán và điều trị y khoa, tần số siêu âm được lựa chọn dựa trên",
+   "o": [
+    "Độ xuyên sâu tối ưu",
+    "Độ phân giải tối ưu",
+    "Độ xuyên sâu và độ phân giải cùng tối ưu",
+    "Sự tối ưu hóa giữa độ xuyên sâu và độ phân giải"
+   ],
+   "a": 3
   }
  ]
 }
