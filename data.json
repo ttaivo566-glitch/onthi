@@ -1,10 +1,6 @@
 {
  "subjects": [
   {
-   "id": "mwsv9i8ymyd5i",
-   "name": "Test"
-  },
-  {
    "id": "mwswttggw8ufe",
    "name": "SINH HÓA"
   },
@@ -30,32 +26,6 @@
   }
  ],
  "questions": [
-  {
-   "id": "mwsvaaciqtej8",
-   "s": "mwsv9i8ymyd5i",
-   "sh": false,
-   "q": "Test",
-   "o": [
-    "g",
-    "h",
-    "j",
-    "k"
-   ],
-   "a": 1
-  },
-  {
-   "id": "mwsvfwnkiyx4u",
-   "s": "mwsv9i8ymyd5i",
-   "sh": true,
-   "q": "Test 2",
-   "o": [
-    "1",
-    "2",
-    "3",
-    "4"
-   ],
-   "a": 1
-  },
   {
    "id": "mwsx4kpkt9qdm",
    "s": "mwswttggw8ufe",
