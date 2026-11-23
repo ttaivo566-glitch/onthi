@@ -189,12 +189,12 @@ async function persist() {
 const countOf = sid => DB.questions.filter(q => q.s === sid).length;
 
 /* ================= TRÌNH PHÂN TÍCH CÂU HỎI ================= */
-function parseInput(text, subjectId) {
+function parseInput(text, subjectId, excludeId) {
   const lines = text.split('\n').map(l => l.replace(/\r$/, ''));
   const errors = [], items = [];
   let cur = null;
   const existing = new Map();
-  DB.questions.filter(q => q.s === subjectId).forEach(q => existing.set(norm(q.q), true));
+  DB.questions.filter(q => q.s === subjectId && q.id !== excludeId).forEach(q => existing.set(norm(q.q), true));
   const seen = new Map();
   const err = (line, msg) => errors.push({ line, msg });
   const missing = c => err(c.line, `Câu bắt đầu ở dòng ${c.line} chưa có dòng đáp án "a:" (ví dụ  a:2). Hãy thêm "a:" sau các đáp án.`);
@@ -238,7 +238,7 @@ function parseInput(text, subjectId) {
 
 /* ================= ĐIỀU HƯỚNG ================= */
 let timer = null;
-function go(view, arg) { if (timer) { clearInterval(timer); timer = null; } window.scrollTo(0, 0); ({ home, review, examSetup, exam: () => examRun(arg), add: addView })[view](); }
+function go(view, arg) { if (timer) { clearInterval(timer); timer = null; } window.scrollTo(0, 0); ({ home, review, examSetup, exam: () => examRun(arg), add: addView, manage: manageView })[view](); }
 
 function subjOptions(sel) { return DB.subjects.map(s => `<option value="${s.id}" ${s.id === sel ? 'selected' : ''}>${esc(s.name)} (${countOf(s.id)})</option>`).join(''); }
 function greeting() { const h = new Date().getHours(); return h < 11 ? 'Chào buổi sáng' : h < 14 ? 'Chào buổi trưa' : h < 18 ? 'Chào buổi chiều' : 'Chào buổi tối'; }
@@ -258,6 +258,7 @@ function home() {
       <b>Môn thi:</b>
       ${DB.subjects.length ? DB.subjects.map(s => `<span class="chip">${esc(s.name)} <small>${countOf(s.id)} câu</small> ${canEdit() ? `<button class="x" title="Xoá môn" onclick="delSubject('${s.id}')">×</button>` : ''}</span>`).join('') : '<span class="muted">Chưa có môn nào.</span>'}
       <button class="btn ghost sm" onclick="guardEdit(addSubject)">+ Thêm môn thi</button>
+      <button class="btn ghost sm" onclick="guardEdit(()=>go('manage'))">🗂 Sửa / xoá câu hỏi</button>
       <button class="btn ghost sm" onclick="settings()" title="Dành cho chủ sở hữu">⚙ Chủ sở hữu</button>
     </div></div>`;
 }
@@ -363,7 +364,7 @@ function renderGutter(errs) {
   $('#gut').innerHTML = Array.from({ length: n }, (_, i) => `<div class="${errLines.has(i + 1) ? 'err' : ''}">${i + 1}</div>`).join('');
   syncGut();
 }
-function syncGut() { $('#gut').scrollTop = $('#ta').scrollTop; }
+function syncGut() { const g = $('#gut'), t = $('#ta'); if (g && t) g.scrollTop = t.scrollTop; }
 function onType() { if (checked) { const r = parseInput($('#ta').value, addSubj); renderGutter(r.errors); showReport(r); } else renderGutter([]); }
 function check() { checked = true; const r = parseInput($('#ta').value, addSubj); renderGutter(r.errors); showReport(r); return r; }
 function showReport(r) {
@@ -412,7 +413,7 @@ function renderReview() {
   const qs = DB.questions.filter(q => q.s === revSubj);
   $('#rvlist').innerHTML = qs.length ? qs.map((q, i) => `<div class="q" id="rq${i}"><div class="qt"><span class="no">${i + 1}.</span>${esc(q.q)}</div>` +
     q.o.map((o, k) => `<label class="opt" id="ro${i}_${k}"><input type="radio" name="r${i}" onchange="revPick(${i},${k})"><span class="lt">${LETTERS[k]}.</span><span>${esc(o)}</span></label>`).join('') +
-    `<div id="rf${i}"></div></div>`).join('') : '<div class="card muted">Môn này chưa có câu hỏi.</div>';
+    `<div id="rf${i}"></div>${canEdit() ? `<div style="display:flex;gap:8px;margin-top:8px"><button class="btn ghost sm" onclick="editQ('${q.id}')">✏️ Sửa</button><button class="btn ghost sm" onclick="delQ('${q.id}')">🗑 Xoá</button></div>` : ''}</div>`).join('') : '<div class="card muted">Môn này chưa có câu hỏi.</div>';
 }
 function revPick(i, k) {
   const qs = DB.questions.filter(q => q.s === revSubj), q = qs[i];
@@ -519,7 +520,66 @@ function finishExam() {
   setTimeout(() => jumpTo('rescard'), 100);
 }
 // dọn nút ↓ khi rời trang thi
-const _go = go; go = function (v, a) { const f = $('#fab'); if (f) f.remove(); _go(v, a); };
+const _go = go; go = function (v, a) { const f = $('#fab'); if (f) f.remove(); curView = v; _go(v, a); };
+
+/* ================= SỬA / XOÁ CÂU HỎI ================= */
+let curView = 'home', mgSubj = '', mgSearch = '', edId = '';
+function refreshView() { if (curView === 'review') review(); else if (curView === 'manage') manageView(); }
+function manageView() {
+  if (!DB.subjects.length) { toast('Chưa có môn thi nào'); return home(); }
+  if (!DB.subjects.some(s => s.id === mgSubj)) mgSubj = DB.subjects[0].id;
+  $('#app').innerHTML = `<div class="wrap">
+    <div class="topbar"><button class="btn ghost sm" onclick="go('home')">← Trang chủ</button><h2>Sửa / xoá câu hỏi</h2></div>
+    <div class="field"><label>Môn</label><select onchange="mgSubj=this.value;renderManage()">${subjOptions(mgSubj)}</select></div>
+    <div class="field"><label>Tìm câu hỏi</label><input type="text" placeholder="Gõ một phần câu hỏi hoặc đáp án…" value="${esc(mgSearch)}" oninput="mgSearch=this.value;renderManage()"></div>
+    <div id="mglist"></div></div>`;
+  renderManage();
+}
+function renderManage() {
+  const kw = norm(mgSearch);
+  const all = DB.questions.filter(q => q.s === mgSubj);
+  const rows = all.map((q, i) => ({ q, n: i + 1 })).filter(r => !kw || norm(r.q.q + ' ' + r.q.o.join(' ')).includes(kw));
+  $('#mglist').innerHTML = rows.length ? rows.map(({ q, n }) => `<div class="q"><div class="qt"><span class="no">${n}.</span>${esc(q.q)} <small class="muted">(${q.sh ? 'đảo đáp án' : 'giữ nguyên'})</small></div>` +
+    q.o.map((o, k) => `<div style="padding:2px 0 2px 2.2em;${k === q.a ? 'font-weight:700;color:var(--ok)' : ''}">${LETTERS[k]}. ${esc(o)}${k === q.a ? ' ✔' : ''}</div>`).join('') +
+    `<div style="display:flex;gap:8px;margin-top:10px"><button class="btn ghost sm" onclick="editQ('${q.id}')">✏️ Sửa</button><button class="btn ghost sm" onclick="delQ('${q.id}')">🗑 Xoá</button></div></div>`).join('')
+    : `<div class="card muted">${all.length ? 'Không có câu nào khớp.' : 'Môn này chưa có câu hỏi.'}</div>`;
+}
+function editQ(id) {
+  const q = DB.questions.find(x => x.id === id); if (!q) return;
+  edId = id;
+  openModal(`<h3>Sửa câu hỏi</h3>
+    <div class="field"><label>Môn</label><select id="ed_subj">${subjOptions(q.s)}</select></div>
+    <div class="editor" style="height:240px"><div class="gutter" id="gut"></div><textarea id="ta" wrap="off" spellcheck="false" oninput="edType()" onscroll="syncGut()"></textarea></div>
+    <div id="report"></div>
+    <div class="acts"><button class="btn ghost" onclick="closeModal()">Huỷ</button><button class="btn" onclick="saveEdit()">Lưu thay đổi</button></div>`);
+  $('#modal .modal').style.maxWidth = '720px';
+  $('#ta').value = `${q.sh ? 0 : 1}/${q.q}\n${q.o.join('\n')}\na:${q.a + 1}`;
+  renderGutter([]);
+}
+const edParse = () => parseInput($('#ta').value, $('#ed_subj').value, edId);
+function edType() { const r = edParse(); renderGutter(r.errors); showReport(r); }
+async function saveEdit() {
+  const r = edParse(); renderGutter(r.errors); showReport(r);
+  if (r.errors.length) return toast('Có lỗi, hãy bấm "Sửa lỗi" rồi lưu lại');
+  if (r.items.length !== 1) return toast('Mỗi lần chỉ sửa một câu hỏi.');
+  const keep = JSON.stringify(DB), i = DB.questions.findIndex(x => x.id === edId);
+  const n = r.items[0]; n.id = edId; DB.questions[i] = n;
+  closeModal(); showLoading('Đang lưu thay đổi…');
+  try { await persist(); toast('Đã cập nhật câu hỏi'); } catch (e) { DB = JSON.parse(keep); toast(e.message, 5000); }
+  hideLoading(); refreshView();
+}
+function delQ(id) {
+  const q = DB.questions.find(x => x.id === id); if (!q) return;
+  openModal(`<h3>Xoá câu hỏi này?</h3><p style="white-space:pre-wrap">${esc(q.q.length > 160 ? q.q.slice(0, 160) + '…' : q.q)}</p>
+    <div class="acts"><button class="btn ghost" onclick="closeModal()">Huỷ</button><button class="btn danger" onclick="doDelQ('${id}')">Xoá câu hỏi</button></div>`);
+}
+async function doDelQ(id) {
+  const keep = JSON.stringify(DB);
+  DB.questions = DB.questions.filter(x => x.id !== id);
+  closeModal(); showLoading('Đang xoá…');
+  try { await persist(); toast('Đã xoá câu hỏi'); } catch (e) { DB = JSON.parse(keep); toast(e.message, 5000); }
+  hideLoading(); refreshView();
+}
 
 /* ================= KHỞI ĐỘNG ================= */
 (async function () { await loadDB(); home(); })();
