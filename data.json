@@ -8228,6 +8228,1956 @@
     "Làm giảm chi phí mua hóa chất khử khuẩn của bệnh viện."
    ],
    "a": 0
+  },
+  {
+   "id": "mwtedq62wmxqc",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Theo khái niệm chung, Y đức là gì?",
+   "o": [
+    "Quy tắc quản lý hành chính trong bệnh viện.",
+    "Kỹ năng chuyên môn của bác sĩ và điều dưỡng.",
+    "Đạo đức nghề nghiệp của người làm công tác y tế.",
+    "Luật pháp quy định về khám chữa bệnh."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtedq62b9p3l",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Nghĩa vụ cơ bản của điều dưỡng viên đối với người bệnh là gì?",
+   "o": [
+    "Quyết định phương pháp phẫu thuật.",
+    "Thay mặt người bệnh thanh toán viện phí.",
+    "Chăm sóc sức khỏe toàn diện, tôn trọng quyền của người bệnh.",
+    "Chẩn đoán và kê đơn thuốc cho người bệnh."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtedq62xpo6y",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Nguyên tắc đạo đức cơ bản nhất trong nghiên cứu y học trên người là gì?",
+   "o": [
+    "Đạt được kết quả nghiên cứu bằng mọi giá.",
+    "Chỉ quan tâm đến lợi ích kinh tế của nghiên cứu.",
+    "Tôn trọng quyền tự quyết và bảo vệ sự an toàn của đối tượng.",
+    "Không cần thông báo rủi ro nếu nghiên cứu có lợi cho xã hội."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtedq62n6awy",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Khi người bệnh từ chối điều trị, điều dưỡng cần làm gì trước tiên theo đạo đức nghề nghiệp?",
+   "o": [
+    "Bỏ mặc người bệnh vì họ không hợp tác.",
+    "Giải thích rõ ràng hậu quả và tôn trọng quyết định của họ.",
+    "Lén lút thực hiện y lệnh mà không cho người bệnh biết.",
+    "Bắt buộc người bệnh phải điều trị."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtedq6289i3g",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Mối quan hệ giữa điều dưỡng và bác sĩ trong chăm sóc người bệnh là gì?",
+   "o": [
+    "Hợp tác, bình đẳng, cùng mục tiêu vì sức khỏe người bệnh.",
+    "Không có mối quan hệ trực tiếp, hoạt động độc lập.",
+    "Bác sĩ chỉ đạo mọi hoạt động chăm sóc cá nhân.",
+    "Điều dưỡng là người phục tùng tuyệt đối bác sĩ."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtedq62eka9u",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Thông tư nào của Bộ Y tế quy định về quy tắc ứng xử của công chức, viên chức y tế?",
+   "o": [
+    "Thông tư 07/2014/TT-BYT.",
+    "Thông tư 31/2021/TT-BYT.",
+    "Thông tư 01/2012/TT-BYT.",
+    "Thông tư 15/2015/TT-BYT."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtedq622gzj7",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Trong giao tiếp với đồng nghiệp, quy tắc ứng xử nhấn mạnh điều gì?",
+   "o": [
+    "Bao che khuyết điểm cho nhau để giữ uy tín khoa.",
+    "Cạnh tranh gay gắt để đạt thành tích cá nhân.",
+    "Chỉ trích công khai khi đồng nghiệp mắc lỗi nhỏ.",
+    "Tôn trọng, đoàn kết, hợp tác và chia sẻ trách nhiệm."
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtedq6275jia",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Quy tắc ứng xử của điều dưỡng đối với cấp trên là gì?",
+   "o": [
+    "Thường xuyên vượt cấp báo cáo.",
+    "Từ chối thực hiện nhiệm vụ khó khăn.",
+    "Nịnh nọt, giấu diếm khó khăn trong công việc.",
+    "Phục tùng sự phân công, báo cáo trung thực, đề xuất sáng kiến."
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtedq62u5ijc",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Hành vi nào bị nghiêm cấm theo Quy tắc ứng xử của cán bộ y tế?",
+   "o": [
+    "Giải đáp thắc mắc của người bệnh về thuốc.",
+    "Hướng dẫn người bệnh làm thủ tục nhập viện.",
+    "Nhận hối lộ, gợi ý người bệnh đưa tiền.",
+    "Tham gia nghiên cứu khoa học ngoài giờ."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtedq62qxi3v",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Việc bảo vệ quyền riêng tư của người bệnh được thể hiện qua hành động nào?",
+   "o": [
+    "Che chắn cẩn thận khi thực hiện các thủ thuật trên cơ thể người bệnh.",
+    "Để hồ sơ bệnh án mở trên bàn trực cho mọi người xem.",
+    "Thảo luận bệnh tình của bệnh nhân ở hành lang đông người.",
+    "Quay phim chụp ảnh bệnh nhân không cần xin phép."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtedq62b7z9x",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Phẩm chất 'Tận tụy' của người điều dưỡng được thể hiện qua hành động nào?",
+   "o": [
+    "Chỉ làm việc chăm chỉ khi có mặt lãnh đạo.",
+    "Hết lòng chăm sóc người bệnh không quản ngại khó khăn.",
+    "Tránh né các ca trực đêm, bệnh nhân nặng.",
+    "Làm việc qua loa để hoàn thành ca trực sớm."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtedq62elztb",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Sự 'Cẩn thận' trong thực hành điều dưỡng nhằm mục đích gì?",
+   "o": [
+    "Phòng ngừa sai sót y khoa, đảm bảo an toàn cho người bệnh.",
+    "Tránh việc phải nhận thêm bệnh nhân mới.",
+    "Thể hiện sự chuyên nghiệp với đồng nghiệp.",
+    "Làm cho công việc kéo dài thời gian hơn."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtedq6240jqw",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Phẩm chất 'Tôn trọng' được điều dưỡng áp dụng như thế nào với niềm tin tôn giáo của người bệnh?",
+   "o": [
+    "Chỉ trích niềm tin tôn giáo của người bệnh là mê tín.",
+    "Tôn trọng và tạo điều kiện thực hành tín ngưỡng nếu không ảnh hưởng điều trị.",
+    "Khuyên người bệnh theo tôn giáo của điều dưỡng.",
+    "Bắt buộc người bệnh từ bỏ tôn giáo của họ."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtedq62grhea",
+   "s": "mwtedgkasl2jf",
+   "sh": false,
+   "q": "Sự 'Đồng cảm' khác với 'Thương hại' trong chăm sóc người bệnh ở điểm nào?",
+   "o": [
+    "Đồng cảm và thương hại là hai khái niệm hoàn toàn giống nhau.",
+    "Đồng cảm chỉ dành cho người nhà, thương hại dành cho người bệnh.",
+    "Đồng cảm là thấu hiểu nỗi đau để hỗ trợ, thương hại mang tính bề trên.",
+    "Đồng cảm là khóc cùng người bệnh, thương hại là bỏ đi."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtedq62cwng9",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Sự 'Kiên nhẫn' của điều dưỡng đặc biệt cần thiết khi chăm sóc đối tượng nào?",
+   "o": [
+    "Người cao tuổi, trẻ em và người mắc bệnh mãn tính.",
+    "Chỉ bệnh nhân người nước ngoài.",
+    "Chỉ bệnh nhân có khả năng giao tiếp tốt.",
+    "Chỉ bệnh nhân VIP."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtedq625l8n6",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Văn bản nào hiện hành quy định Chuẩn năng lực cơ bản của điều dưỡng Việt Nam?",
+   "o": [
+    "Bộ Y tế (2012).",
+    "Bộ Y tế (2018).",
+    "Bộ Y tế (2023).",
+    "Bộ Y tế (2020)."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtedq630qo8p",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Chuẩn đạo đức quy định điều dưỡng phải bảo vệ người bệnh khỏi điều gì?",
+   "o": [
+    "Những thực hành chăm sóc không an toàn, vi phạm pháp luật và đạo đức.",
+    "Sự thăm hỏi của người nhà quá đông.",
+    "Việc phải đóng viện phí đúng hạn.",
+    "Các thủ tục hành chính khi ra viện."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtedq63wrqxa",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Việc tham gia nghiên cứu khoa học của điều dưỡng phải tuân thủ chuẩn mực nào?",
+   "o": [
+    "Sao chép dữ liệu để nhanh chóng có bài báo.",
+    "Đảm bảo tính trung thực, khách quan và tôn trọng đạo đức nghiên cứu.",
+    "Làm sai lệch kết quả để chứng minh giả thuyết.",
+    "Tự ý thử nghiệm kỹ thuật mới chưa được phê duyệt lên người bệnh."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtedq63es1iy",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Chuẩn đạo đức về sự công bằng trong chăm sóc y tế nghĩa là gì?",
+   "o": [
+    "Chỉ chăm sóc tận tình người bệnh có chức vụ cao.",
+    "Chăm sóc mọi người bệnh với thời gian bằng nhau chằn chặn.",
+    "Dành nhiều thời gian hơn cho người bệnh có người quen.",
+    "Phân bổ thời gian và nguồn lực chăm sóc dựa trên nhu cầu, không phân biệt."
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtedq63hczdh",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Hành vi nào vi phạm tiêu chuẩn đạo đức về ranh giới nghề nghiệp?",
+   "o": [
+    "Hỏi thăm sức khỏe bệnh nhân trong giờ làm việc.",
+    "Giải thích phác đồ điều trị theo y lệnh.",
+    "Hỗ trợ bệnh nhân liên hệ với bộ phận xã hội.",
+    "Lợi dụng mối quan hệ với bệnh nhân để vay mượn tiền bạc."
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtedq63toabc",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Đặc điểm chính của phong cách lãnh đạo độc đoán (Autocratic) là gì?",
+   "o": [
+    "Nhà quản lý giao toàn quyền cho nhân viên quyết định.",
+    "Nhà quản lý tự đưa ra quyết định mà không tham khảo ý kiến nhân viên.",
+    "Nhà quản lý không can thiệp vào bất kỳ hoạt động nào.",
+    "Nhà quản lý khuyến khích nhân viên tham gia thảo luận."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtedq63jih5c",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Hạn chế của phong cách lãnh đạo tự do (Laissez-Faire) là gì?",
+   "o": [
+    "Tạo ra áp lực quá lớn cho nhân viên.",
+    "Dễ dẫn đến sự vô tổ chức, thiếu kỷ luật nếu nhân viên thiếu tự giác.",
+    "Ra quyết định quá nhanh, thiếu suy nghĩ.",
+    "Chỉ phù hợp với người lao động chân tay."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtedq63scp77",
+   "s": "mwtedgkasl2jf",
+   "sh": false,
+   "q": "Phong cách lãnh đạo theo tình huống (Situational leadership) được hiểu là:",
+   "o": [
+    "Để nhân viên tự quyết định phong cách của người lãnh đạo.",
+    "Chỉ sử dụng một phong cách duy nhất cho mọi tình huống.",
+    "Thay đổi phong cách quản lý linh hoạt tùy theo năng lực nhân viên và hoàn cảnh.",
+    "Luôn áp dụng phong cách độc đoán để giữ uy quyền."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtedq63cn0x6",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Khi một Điều dưỡng trưởng khoa quản lý đội ngũ nhân viên mới ra trường, phong cách nào ít hiệu quả nhất?",
+   "o": [
+    "Phong cách tự do (Laissez-Faire).",
+    "Phong cách dân chủ có kiểm soát.",
+    "Phong cách độc đoán nhẹ nhàng.",
+    "Phong cách hướng dẫn, chỉ đạo trực tiếp."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtedq633pnqi",
+   "s": "mwtedgkasl2jf",
+   "sh": false,
+   "q": "Một đặc điểm của nhà lãnh đạo điều dưỡng theo phong cách chuyển đổi (Transformational) là:",
+   "o": [
+    "Truyền cảm hứng, tạo tầm nhìn và thay đổi nhận thức của nhân viên.",
+    "Thưởng phạt nghiêm minh bằng vật chất.",
+    "Quản lý vi mô từng chi tiết nhỏ.",
+    "Duy trì nguyên trạng, không thích đổi mới."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtedq63zen2t",
+   "s": "mwtedgkasl2jf",
+   "sh": false,
+   "q": "Phẩm chất nào là quan trọng nhất đối với một nhà lãnh đạo điều dưỡng hiệu quả?",
+   "o": [
+    "Tầm nhìn, năng lực chuyên môn và khả năng truyền cảm hứng.",
+    "Sự độc đoán và khả năng áp đặt kỷ luật thép.",
+    "Chỉ quan tâm đến báo cáo tài chính.",
+    "Biết cách trốn tránh trách nhiệm khi có lỗi."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtedq637evhg",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Sự 'Quyết đoán' của người quản lý điều dưỡng thể hiện ở việc:",
+   "o": [
+    "Trì hoãn mọi quyết định để chờ ý kiến cấp trên.",
+    "Thay đổi quyết định liên tục không có lý do.",
+    "Dám đưa ra quyết định kịp thời, dứt khoát trong những tình huống khó khăn.",
+    "Luôn đồng ý với mọi yêu cầu của nhân viên."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtedq63vzq37",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Khả năng 'Giao tiếp' của người lãnh đạo hiệu quả đòi hỏi kỹ năng nào?",
+   "o": [
+    "Giữ bí mật mọi thông tin đối với nhân viên.",
+    "Sử dụng từ ngữ chuyên môn phức tạp để thể hiện đẳng cấp.",
+    "Lắng nghe chủ động, truyền đạt rõ ràng và thuyết phục.",
+    "Nói nhiều hơn nghe."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtedq63lk2cm",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Tính 'Mẫu mực' (Role model) của người lãnh đạo được thể hiện qua:",
+   "o": [
+    "Chỉ đứng chỉ tay năm ngón mà không thực hành.",
+    "Vi phạm quy chế nhưng cấm nhân viên làm theo.",
+    "Luôn đi trễ về sớm vì có đặc quyền.",
+    "Tiên phong thực hiện các quy định, chuẩn mực đạo đức và chuyên môn."
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtedq63ecji0",
+   "s": "mwtedgkasl2jf",
+   "sh": false,
+   "q": "Sự 'Linh hoạt' của người lãnh đạo là cần thiết để:",
+   "o": [
+    "Từ chối mọi quy định mới của bệnh viện.",
+    "Thay đổi nguyên tắc đạo đức cốt lõi.",
+    "Thích ứng với những thay đổi, cải tiến trong y học và môi trường bệnh viện.",
+    "Giữ nguyên phương pháp làm việc cũ qua hàng thập kỷ."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtedq63xh5wc",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Bước đầu tiên trong quy trình giải quyết vấn đề quản lý điều dưỡng là gì?",
+   "o": [
+    "Đánh giá kết quả.",
+    "Lập kế hoạch thực hiện giải pháp.",
+    "Nhận diện và xác định chính xác vấn đề.",
+    "Lựa chọn giải pháp."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtedq63bfba4",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Khi có mâu thuẫn giữa quy định bệnh viện và nguyện vọng bệnh nhân, điều dưỡng nên ưu tiên gì?",
+   "o": [
+    "Nhờ bảo vệ đuổi bệnh nhân đi.",
+    "Tuân thủ quy định nhưng cố gắng giải thích và linh hoạt hỗ trợ trong khuôn khổ cho phép.",
+    "Phá vỡ quy định ngay lập tức để làm hài lòng bệnh nhân.",
+    "Mắng bệnh nhân vì không hiểu luật."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtedq639r7cq",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Sau khi thực hiện giải pháp giải quyết vấn đề, bước tiếp theo là gì?",
+   "o": [
+    "Báo cáo khen thưởng ngay lập tức.",
+    "Lập tức tìm kiếm vấn đề mới để giải quyết.",
+    "Bỏ qua vấn đề đó mãi mãi.",
+    "Theo dõi, đánh giá kết quả và điều chỉnh nếu cần."
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtedq63iig0c",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Tiêu chí nào quan trọng nhất khi lựa chọn giải pháp tối ưu?",
+   "o": [
+    "Giải pháp rẻ tiền nhất.",
+    "Tính khả thi, hiệu quả và phù hợp với nguồn lực, đạo đức.",
+    "Giải pháp tốn ít thời gian nhất nhưng rủi ro cao.",
+    "Giải pháp được một nhân viên mới đề xuất."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtedq63fha8d",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Kỹ năng tư duy phản biện (Critical thinking) giúp điều dưỡng viên điều gì trong giải quyết vấn đề?",
+   "o": [
+    "Chỉ trích mọi quyết định của bác sĩ.",
+    "Tin tưởng mù quáng vào kinh nghiệm cũ.",
+    "Đánh giá khách quan các thông tin, bằng chứng để đưa ra quyết định đúng đắn.",
+    "Gây tranh cãi với đồng nghiệp."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtedq63af7bx",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Phân tích SWOT trong lập kế hoạch công tác điều dưỡng bao gồm những yếu tố nào?",
+   "o": [
+    "Điểm mạnh, Điểm yếu, Cơ hội, Thách thức.",
+    "Lịch trình, Khối lượng công việc, Chi phí, Rủi ro.",
+    "Kế hoạch, Thực hiện, Kiểm tra, Hành động (PDCA).",
+    "Nhân sự, Thiết bị, Tài chính, Bệnh nhân."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtedq63g3ogb",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Mục đích chính của việc lập kế hoạch công tác điều dưỡng là gì?",
+   "o": [
+    "Gây áp lực công việc cho cấp dưới.",
+    "Thay thế cho việc thực hiện công việc thực tế.",
+    "Định hướng hành động, tối ưu hóa nguồn lực và giảm thiểu rủi ro.",
+    "Trình bày cho đẹp báo cáo cuối năm."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtedq63ruopu",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Loại kế hoạch nào có thời hạn từ 3-5 năm định hướng phát triển chung của Khoa?",
+   "o": [
+    "Kế hoạch chiến lược.",
+    "Kế hoạch đột xuất.",
+    "Kế hoạch trực tuần.",
+    "Kế hoạch tác nghiệp hàng ngày."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtedq63ra88u",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Rủi ro trong lập kế hoạch công tác điều dưỡng có thể đến từ đâu?",
+   "o": [
+    "Biến động nhân sự, dịch bệnh bùng phát đột ngột, thiếu hụt vật tư.",
+    "Chất lượng bữa ăn căn tin.",
+    "Việc nhân viên đi làm đúng giờ.",
+    "Đồng phục của điều dưỡng."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtedq63jdiod",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Yếu tố 'Time-bound' (Giới hạn thời gian) trong nguyên tắc SMART có vai trò gì?",
+   "o": [
+    "Kéo dài thời gian thực hiện vô thời hạn.",
+    "Không quan trọng trong y tế.",
+    "Xác định rõ mốc thời gian hoàn thành mục tiêu để đôn đốc thực hiện.",
+    "Bắt buộc mọi kế hoạch phải xong trong 24 giờ."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtedq638th4j",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Đối tượng phục vụ trọng tâm của nghề Điều dưỡng là ai?",
+   "o": [
+    "Người bệnh và cộng đồng.",
+    "Giám đốc cơ sở y tế.",
+    "Đồng nghiệp trong khoa.",
+    "Bác sĩ điều trị."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtedq63pcgbr",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Theo Y huấn cách ngôn của Hải Thượng Lãn Ông, phẩm chất nào quan trọng nhất của người thầy thuốc?",
+   "o": [
+    "Sự phục tùng tuyệt đối cấp trên.",
+    "Kiến thức chuyên môn vượt trội.",
+    "Khả năng kiếm tiền từ nghề nghiệp.",
+    "Lòng nhân ái, thương yêu người bệnh."
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtedq63jipvv",
+   "s": "mwtedgkasl2jf",
+   "sh": false,
+   "q": "Người điều dưỡng có trách nhiệm gì đối với thông tin của người bệnh?",
+   "o": [
+    "Cung cấp cho báo chí nếu bệnh án có tính chất hiếm gặp.",
+    "Kể cho người nhà của các bệnh nhân khác để cảnh giác.",
+    "Bảo mật tuyệt đối thông tin, chỉ cung cấp khi có yêu cầu hợp pháp.",
+    "Chia sẻ cho tất cả đồng nghiệp để cùng rút kinh nghiệm."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtedq63usxlg",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Hành vi nào dưới đây vi phạm y đức của người điều dưỡng?",
+   "o": [
+    "Động viên tinh thần người bệnh mắc bệnh hiểm nghèo.",
+    "Giải thích cặn kẽ quy trình chăm sóc cho người bệnh.",
+    "Từ chối nhận quà biếu của người bệnh trước khi phẫu thuật.",
+    "Phân biệt đối xử người bệnh dựa trên tình trạng kinh tế."
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtedq63sbbow",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Mục tiêu cuối cùng của y đức trong thực hành điều dưỡng là gì?",
+   "o": [
+    "Đạt được danh hiệu thi đua của khoa.",
+    "Đảm bảo an toàn, hiệu quả chăm sóc và sự hài lòng của người bệnh.",
+    "Tránh bị kiện tụng pháp lý.",
+    "Giảm thiểu chi phí cho bệnh viện."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtedq639l4g1",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Theo quy tắc ứng xử, khi người bệnh đến cơ sở y tế, điều dưỡng phải thể hiện thái độ như thế nào?",
+   "o": [
+    "Lạnh lùng, giữ khoảng cách để tạo uy nghiêm.",
+    "Chỉ giao tiếp khi người bệnh hỏi nhiều lần.",
+    "Niềm nở, tận tình, hướng dẫn rõ ràng.",
+    "Từ chối tiếp xúc nếu người bệnh không có người nhà đi cùng."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtedq63alggg",
+   "s": "mwtedgkasl2jf",
+   "sh": false,
+   "q": "Khi xảy ra sự cố y khoa ngoài ý muốn, điều dưỡng nên ứng xử thế nào với người nhà bệnh nhân?",
+   "o": [
+    "Đổ lỗi cho bác sĩ điều trị hoặc ca trực trước.",
+    "Lảng tránh, từ chối trả lời câu hỏi.",
+    "Lớn tiếng tranh cãi để bảo vệ bản thân.",
+    "Bình tĩnh giải thích, báo cáo cấp trên và đồng cảm với họ."
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtedq63snteg",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Trang phục của điều dưỡng trong cơ sở khám chữa bệnh phải đảm bảo yêu cầu gì?",
+   "o": [
+    "Đúng quy định, sạch sẽ, gọn gàng, kín đáo.",
+    "Không cần đeo bảng tên nếu đã quen mặt bệnh nhân.",
+    "Sử dụng trang phục dạ hội để tạo sự thân thiện.",
+    "Màu sắc tự do, theo sở thích cá nhân."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtedq63os1rj",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Khi giải quyết thắc mắc của người bệnh, điều dưỡng cần sử dụng kỹ năng gì chủ yếu?",
+   "o": [
+    "Kỹ năng chẩn đoán bệnh thay bác sĩ.",
+    "Kỹ năng lắng nghe tích cực và giải thích rõ ràng.",
+    "Kỹ năng viết báo cáo cho lãnh đạo.",
+    "Kỹ năng nói to để lấn át người bệnh."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtedq639das1",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Khi bàn giao ca trực, quy tắc ứng xử yêu cầu điều dưỡng phải làm gì?",
+   "o": [
+    "Chỉ bàn giao bằng miệng, không cần ghi sổ.",
+    "Bàn giao qua điện thoại để tiết kiệm thời gian.",
+    "Bàn giao đầy đủ, rõ ràng tình trạng bệnh nhân và tài sản.",
+    "Chỉ bàn giao những bệnh nhân nặng."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtedq63nj6g9",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Tại sao sự 'Trung thực' lại là phẩm chất cốt lõi của điều dưỡng viên?",
+   "o": [
+    "Để đảm bảo tính chính xác trong thực hiện y lệnh và hồ sơ bệnh án.",
+    "Để được cấp trên thăng chức.",
+    "Để dễ dàng lấy lòng người bệnh.",
+    "Để không bị trừ lương thưởng."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtedq63pju6z",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Lòng 'Nhân ái' của điều dưỡng giúp ích gì cho người bệnh?",
+   "o": [
+    "Làm thay đổi chẩn đoán y khoa của người bệnh.",
+    "Xoa dịu nỗi đau thể xác và tinh thần của người bệnh.",
+    "Giúp người bệnh giảm bớt chi phí điều trị.",
+    "Thay thế hoàn toàn tác dụng của thuốc."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtedq63u5k7r",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Để nâng cao phẩm chất đạo đức, điều dưỡng cần rèn luyện thường xuyên việc gì?",
+   "o": [
+    "Tham gia nhiều hoạt động vui chơi giải trí.",
+    "Chỉ cần làm việc lâu năm sẽ tự khắc có đạo đức.",
+    "Tự học, tự cập nhật kiến thức và rèn luyện kỹ năng giao tiếp.",
+    "Nghiên cứu thị trường chứng khoán."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtedq635l6ij",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Khi người bệnh có tâm lý hoảng loạn, phẩm chất 'Bình tĩnh' của điều dưỡng có tác dụng gì?",
+   "o": [
+    "Giúp điều dưỡng trốn tránh trách nhiệm.",
+    "Tạo khoảng cách lạnh lùng với người bệnh.",
+    "Làm người bệnh hoảng loạn hơn.",
+    "Giúp ổn định tâm lý người bệnh và xử lý tình huống chính xác."
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtedq633lftx",
+   "s": "mwtedgkasl2jf",
+   "sh": false,
+   "q": "Tinh thần 'Trách nhiệm' của điều dưỡng viên thể hiện rõ nhất khi nào?",
+   "o": [
+    "Khi đùn đẩy công việc khó cho sinh viên thực tập.",
+    "Khi chỉ hoàn thành công việc được giao trên giấy tờ.",
+    "Khi đổ lỗi cho hoàn cảnh khách quan.",
+    "Khi dám nhận lỗi và sửa chữa sai sót nếu có trong quá trình chăm sóc."
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtedq63bhlg4",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Theo Chuẩn đạo đức điều dưỡng viên, việc duy trì năng lực chuyên môn có ý nghĩa gì?",
+   "o": [
+    "Để dễ dàng chuyển công tác sang bệnh viện khác.",
+    "Để thể hiện sự vượt trội so với bác sĩ.",
+    "Đảm bảo cung cấp dịch vụ chăm sóc chất lượng và an toàn nhất.",
+    "Để yêu cầu tăng lương."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtedq63l169g",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Tiêu chuẩn về tính minh bạch trong đạo đức điều dưỡng yêu cầu gì?",
+   "o": [
+    "Tiết lộ đời tư của đồng nghiệp.",
+    "Công khai thu nhập cá nhân của điều dưỡng.",
+    "Báo cáo trung thực các sự cố y khoa và sai sót chuyên môn.",
+    "Đăng tải hồ sơ bệnh án lên mạng xã hội."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtedq63kkppg",
+   "s": "mwtedgkasl2jf",
+   "sh": false,
+   "q": "Điều dưỡng có trách nhiệm gì đối với sự phát triển của nghề nghiệp?",
+   "o": [
+    "Chỉ tập trung vào công việc cá nhân.",
+    "Giữ bí mật mọi kỹ năng chuyên môn không cho ai biết.",
+    "Tham gia hướng dẫn lâm sàng cho sinh viên và chia sẻ kinh nghiệm.",
+    "Ngăn cản người khác học ngành điều dưỡng."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtedq63p91zg",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Trong môi trường làm việc đa văn hóa, chuẩn đạo đức yêu cầu điều dưỡng phải:",
+   "o": [
+    "Từ chối chăm sóc người bệnh khác biệt văn hóa.",
+    "Ép buộc người bệnh theo văn hóa của bệnh viện.",
+    "Phớt lờ các yếu tố văn hóa trong lập kế hoạch chăm sóc.",
+    "Tôn trọng sự đa dạng văn hóa, tín ngưỡng của người bệnh và đồng nghiệp."
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtedq63d5x2z",
+   "s": "mwtedgkasl2jf",
+   "sh": false,
+   "q": "Khi đối mặt với tình huống mâu thuẫn giữa đạo đức và pháp luật, điều dưỡng nên làm gì?",
+   "o": [
+    "Chỉ nghe theo lời khuyên của người bệnh.",
+    "Bỏ mặc tình huống, không can thiệp.",
+    "Tham vấn hội đồng đạo đức bệnh viện và tuân thủ các quy định pháp luật.",
+    "Tự ý quyết định theo cảm tính cá nhân."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtedq63ajh6s",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Phong cách lãnh đạo dân chủ (Democratic) phù hợp nhất trong tình huống nào?",
+   "o": [
+    "Khi cần sự sáng tạo, sự đồng thuận và nhân viên có kinh nghiệm.",
+    "Khi tổ chức đang đối mặt với khủng hoảng sinh tử.",
+    "Trong tình huống cấp cứu khẩn cấp cần quyết định tức thời.",
+    "Khi nhân viên mới vào nghề, chưa có kỹ năng."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtedq63924i5",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Người quản lý điều dưỡng nên áp dụng phong cách lãnh đạo nào trong ca trực cấp cứu?",
+   "o": [
+    "Phong cách dân chủ, gọi mọi người lại thảo luận rồi mới cấp cứu.",
+    "Phong cách độc đoán, chỉ huy trực tiếp để hành động nhanh chóng.",
+    "Phong cách ủy quyền hoàn toàn cho sinh viên.",
+    "Phong cách tự do, để điều dưỡng viên tự xoay sở."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtedq63gup4e",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Ưu điểm lớn nhất của phong cách lãnh đạo dân chủ là:",
+   "o": [
+    "Nhà quản lý không phải chịu trách nhiệm.",
+    "Tuyệt đối không có mâu thuẫn xảy ra.",
+    "Tạo động lực, phát huy tính sáng tạo và sự gắn kết của đội ngũ.",
+    "Ra quyết định nhanh nhất."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtedq630l4hz",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Sự ủy quyền (Delegation) trong quản lý điều dưỡng thuộc về phong cách lãnh đạo nào nhiều nhất?",
+   "o": [
+    "Phong cách dân chủ và tự do, khi nhân viên đủ năng lực.",
+    "Chỉ áp dụng trong quản lý tài chính.",
+    "Không thuộc phong cách lãnh đạo nào.",
+    "Phong cách độc đoán cao độ."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtedq63hj258",
+   "s": "mwtedgkasl2jf",
+   "sh": false,
+   "q": "Nhà quản lý điều dưỡng áp dụng phong cách dân chủ thường ra quyết định dựa trên:",
+   "o": [
+    "Lệnh từ Giám đốc bệnh viện không qua bàn bạc.",
+    "Sự biểu quyết của người bệnh.",
+    "Cảm tính cá nhân của Điều dưỡng trưởng.",
+    "Sự thống nhất và ý kiến đóng góp đa chiều từ tập thể."
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtedq63uvfdf",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Khả năng 'Tầm nhìn' của người Điều dưỡng trưởng giúp ích gì cho khoa?",
+   "o": [
+    "Tính toán chính xác số lượng kim tiêm đã dùng.",
+    "Giải quyết các vụ cãi vã nhỏ nhặt hàng ngày.",
+    "Định hướng phát triển lâu dài và thiết lập mục tiêu chiến lược cho khoa.",
+    "Viết báo cáo trực ca nhanh hơn."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtedq63mz8zq",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Sự 'Công bằng' trong quản lý điều dưỡng có nghĩa là:",
+   "o": [
+    "Giao việc khó cho nhân viên không ưa.",
+    "Chia đều tiền thưởng bằng nhau cho mọi người bất kể đóng góp.",
+    "Đánh giá và đối xử nhân viên dựa trên năng lực và hiệu quả công việc, không thiên vị.",
+    "Bênh vực nhân viên thân thiết hơn."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtedq63vxcrb",
+   "s": "mwtedgkasl2jf",
+   "sh": false,
+   "q": "Một người Điều dưỡng trưởng có 'Trí tuệ cảm xúc' (EQ) cao sẽ có biểu hiện gì?",
+   "o": [
+    "Vô cảm trước khó khăn của đồng nghiệp.",
+    "Dễ dàng nổi giận khi công việc không như ý.",
+    "Kiểm soát tốt cảm xúc cá nhân và thấu hiểu cảm xúc của nhân viên, người bệnh.",
+    "Ra quyết định hoàn toàn dựa trên cảm tính."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtedq64nd9y9",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Tại sao người quản lý điều dưỡng cần có khả năng 'Hỗ trợ' ?",
+   "o": [
+    "Để nhân viên phụ thuộc hoàn toàn vào quản lý.",
+    "Giúp nhân viên phát triển kỹ năng, vượt qua áp lực công việc.",
+    "Để thu thập điểm yếu của nhân viên.",
+    "Làm thay công việc cho nhân viên lười biếng."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtedq64feir4",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Kỹ năng 'Truyền động lực' của Điều dưỡng trưởng giúp:",
+   "o": [
+    "Tăng số lượng bệnh nhân nhập viện.",
+    "Giảm chi phí lương cho bệnh viện.",
+    "Nâng cao tinh thần làm việc, giảm tỷ lệ nghỉ việc của nhân viên.",
+    "Làm nhân viên sợ hãi và làm việc vì bị đe dọa."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtedq649xyvv",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Sơ đồ xương cá thường được dùng để làm gì trong giải quyết vấn đề?",
+   "o": [
+    "Lập danh sách trực ca.",
+    "Phân tích và tìm ra nguyên nhân gốc rễ của sự cố.",
+    "Tính toán ngân sách của khoa.",
+    "Đánh giá chỉ số BMI của bệnh nhân."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtedq64m79bo",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Phương pháp Brainstorming trong nhóm điều dưỡng nhằm mục đích gì?",
+   "o": [
+    "Phân công công việc hàng ngày.",
+    "Tạo ra nhiều ý tưởng, giải pháp sáng tạo cho một vấn đề trong thời gian ngắn.",
+    "Tìm ra người mắc lỗi để kỷ luật.",
+    "Học thuộc lòng các quy trình kỹ thuật."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtedq6468kf2",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Trong quản lý điều dưỡng, công cụ '5 Why' được sử dụng nhằm:",
+   "o": [
+    "Phỏng vấn 5 ứng viên điều dưỡng.",
+    "Lập 5 mục tiêu chăm sóc.",
+    "Truy xuất liên tục để xác định nguyên nhân sâu xa của một sự cố y khoa.",
+    "Hỏi bệnh nhân về 5 triệu chứng bệnh."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtedq64n5ugb",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Một vấn đề quản lý thời gian thường gặp của điều dưỡng trực ca là gì?",
+   "o": [
+    "Có quá nhiều thời gian rảnh rỗi.",
+    "Ngủ quên trong ca trực.",
+    "Thiếu thiết bị giải trí.",
+    "Khối lượng công việc quá tải do thiếu nhân lực hoặc thiếu kỹ năng ưu tiên."
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtedq64nlrja",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Trở ngại lớn nhất trong việc giải quyết vấn đề nhóm là:",
+   "o": [
+    "Có quá nhiều giải pháp sáng tạo.",
+    "Có sự tham gia của Điều dưỡng trưởng.",
+    "Thiếu thông tin, thiếu sự hợp tác hoặc tư duy bảo thủ cố hữu.",
+    "Sự dân chủ quá mức."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtedq64d6iot",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Nguyên tắc SMART trong thiết lập mục tiêu lập kế hoạch, chữ 'M' (Measurable) nghĩa là gì?",
+   "o": [
+    "Mục tiêu phải do nhân viên tự đề ra.",
+    "Mục tiêu phải mang tính thách thức.",
+    "Mục tiêu phải đo lường được bằng các chỉ số cụ thể.",
+    "Mục tiêu phải có ý nghĩa quản lý."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtedq64lptzw",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Kế hoạch nhân sự điều dưỡng cần dựa trên yếu tố nào là chủ yếu?",
+   "o": [
+    "Lịch công tác của giám đốc bệnh viện.",
+    "Sở thích nghỉ phép của nhân viên.",
+    "Số lượng bác sĩ trong khoa.",
+    "Số lượng, mức độ phụ thuộc của người bệnh và năng lực điều dưỡng."
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtedq646hcs2",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Để lập kế hoạch chăm sóc cho một bệnh nhân cụ thể, điều dưỡng thực hiện theo quy trình nào?",
+   "o": [
+    "Quy trình quản lý hành chính bệnh viện.",
+    "Quy trình mua sắm vật tư y tế.",
+    "Quy trình điều dưỡng (Nhận định, Chẩn đoán, Lập KH, Thực hiện, Đánh giá).",
+    "Quy trình kiểm soát nhiễm khuẩn."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtedq64otjfv",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Chức năng nào là cốt lõi của Điều dưỡng trưởng trong bước lập kế hoạch?",
+   "o": [
+    "Trực tiếp thực hiện toàn bộ kỹ thuật chăm sóc khó.",
+    "Làm thay báo cáo cho các điều dưỡng viên.",
+    "Xác định mục tiêu khoa, phân bổ nguồn lực và xây dựng tiến độ thực hiện.",
+    "Thu viện phí của người bệnh."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtedq64a7447",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Bản kế hoạch công tác tốt cần phải có tính chất gì?",
+   "o": [
+    "Thực tế, linh hoạt, rõ ràng và khả thi.",
+    "Quá phức tạp để hiểu.",
+    "Chỉ gồm các mục tiêu chung chung.",
+    "Mơ hồ, cứng nhắc, không thể sửa đổi."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtedq64adqp7",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Người bệnh có năng lực quyết định yêu cầu được biết các lựa chọn chăm sóc. Điều dưỡng nên làm gì?",
+   "o": [
+    "Giải thích các lựa chọn trong phạm vi chuyên môn và hỗ trợ người bệnh ra quyết định",
+    "Chỉ giới thiệu lựa chọn ít tốn kém nhất",
+    "Đề nghị gia đình quyết định thay dù người bệnh đủ năng lực",
+    "Hoãn cung cấp thông tin đến khi xuất viện"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtedq6406xdk",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Khi người bệnh chưa hiểu mục đích một thủ thuật, hành động phù hợp nhất là gì?",
+   "o": [
+    "Yêu cầu ký ngay vì đã có y lệnh",
+    "Chuyển việc giải thích cho người bệnh cùng phòng",
+    "Thực hiện trước rồi giải thích sau",
+    "Giải thích lại bằng ngôn ngữ dễ hiểu và kiểm tra mức độ hiểu"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtedq645qd6n",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Một điều dưỡng vô tình nghe được thông tin bệnh lý nhạy cảm. Cách xử lý đúng là gì?",
+   "o": [
+    "Đăng trường hợp lên nhóm mạng xã hội kín",
+    "Thông báo cho mọi nhân viên trong bệnh viện",
+    "Chỉ sử dụng thông tin phục vụ chăm sóc theo quyền hạn",
+    "Trao đổi với bạn bè để xin lời khuyên"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtedq64uj4rp",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Người bệnh đề nghị không tiết lộ chẩn đoán cho người quen. Điều dưỡng cần làm gì?",
+   "o": [
+    "Thông báo công khai tại giao ban toàn khoa",
+    "Tôn trọng yêu cầu bảo mật trừ trường hợp pháp luật cho phép hoặc yêu cầu",
+    "Chia sẻ vì người quen có thiện chí",
+    "Đề nghị người bệnh chuyển viện"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtedq64oqkkm",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Khi phát hiện đồng nghiệp ghi hồ sơ chăm sóc chưa đúng thực tế, điều dưỡng nên làm gì?",
+   "o": [
+    "Trao đổi và báo cáo theo quy trình để bảo đảm hồ sơ trung thực",
+    "Tự ý sửa nội dung dưới tên đồng nghiệp",
+    "Bỏ qua vì chưa gây hậu quả",
+    "Xóa toàn bộ hồ sơ liên quan"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtedq64h24df",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Một người bệnh không nói được tiếng Việt cần được hướng dẫn chăm sóc. Giải pháp phù hợp nhất là gì?",
+   "o": [
+    "Chỉ phát tài liệu tiếng Việt",
+    "Yêu cầu người bệnh tự tìm hiểu",
+    "Bỏ phần hướng dẫn để tránh mất thời gian",
+    "Sử dụng hỗ trợ phiên dịch phù hợp và xác nhận người bệnh đã hiểu"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtedq64g74tm",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Khi hai người bệnh có nhu cầu chăm sóc khác nhau, nguyên tắc công bằng yêu cầu gì?",
+   "o": [
+    "Ưu tiên người có khả năng chi trả cao",
+    "Ưu tiên người quen của nhân viên",
+    "Ưu tiên dựa trên mức độ cần thiết và nguy cơ lâm sàng",
+    "Chia thời gian bằng nhau trong mọi trường hợp"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtedq649jtwa",
+   "s": "mwtedgkasl2jf",
+   "sh": false,
+   "q": "Người bệnh yêu cầu xem thông tin chăm sóc của mình. Điều dưỡng nên làm gì?",
+   "o": [
+    "Chỉ cho xem nếu có quà cảm ơn",
+    "Hướng dẫn tiếp cận thông tin theo quy định và phạm vi thẩm quyền",
+    "Từ chối mọi yêu cầu xem thông tin",
+    "Cung cấp cả hồ sơ của người bệnh khác"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtedq645l4z8",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Trong tình huống thiếu nhân lực, điều dưỡng trưởng cần ưu tiên quyết định nào?",
+   "o": [
+    "Phân bổ nhân lực theo mức độ nặng và nhu cầu chăm sóc",
+    "Chia đều số người bệnh bất kể mức độ phụ thuộc",
+    "Ngừng toàn bộ hoạt động chăm sóc thường quy",
+    "Chỉ ưu tiên khu vực dễ quản lý"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtedq64etvli",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Khi một nhân viên mới chưa thành thạo kỹ thuật, cách phân công an toàn là gì?",
+   "o": [
+    "Giao ngay thủ thuật phức tạp để rèn luyện",
+    "Để nhân viên tự đánh giá không cần kiểm tra",
+    "Yêu cầu làm độc lập để tiết kiệm nhân lực",
+    "Giao nhiệm vụ phù hợp năng lực và có giám sát cần thiết"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtedq64krq4v",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Một điều dưỡng trưởng muốn giảm sai sót bàn giao. Biện pháp nào phù hợp nhất?",
+   "o": [
+    "Bỏ ghi chép để tăng tốc độ",
+    "Chỉ bàn giao khi có sự cố",
+    "Chuẩn hóa nội dung bàn giao và kiểm tra tuân thủ",
+    "Rút ngắn bàn giao còn một câu"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtedq64krx75",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Khi số lượng người bệnh tăng đột biến, bước quản lý ban đầu phù hợp là gì?",
+   "o": [
+    "Để từng nhân viên tự lựa chọn bệnh nhân",
+    "Đánh giá tải công việc và điều chỉnh phân công theo ưu tiên",
+    "Giữ nguyên phân công bất kể thay đổi",
+    "Ngừng tiếp nhận mọi thông tin mới"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtedq64iiwud",
+   "s": "mwtedgkasl2jf",
+   "sh": false,
+   "q": "Để đánh giá hiệu quả một chương trình đào tạo điều dưỡng, cần xem xét yếu tố nào?",
+   "o": [
+    "Mức cải thiện năng lực thực hành và kết quả chăm sóc",
+    "Chỉ số lượng giấy chứng nhận đã in",
+    "Số giờ giảng viên có mặt",
+    "Số trang tài liệu được phát"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtedq64fmunn",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Một nhân viên thường xuyên đi trễ, điều dưỡng trưởng nên xử lý trước tiên thế nào?",
+   "o": [
+    "Phê bình công khai khi chưa xác minh",
+    "Tự ý cắt toàn bộ ca trực tháng sau",
+    "Bỏ qua để tránh xung đột",
+    "Xác minh nguyên nhân, trao đổi riêng và thống nhất biện pháp khắc phục"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtedq64b8ia5",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Trong đánh giá nhân viên, bằng chứng nào phù hợp nhất?",
+   "o": [
+    "Mối quan hệ thân thiết với quản lý",
+    "Số lần tham gia hoạt động ngoài giờ",
+    "Kết quả công việc và tiêu chí đánh giá được xác định trước",
+    "Ấn tượng cá nhân từ một lần gặp"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtedq64ife9n",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Khi giao nhiệm vụ cho điều dưỡng viên, người quản lý cần làm rõ điều gì?",
+   "o": [
+    "Chỉ người sẽ bị kỷ luật nếu thất bại",
+    "Mục tiêu, phạm vi trách nhiệm, thời hạn và cách báo cáo",
+    "Chỉ tên nhiệm vụ mà không cần mục tiêu",
+    "Chỉ mức thưởng dự kiến"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtedq64wq6qo",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Điều dưỡng trưởng muốn xây dựng văn hóa an toàn. Cách tiếp cận phù hợp là gì?",
+   "o": [
+    "Khuyến khích báo cáo sự cố và học hỏi để phòng ngừa tái diễn",
+    "Chỉ ghi nhận sự cố gây hậu quả nặng",
+    "Giấu các sự cố suýt xảy ra",
+    "Đánh giá nhân viên chỉ dựa vào số lỗi báo cáo"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtedq64nngx2",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Khi nhận báo cáo một sự cố suýt xảy ra, hành động ưu tiên của quản lý là gì?",
+   "o": [
+    "Hủy báo cáo vì chưa có tổn hại",
+    "Chỉ tìm người chịu trách nhiệm cá nhân",
+    "Công khai danh tính người báo cáo",
+    "Phân tích nguy cơ và triển khai biện pháp phòng ngừa"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtedq64amlje",
+   "s": "mwtedgkasl2jf",
+   "sh": false,
+   "q": "Một chỉ số chất lượng chăm sóc có ý nghĩa khi nào?",
+   "o": [
+    "Thay đổi cách tính mỗi tháng",
+    "Không liên quan mục tiêu chăm sóc",
+    "Được định nghĩa rõ, đo lường nhất quán và dùng để cải tiến",
+    "Chỉ có tên gọi dễ nhớ"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtedq64u0u82",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Tỷ lệ té ngã tại khoa tăng liên tiếp. Điều dưỡng trưởng nên làm gì đầu tiên?",
+   "o": [
+    "Kết luận ngay mọi ca do người bệnh bất cẩn",
+    "Rà soát dữ liệu, phân tích nguyên nhân và yếu tố nguy cơ",
+    "Ngừng báo cáo té ngã",
+    "Chỉ thay bảng thông báo trong khoa"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtedq64bafbp",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Khi xây dựng kế hoạch phòng ngừa loét tỳ đè, chỉ số nào phản ánh kết quả phù hợp?",
+   "o": [
+    "Tỷ lệ người bệnh xuất hiện loét tỳ đè trong quá trình chăm sóc",
+    "Số cuộc họp hành chính",
+    "Số nhân viên ký tên dự họp",
+    "Số trang kế hoạch đã ban hành"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtedq64ce206",
+   "s": "mwtedgkasl2jf",
+   "sh": false,
+   "q": "Trong chu trình cải tiến chất lượng, bước kiểm tra có mục đích gì?",
+   "o": [
+    "Tự động kết thúc mọi hoạt động cải tiến",
+    "Thay thế bước triển khai",
+    "Chỉ lập danh sách khen thưởng",
+    "Đối chiếu kết quả thực tế với mục tiêu và chỉ số đã đặt ra"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtedq646t63r",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Khi một giải pháp cải tiến không đạt mục tiêu, quản lý nên làm gì?",
+   "o": [
+    "Dừng đo lường để tránh áp lực",
+    "Đổ lỗi cho một cá nhân mà không đánh giá hệ thống",
+    "Phân tích nguyên nhân và điều chỉnh biện pháp dựa trên dữ liệu",
+    "Giữ nguyên mãi vì đã được phê duyệt"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtedq64xk79t",
+   "s": "mwtedgkasl2jf",
+   "sh": false,
+   "q": "Để giảm thời gian chờ chăm sóc, bước xác định vấn đề nên dựa trên gì?",
+   "o": [
+    "Số lượng bảng biểu trong khoa",
+    "Dữ liệu thời gian chờ thực tế và phản hồi người bệnh",
+    "Cảm nhận của một nhân viên duy nhất",
+    "Ước lượng không cần ghi nhận"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtedq64pv5mv",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Một mục tiêu quản lý có thể đo lường cần có yếu tố nào?",
+   "o": [
+    "Chỉ số và mức đích cụ thể để theo dõi",
+    "Chỉ một khẩu hiệu động viên",
+    "Không cần thời điểm đánh giá",
+    "Không cần nguồn dữ liệu"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtedq64iwcx8",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Khi lập kế hoạch quý cho khoa, yếu tố nào cần xác định cùng với hoạt động?",
+   "o": [
+    "Chỉ màu sắc biểu mẫu",
+    "Chỉ tên người duyệt",
+    "Chỉ số lượng cuộc họp",
+    "Người phụ trách, nguồn lực, thời hạn và chỉ số đánh giá"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtedq640xpg7",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Một nguy cơ thiếu vật tư được nhận diện trước mùa cao điểm. Biện pháp phù hợp là gì?",
+   "o": [
+    "Tăng sử dụng vật tư không cần thiết",
+    "Bỏ ghi chép tồn kho",
+    "Dự báo nhu cầu, xác định tồn kho an toàn và phương án cung ứng",
+    "Chờ hết vật tư rồi mới báo cáo"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtedq64vbjsg",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Khi đánh giá tính khả thi của kế hoạch, cần xem xét gì?",
+   "o": [
+    "Chỉ số lượng trang văn bản",
+    "Nhân lực, thời gian, kinh phí và điều kiện triển khai",
+    "Chỉ mức độ hấp dẫn của tiêu đề",
+    "Chỉ sở thích của người lập"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtedq645lnm0",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Kế hoạch dự phòng có vai trò gì trong quản lý điều dưỡng?",
+   "o": [
+    "Chuẩn bị phương án ứng phó khi điều kiện thực hiện thay đổi",
+    "Loại bỏ nhu cầu giám sát",
+    "Thay thế toàn bộ kế hoạch chính",
+    "Bảo đảm không có bất kỳ rủi ro nào"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtedq64siriz",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Khi ưu tiên nhiều vấn đề cùng lúc, điều dưỡng trưởng nên dựa trên yếu tố nào?",
+   "o": [
+    "Thứ tự vấn đề được kể đến",
+    "Vấn đề dễ trình bày nhất",
+    "Sở thích của người báo cáo",
+    "Mức độ ảnh hưởng an toàn, tính cấp bách và khả năng can thiệp"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtedq64iyxnv",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Một mâu thuẫn về phân công chăm sóc kéo dài. Bước đầu tiên phù hợp là gì?",
+   "o": [
+    "Cấm các bên trình bày",
+    "Chuyển toàn bộ trách nhiệm cho người bệnh",
+    "Lắng nghe các bên và làm rõ dữ kiện, lợi ích liên quan",
+    "Chọn ngay một bên thắng"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtedq6445xe7",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Khi thảo luận nhóm có ý kiến trái chiều, người điều phối nên làm gì?",
+   "o": [
+    "Biến bất đồng thành đánh giá cá nhân",
+    "Khuyến khích lập luận dựa trên dữ kiện và tôn trọng lẫn nhau",
+    "Chỉ cho người thâm niên phát biểu",
+    "Ngắt lời người có quan điểm khác"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtedq64lnm8l",
+   "s": "mwtedgkasl2jf",
+   "sh": false,
+   "q": "Phản hồi mang tính xây dựng đối với nhân viên cần có đặc điểm nào?",
+   "o": [
+    "Cụ thể về hành vi, tác động và hướng cải thiện",
+    "Chỉ tập trung vào tính cách cá nhân",
+    "Đưa ra trước đám đông để gây áp lực",
+    "Không cần ví dụ hoặc bằng chứng"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtedq64pvpij",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Khi một nhân viên có dấu hiệu kiệt sức nghề nghiệp, quản lý nên ưu tiên gì?",
+   "o": [
+    "Giao thêm ca trực để tăng thích nghi",
+    "Xem đó là biểu hiện thiếu đạo đức",
+    "Yêu cầu giấu tình trạng với đồng nghiệp",
+    "Trao đổi hỗ trợ và đánh giá tải công việc, điều kiện làm việc"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtedq645h33d",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Trong cuộc họp nhóm, mục tiêu nào giúp tăng hiệu quả?",
+   "o": [
+    "Không ghi nhận quyết định",
+    "Chỉ thảo luận các vấn đề ngoài công việc",
+    "Thống nhất vấn đề, quyết định, người thực hiện và thời hạn",
+    "Kéo dài thời gian họp tối đa"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtedq6447vp4",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Một nhân viên có sáng kiến cải tiến quy trình. Điều dưỡng trưởng nên làm gì?",
+   "o": [
+    "Chỉ công nhận khi sáng kiến từ lãnh đạo",
+    "Đánh giá bằng chứng, thử nghiệm phù hợp và phản hồi kết quả",
+    "Bác bỏ vì nhân viên còn trẻ",
+    "Áp dụng toàn khoa không đánh giá rủi ro"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtedq64f6dle",
+   "s": "mwtedgkasl2jf",
+   "sh": false,
+   "q": "Khi phân công chăm sóc theo nhóm, điều gì giúp tránh bỏ sót nhiệm vụ?",
+   "o": [
+    "Xác định rõ người chịu trách nhiệm chính và cơ chế phối hợp",
+    "Để tất cả cùng chịu trách nhiệm không phân vai",
+    "Không cần bàn giao giữa thành viên",
+    "Chỉ dựa vào thâm niên"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtedq64ty6ve",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Trong giao tiếp với người bệnh đang tức giận, phản ứng phù hợp là gì?",
+   "o": [
+    "Tranh luận để chứng minh người bệnh sai",
+    "Bỏ đi ngay khi người bệnh lên tiếng",
+    "Đưa thông tin cá nhân của người bệnh lên nhóm chat",
+    "Lắng nghe, giữ bình tĩnh và xác định nhu cầu cần giải quyết"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtedq64po7kt",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Khi giao tiếp với người bệnh suy giảm thính lực, điều dưỡng nên làm gì?",
+   "o": [
+    "Chỉ giao tiếp từ phía sau",
+    "Mặc định người bệnh không có năng lực quyết định",
+    "Nói rõ ràng, đối diện và kiểm tra khả năng tiếp nhận thông tin",
+    "Nói nhanh hơn bình thường"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtedq64ixfec",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Để bảo đảm tính liên tục trong chăm sóc khi chuyển khoa, cần ưu tiên gì?",
+   "o": [
+    "Không xác nhận người nhận bàn giao",
+    "Bàn giao thông tin lâm sàng trọng yếu, can thiệp và nguy cơ hiện tại",
+    "Chỉ chuyển đồ dùng cá nhân",
+    "Bỏ thông tin dị ứng đã ghi nhận"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtedq64d7k3f",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Người bệnh có nguy cơ té ngã cao. Điều dưỡng cần phối hợp như thế nào?",
+   "o": [
+    "Thông báo nguy cơ, triển khai biện pháp phòng ngừa và theo dõi",
+    "Chỉ ghi chú mà không can thiệp",
+    "Chờ xảy ra té ngã mới lập kế hoạch",
+    "Giao toàn bộ trách nhiệm cho người nhà"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtedq64no3fs",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Khi phát hiện thuốc chuẩn bị dùng có thông tin không khớp, điều dưỡng nên làm gì?",
+   "o": [
+    "Tiếp tục vì đã đến giờ dùng",
+    "Nhờ người bệnh tự quyết định liều",
+    "Bỏ qua khác biệt nếu thuốc cùng màu",
+    "Tạm dừng, kiểm tra đối chiếu và làm rõ trước khi thực hiện"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtedq64fi0g2",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Khi một y lệnh chưa rõ ràng, hành động chuyên môn phù hợp là gì?",
+   "o": [
+    "Nhờ sinh viên quyết định",
+    "Thực hiện một phần bất kỳ",
+    "Liên hệ người ra y lệnh để xác minh trước khi thực hiện",
+    "Tự suy đoán nội dung"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtedq64az66b",
+   "s": "mwtedgkasl2jf",
+   "sh": false,
+   "q": "Trong giám sát tuân thủ vệ sinh tay, phương pháp nào phù hợp?",
+   "o": [
+    "Chỉ kiểm tra vào ngày có đoàn đánh giá",
+    "Quan sát theo tiêu chí thống nhất và phản hồi kết quả cải tiến",
+    "Chỉ hỏi nhân viên có nhớ quy định không",
+    "Chỉ đếm số chai dung dịch đã mua"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtedq64xpmz5",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Khi một quy trình chăm sóc mới được ban hành, quản lý cần làm gì?",
+   "o": [
+    "Đào tạo, cung cấp hướng dẫn và giám sát thực hiện",
+    "Chỉ gửi văn bản mà không hướng dẫn",
+    "Giả định mọi người đã hiểu",
+    "Không cần đánh giá sau triển khai"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtedq642w0yb",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Trong đánh giá rủi ro lâm sàng, yếu tố nào cần cân nhắc?",
+   "o": [
+    "Chỉ số người dự họp",
+    "Chỉ tuổi của người báo cáo",
+    "Chỉ chi phí in biểu mẫu",
+    "Khả năng xảy ra và mức độ nghiêm trọng của hậu quả"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtedq64ejyvf",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Khi tổ chức trực đêm, yếu tố nào cần ưu tiên để bảo đảm an toàn?",
+   "o": [
+    "Chỉ khoảng cách nhà đến bệnh viện",
+    "Chỉ số ca trực tháng trước",
+    "Năng lực nhân sự, tải chăm sóc và khả năng hỗ trợ khi cấp cứu",
+    "Chỉ mong muốn cá nhân của một nhân viên"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtedq64k38v8",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Để dự trù vật tư sát nhu cầu, điều dưỡng trưởng nên sử dụng dữ liệu nào?",
+   "o": [
+    "Chỉ mức tồn kho một ngày bất thường",
+    "Mức sử dụng thực tế, số người bệnh và xu hướng hoạt động",
+    "Chỉ số vật tư của khoa khác không điều chỉnh",
+    "Ước lượng tùy ý"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtedq64jdjs6",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Khi vật tư có nhiều hạn sử dụng khác nhau, cách ưu tiên cấp phát an toàn là gì?",
+   "o": [
+    "Ưu tiên loại hết hạn sớm trước khi hết hạn và còn bảo đảm chất lượng",
+    "Ưu tiên loại mới nhập bất kể hạn",
+    "Dùng ngẫu nhiên không kiểm tra hạn",
+    "Sử dụng vật tư đã quá hạn nếu còn nguyên bao bì"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtedq64u9js2",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Khi phát hiện thiết bị có dấu hiệu hoạt động bất thường, điều dưỡng cần làm gì?",
+   "o": [
+    "Tiếp tục sử dụng đến khi hỏng hoàn toàn",
+    "Tự tháo sửa khi chưa được phân quyền",
+    "Chuyển thiết bị sang khoa khác mà không thông báo",
+    "Ngừng sử dụng nếu có nguy cơ, đánh dấu và báo bộ phận phụ trách"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtedq6436neo",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Quản lý tài sản khoa phòng hiệu quả đòi hỏi hoạt động nào?",
+   "o": [
+    "Không cần ghi nhận thiết bị mượn",
+    "Chỉ theo dõi tài sản đắt tiền",
+    "Kiểm kê định kỳ, ghi nhận tình trạng và theo dõi bảo dưỡng",
+    "Chỉ kiểm kê khi mất tài sản"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtedq6458ea4",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Khi điều dưỡng trưởng phân tích nhu cầu đào tạo, nguồn thông tin nào phù hợp?",
+   "o": [
+    "Chỉ tên khóa học phổ biến",
+    "Khoảng cách năng lực, sai sót thường gặp và yêu cầu công việc",
+    "Chỉ sở thích của giảng viên",
+    "Chỉ số lượng chỗ ngồi hội trường"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtedq64ke3jw",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Để đánh giá chất lượng hướng dẫn sinh viên thực hành, cần xem xét gì?",
+   "o": [
+    "Mức đạt năng lực, an toàn và phản hồi từ các bên",
+    "Chỉ số buổi sinh viên có mặt",
+    "Chỉ số tài liệu đã in",
+    "Chỉ số ảnh chụp hoạt động"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtedq644nx7e",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Khi người bệnh phản ánh bị đối xử thiếu tôn trọng, quản lý nên làm gì?",
+   "o": [
+    "Bác bỏ ngay vì nhân viên có thâm niên",
+    "Công khai danh tính người phản ánh",
+    "Yêu cầu người bệnh không khiếu nại",
+    "Tiếp nhận, xác minh khách quan và phản hồi theo quy trình"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtedq649f91u",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Một người bệnh đề nghị nhân viên nhận tiền để được ưu tiên không đúng quy định. Cách xử lý là gì?",
+   "o": [
+    "Ưu tiên sau khi kết thúc ca trực",
+    "Nhờ đồng nghiệp nhận thay",
+    "Từ chối và giải thích nguyên tắc phục vụ công bằng",
+    "Nhận nếu số tiền nhỏ"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtedq64upm60",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Khi phát hiện dấu hiệu phân biệt đối xử trong nhóm chăm sóc, điều dưỡng trưởng nên làm gì?",
+   "o": [
+    "Chuyển người bệnh sang khoa khác ngay",
+    "Can thiệp kịp thời, xác minh và bảo đảm tiếp cận chăm sóc công bằng",
+    "Để tự giải quyết vì là chuyện cá nhân",
+    "Chỉ xử lý nếu có truyền thông đưa tin"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtedq650x6d6",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Một điều dưỡng nhận được lời mời quảng cáo sản phẩm dựa trên thông tin người bệnh. Cách ứng xử phù hợp là gì?",
+   "o": [
+    "Không sử dụng thông tin người bệnh trái mục đích và quy định bảo mật",
+    "Đồng ý nếu che tên nhưng còn thông tin nhận diện",
+    "Chia sẻ hồ sơ để đổi lấy tài trợ",
+    "Tự đăng hình người bệnh vì mục đích giáo dục"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtedq65gwxnf",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Khi thảo luận một ca bệnh phục vụ đào tạo, nguyên tắc bảo mật cần áp dụng là gì?",
+   "o": [
+    "Nêu đầy đủ thông tin cá nhân ở nơi công cộng",
+    "Gửi hồ sơ cho bất kỳ người tham dự",
+    "Đăng công khai lên mạng xã hội",
+    "Giới hạn thông tin nhận diện và tuân thủ quy định sử dụng dữ liệu"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtedq65wndua",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Trong chăm sóc cuối đời, điều dưỡng nên ưu tiên cách tiếp cận nào?",
+   "o": [
+    "Bỏ qua nhu cầu tinh thần",
+    "Tự ý thay đổi mục tiêu điều trị",
+    "Tôn trọng phẩm giá, giảm khó chịu và phối hợp theo nguyện vọng hợp pháp",
+    "Chỉ tập trung hoàn thành hồ sơ"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtedq65tu41d",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Người bệnh mong muốn được tham gia xây dựng kế hoạch chăm sóc. Điều dưỡng nên làm gì?",
+   "o": [
+    "Không giải thích vì kế hoạch thuộc chuyên môn",
+    "Trao đổi mục tiêu, lựa chọn phù hợp và ghi nhận sự tham gia",
+    "Chỉ thông báo kế hoạch đã quyết định",
+    "Để người nhà quyết định toàn bộ dù người bệnh đủ năng lực"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtedq65u5q0i",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Khi người bệnh có hạn chế khả năng đọc, biện pháp giáo dục sức khỏe nào phù hợp?",
+   "o": [
+    "Dùng ngôn ngữ đơn giản, minh họa và yêu cầu nhắc lại nội dung chính",
+    "Chỉ đưa tài liệu chữ nhỏ",
+    "Đọc nhanh toàn bộ thuật ngữ chuyên môn",
+    "Bỏ qua hướng dẫn xuất viện"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtedq65n7xhy",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Trong quyết định ưu tiên chăm sóc, điều dưỡng cần dựa trên gì?",
+   "o": [
+    "Thứ tự người bệnh gọi nhân viên",
+    "Sở thích cá nhân của điều dưỡng",
+    "Thời điểm người bệnh đóng viện phí",
+    "Đánh giá tình trạng, mức độ nguy cơ và nhu cầu cấp thiết"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtedq65d86t4",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Khi xảy ra bất đồng giữa các chuyên ngành về kế hoạch chăm sóc, hướng xử lý phù hợp là gì?",
+   "o": [
+    "Ngừng chăm sóc đến khi có người nhượng bộ",
+    "Tranh luận trước mặt người bệnh mà không giải thích",
+    "Trao đổi liên chuyên môn dựa trên mục tiêu và an toàn người bệnh",
+    "Tự ý bỏ chỉ định của chuyên ngành khác"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtedq65xva23",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Một chỉ số chăm sóc cải thiện nhưng phản hồi người bệnh giảm. Quản lý nên làm gì?",
+   "o": [
+    "Kết luận ngay người bệnh đánh giá thiếu khách quan",
+    "Phân tích đồng thời dữ liệu kết quả và trải nghiệm người bệnh",
+    "Bỏ qua phản hồi vì chỉ số kỹ thuật tốt",
+    "Ngừng thu thập phản hồi"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtedq65dxkbu",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Khi chọn giải pháp cải tiến, quản lý nên so sánh các phương án theo tiêu chí nào?",
+   "o": [
+    "Hiệu quả dự kiến, an toàn, nguồn lực và tính bền vững",
+    "Chỉ số lượng người đề xuất",
+    "Chỉ mức độ mới lạ",
+    "Chỉ thời gian trình bày phương án"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtedq653lztb",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Một khoa muốn tăng tỷ lệ hoàn thành hồ sơ chăm sóc đúng hạn. Giải pháp quản lý phù hợp là gì?",
+   "o": [
+    "Chỉ yêu cầu ký tên cuối tháng",
+    "Xóa các hồ sơ chậm khỏi thống kê",
+    "Đặt mục tiêu nhưng không phân công",
+    "Xác định nguyên nhân chậm, chuẩn hóa quy trình và theo dõi chỉ số"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwtedq6574ekj",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Khi có thay đổi lịch trực đột xuất, quản lý cần bảo đảm gì?",
+   "o": [
+    "Không cần xét thời gian nghỉ",
+    "Chuyển ca mà không xác nhận người nhận",
+    "Thông báo rõ ràng, duy trì năng lực trực và bàn giao đầy đủ",
+    "Chỉ thông báo cho người đổi ca"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwtedq65jrk8t",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Khi đánh giá một sáng kiến sau thử nghiệm, bằng chứng nào quan trọng nhất?",
+   "o": [
+    "Chỉ chi phí tổ chức lễ công bố",
+    "So sánh kết quả trước và sau theo chỉ số, xem xét yếu tố ảnh hưởng",
+    "Chỉ ý kiến của người đề xuất",
+    "Chỉ số lượt thích trên mạng xã hội"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwtedq655bnov",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Để duy trì cải tiến chất lượng lâu dài, khoa cần làm gì?",
+   "o": [
+    "Chuẩn hóa thực hành hiệu quả và giám sát định kỳ",
+    "Chấm dứt mọi theo dõi sau một tháng",
+    "Thay đổi quy trình mỗi ngày",
+    "Chỉ dựa vào sự nhiệt tình của một cá nhân"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwtedq65f309e",
+   "s": "mwtedgkasl2jf",
+   "sh": true,
+   "q": "Trong đạo đức nghiên cứu điều dưỡng, việc người tham gia rút lui có ý nghĩa gì?",
+   "o": [
+    "Bắt buộc tiếp tục vì đã ký đồng ý",
+    "Công khai danh tính để răn đe",
+    "Tự ý thay đổi dữ liệu để giữ cỡ mẫu",
+    "Tôn trọng quyền tự nguyện theo quy trình và bảo vệ quyền lợi của họ"
+   ],
+   "a": 3
   }
  ]
 }
