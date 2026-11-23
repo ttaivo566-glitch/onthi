@@ -6027,6 +6027,2203 @@
     "ĐTĐ thứ phát do cortisol tăng (hội chứng Cushing)"
    ],
    "a": 3
+  },
+  {
+   "id": "mwsy0qwbmpzxi",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Thực hiện 5 đúng khi tiêm thuốc bao gồm:",
+   "o": [
+    "Đúng người bệnh, đúng số giường, đúng số phòng, đúng số hồ sơ, đúng thuốc",
+    "Đúng người bệnh, đúng thuốc, đúng liều dùng, đúng đường dùng, đúng thời gian",
+    "Đúng thuốc, đúng liều, đúng tác dụng chính, đúng tác dụng phụ, đúng điều dưỡng thuốc",
+    "Đúng tên người bệnh, đúng tên bác sĩ, đúng tên điều dưỡng, đúng tên thuốc"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsy0qwbx7dbt",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Điều nào KHÔNG là yêu cầu cần thiết của Điều dưỡng khi dùng thuốc cho người bệnh:",
+   "o": [
+    "Tên thuốc, biệt dược",
+    "Liều lượng thuốc",
+    "Nhà sản xuất thuốc",
+    "Nắm vững qui chế về thuốc"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsy0qwbc82qi",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Khi thực hiện thuốc cho người bệnh, nếu có sai phạm, người điều dưỡng cần:",
+   "o": [
+    "Thay đổi y lệnh dùng thuốc",
+    "Phải thành thật khai báo",
+    "Phải thành thật khai báo, đồng thời chuẩn bị thuốc và các dụng cụ cấp cứu",
+    "Không cần thiết phải khai báo cho bác sĩ, và người quản lý trực tiếp"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsy0qwbxdp6k",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Lưu ý khi cho người bệnh uống thuốc:",
+   "o": [
+    "Thuốc lợi tiểu phải uống sau 15 giờ",
+    "Theo dõi dấu sinh hiệu khi dùng thuốc tác dụng tuần hoàn, hô hấp",
+    "Thuốc đắng nên uống ngay sau khi ăn no",
+    "Có thể pha trộn các loại thuốc với nhau"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsy0qwbbl57a",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Tiêm thuốc được thực hiện trong trường hợp người bệnh:",
+   "o": [
+    "Buồn nôn",
+    "Tâm thần",
+    "Cấp cứu, cần thuốc tác dụng nhanh",
+    "Không bị tổn thương niêm mạc tiêu hóa"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsy0qwbe3ea5",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Tai biến trong tiêm bắp khi xác định sai vị trí là:",
+   "o": [
+    "Chạm dây thần kinh mạch máu",
+    "Nhầm lẫn thuốc",
+    "Áp xe lạnh do thuốc không tan",
+    "Tắc mạch do khí, vật lạ"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwb3kd22",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Điều KHÔNG ĐÚNG về tiêm an toàn:",
+   "o": [
+    "Không gây nguy hại cho người được tiêm.",
+    "Không gây nguy cơ phơi nhiễm cho người thực hiện tiêm.",
+    "Chỉ cần đủ dụng cụ vô khuẩn và thuốc cho kỹ thuật tiêm là an toàn",
+    "Không tạo chất thải nguy hại cho người khác"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsy0qwb2bdke",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Điều dưỡng đang tiêm thuốc, đột ngột người bệnh mệt, than ngứa nổi mề đay, nhịp thở nhanh nông, mạch nhanh, huyết áp bình thường (chưa tụt hoặc tăng), đánh giá mức độ phản ứng phản vệ:",
+   "o": [
+    "Độ 1",
+    "Độ 2",
+    "Độ 3",
+    "Độ 4"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsy0qwb80xnu",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Dung dịch nào sau đây được gọi là dung dịch đẳng trương:",
+   "o": [
+    "NaCl 0,45%",
+    "NaCl 3%",
+    "NaCl 0,9%",
+    "Gluco 10%"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsy0qwbiu2xz",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Kim luồn được thay mỗi:",
+   "o": [
+    "12 đến 24 giờ",
+    "24 đến 48 giờ",
+    "48 đến 72 giờ",
+    "1 đến 2 ngày"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsy0qwbu1jf7",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Nguyên nhân gây tai biến thuyên tắc trong truyền dịch:",
+   "o": [
+    "Bọt khí, cục máu đông trong hệ thống truyền",
+    "Dịch chảy quá nhanh",
+    "Cơ thể người bệnh nhạy cảm với dịch truyền",
+    "Chăm sóc vị trí tiêm không đúng"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwbnxa79",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Người bệnh vừa truyền vài ml máu đột ngột hốt hoảng, lo sợ, đau tức ngực, đau cột sống dữ dội, khó thở, Điều dưỡng nghĩ đến tai biến:",
+   "o": [
+    "Nhiễm khuẩn huyết",
+    "Tán huyết cấp do truyền nhầm nhóm máu",
+    "Tan máu miễn dịch",
+    "Hội chứng xuất huyết"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsy0qwbazd82",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Yêu cầu theo dõi người bệnh khi truyền máu:",
+   "o": [
+    "30 phút đầu khi truyền máu",
+    "Liên tục trong suốt thời gian truyền máu",
+    "Chỉ khi có dấu hiệu bất thường",
+    "Theo dõi ít nhất là 3 lần trong 1 đơn vị máu"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsy0qwb6qj80",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Chọn câu đúng, góc độ tiêm bắp là:",
+   "o": [
+    "45 độ",
+    "90 độ",
+    "15 độ",
+    "30-45 độ"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsy0qwblrhkp",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Các vị trí tiêm dưới da, NGOẠI TRỪ:",
+   "o": [
+    "Đầu dưới cơ delta",
+    "2 bên bả vai",
+    "2 bên rốn cách rốn 5 phân",
+    "Cơ delta cách ụ vai 5 cm"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsy0qwb4w1il",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Tên của ống thông dùng trong kỹ thuật thông tiểu thường là:",
+   "o": [
+    "Tube Levin",
+    "Foley 2 nhánh",
+    "Nelaton",
+    "Cannula"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsy0qwbrv34z",
+   "s": "mwsxm2xy4wfgt",
+   "sh": false,
+   "q": "Trên một người bệnh có nhiều vết thương, cần ưu tiên rửa vết thương:",
+   "o": [
+    "Sạch - Nhiễm - Vô khuẩn",
+    "Vô khuẩn - Nhiễm - Sạch",
+    "Vô khuẩn - Sạch - Nhiễm",
+    "Rửa vết thương nào trước cũng được"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsy0qwbt45wh",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Dung dịch thích hợp để thay băng vết thương sâu, có lổ dò, nhiều mủ, đang chảy máu lượng ít là:",
+   "o": [
+    "Dầu mù u",
+    "Natri chlorua 0,9%",
+    "Povidine 10%",
+    "Oxy già"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsy0qwbson60",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Thay băng vết thương cần đảm bảo nguyên tắc:",
+   "o": [
+    "Mỗi mâm thay băng chỉ dùng riêng cho một người bệnh",
+    "Áp dụng kỹ thuật sạch khi thay băng",
+    "Rửa vết thương từ ngoài vào trong",
+    "Sát khuẩn trực tiếp lên vết thương"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwbstgfj",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Xét nghiệm máu: định lượng thành phần huyết tương: glucid, protid, cholesterol, chức năng gan, thận thuộc loại xét nghiệm nào sau đây:",
+   "o": [
+    "Sinh hóa",
+    "Vật lý",
+    "Vi sinh- ký sinh trùng",
+    "Tế bào"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwbrk4ik",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Cấy máu để tìm vi khuẩn trong máu nên lấy vào thời điểm nào:",
+   "o": [
+    "Sau khi dùng kháng sinh 5-7 ngày",
+    "Nên lấy máu lúc NB sốt, trước khi dùng kháng sinh",
+    "Bệnh thương hàn cấy máu trong 10 ngày sau khi xuất viện",
+    "Nên lấy máu khi người bệnh hạ sốt 30 phút"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsy0qwbak73e",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Nội dung KHÔNG ĐÚNG khi hút đờm là:",
+   "o": [
+    "Hút 1 lần không quá 15 giây",
+    "Dùng chung ống hút cho mũi, miệng và lỗ mở khí quản",
+    "Chọn kích cỡ ống phù hợp lứa tuổi",
+    "Đưa ống hút vào đúng vị trí rồi mới hút"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsy0qwb8yvr4",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Áp lực hút đàm trung bình ở người lớn:",
+   "o": [
+    "50-70 mmHg",
+    "70-80 mmHg",
+    "100-120 mmHg",
+    "120-150 mmHg"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsy0qwb42t2i",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Chỉ định của hút đàm thông đường hô hấp, NGOẠI TRỪ:",
+   "o": [
+    "NB nhiều đàm nhớt không tự khạc ra được",
+    "Tri giác kém, giảm hoặc mất phản xạ ho",
+    "NB có ống nội khí quản, mở khí quản, thở máy",
+    "Đối với người bệnh có ho có đàm có thể tự khạc đàm ra được"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsy0qwbm7ecd",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Phương pháp truyền máu an toàn nhất là :",
+   "o": [
+    "Có thể truyền cùng nhóm máu hoặc khác nhóm máu",
+    "Truyền máu đồng nhóm và truyền máu khác nhóm trên 2 đơn vị máu",
+    "Truyền máu khác nhóm dưới 2 đơn vị máu",
+    "Truyền máu đồng nhóm"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsy0qwb3vooc",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Khi cho người bệnh thở oxy: nước trong bình làm ẩm là nước:",
+   "o": [
+    "Nước vô khuẩn",
+    "Oxy già",
+    "Cồn 70",
+    "Povidine 10%"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwbuefbe",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Dụng cụ nào cung cấp nồng độ oxy 24-44%, ít bị kích thích, không cản trở khi ăn:",
+   "o": [
+    "Catheter (ống thông mũi hầu)",
+    "Canula (dây oxy 2 râu)",
+    "Lều oxy",
+    "Mặt nạ"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsy0qwbkla3w",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Người bệnh thở oxy 5 lít/1 phút qua nội khí quản, khò khè nhiều đàm nhớt trào ra ở ống nội khí quản, nhịp thở 30 lần/1 phút, SpO2 giảm 85%. Xử trí ưu tiên của Điều dưỡng:",
+   "o": [
+    "Tăng nồng độ oxy 100% kéo dài",
+    "Bóp bóng qua nội khí quản",
+    "Cho nằm đầu cao, cởi bỏ thắt lưng",
+    "Hút đàm, thông thoáng đường hô hấp"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsy0qwbrsdhg",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Thời gian cắt chỉ vết thương ở người già yếu, suy dinh dưỡng:",
+   "o": [
+    "Sau 3-5 ngày",
+    "Sau 5-7 ngày",
+    "Sau 7 ngày",
+    "Sau 10 ngày"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsy0qwber5io",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Tên dụng cụ thụt tháo cho người bệnh có cơ vòng không tự chủ là:",
+   "o": [
+    "Sonde rectal",
+    "Sonde Nelaton",
+    "Sonde folley",
+    "Sonde robinson"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwbjnguz",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Khi thụt tháo, điều nào sau đây là KHÔNG phù hợp:",
+   "o": [
+    "Cho bệnh nhân nằm nghiêng trái",
+    "Đẩy ống vào trực tràng theo hướng rốn",
+    "Cho nước chảy thật nhanh vào trực tràng để tống phân dễ dàng",
+    "Bầu treo cách giường bệnh khoảng 40cm"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsy0qwbf79q7",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Chống chỉ định của thụt tháo:",
+   "o": [
+    "Đau bụng chưa rõ nguyên nhân",
+    "Bón lâu ngày",
+    "Trước phẫu thuật",
+    "Trước khi chụp đại tràng có cản quang"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwbhlma0",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Bất lợi của nuôi ăn qua đường mở dạ dày ra da:",
+   "o": [
+    "Dễ bị hít sặc thức ăn",
+    "Có thể xảy ra phản ứng phản vệ",
+    "Dễ nhiễm trùng chân ống",
+    "Có thể gây quá tải tuần hoàn"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsy0qwbsixke",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Nuôi ăn qua ống thông mũi – dạ dày cần lưu ý:",
+   "o": [
+    "Phải chắc chắn ống vào trong dạ dày mới bơm thức ăn",
+    "Mỗi lần cho ăn khoảng 1500ml thức ăn",
+    "Duy trì tư thế đầu bằng ngay sau ăn",
+    "Không cần thay ống trong suốt thời gian người bệnh nằm viện"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwbg7ffm",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Thay ống thông mũi - dạ dày sau khi đặt ống bao lâu:",
+   "o": [
+    "Mỗi 24h",
+    "Mỗi 48h",
+    "Từ 5 – 7 ngày",
+    "Từ 5 – 7 tuần"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsy0qwb4tsk8",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Lưu ý khi nuôi ăn qua đường tĩnh mạch:",
+   "o": [
+    "Bị viêm phổi do hít sặc thức ăn",
+    "Tốc độ chậm, chỉnh đúng tốc độ dịch truyền theo y lệnh",
+    "Đặt người bệnh nằm nghiêng về bên truyền dịch",
+    "Dặn người bệnh không được cử động khi đang truyền"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsy0qwbjwclw",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Chiều dài trung bình của niệu đạo người trưởng thành nam dài khoảng:",
+   "o": [
+    "4 – 5 cm",
+    "6 – 8 cm",
+    "16-20 cm",
+    "30 – 50 cm"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsy0qwbbl958",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Tình trạng vô niệu khi số lượng nước tiểu trong 24 giờ là:",
+   "o": [
+    "< 100ml/24h",
+    "500ml/24h",
+    "800ml/24h",
+    "1000 ml/24h"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwbpar69",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Điều nào KHÔNG ĐÚNG trong phòng ngừa phản ứng phản vệ khi tiêm:",
+   "o": [
+    "Hỏi người bệnh về tiền sử dị ứng thuốc, thức ăn",
+    "Luôn mang theo hộp cấp cứu phản vệ khi tiêm",
+    "Bơm thuốc nhanh, nhằm giảm đau cho người bệnh",
+    "Bơm thuốc chậm 1ml/10 giây, quan sát sắc mặt người bệnh"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsy0qwbsxzw1",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Trường hợp nào cần đặt thông tiểu:",
+   "o": [
+    "Nhiễm trùng niệu đạo",
+    "Chấn thương dập rách niệu đạo",
+    "Lấy nước tiểu xét nghiệm vi sinh",
+    "Chấn thương tuyến tiền liệt"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsy0qwb3jalc",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Biến chứng nào sau đây xảy ra do xả nước tiểu quá nhanh khi thông tiểu làm thay đổi áp suất đột ngột trong bàng quang:",
+   "o": [
+    "Nhiễm trùng",
+    "Xuất huyết bàng quang",
+    "Hẹp niệu đạo",
+    "Dò niệu đạo"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsy0qwbi08ky",
+   "s": "mwsxm2xy4wfgt",
+   "sh": false,
+   "q": "Chăm sóc người bệnh có đặt thông tiểu lưu:",
+   "o": [
+    "Vệ sinh bộ phận sinh dục mỗi ngày",
+    "Thay ống thông tiểu mỗi ngày",
+    "Hệ thống ống thông tiểu phải thông 2 chiều",
+    "Tất cả đều đúng"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwbze1o1",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Hành vi an toàn khi tiêm là:",
+   "o": [
+    "Loại bỏ kim tiêm đã đụng chạm vào bất kỳ bề mặt nào không vô khuẩn",
+    "Dùng chung bơm kim tiêm cho những loại thuốc khác nhau",
+    "Rút thuốc hàng loạt",
+    "Lưu kim lấy thuốc trên lọ"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwbgm2ms",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Tai biến tiêm thuốc gây nguy cơ nhiễm trùng huyết là do:",
+   "o": [
+    "Nhầm lẫn thuốc",
+    "Phản ứng phản vệ",
+    "Vô khuẩn không tốt",
+    "Tác dụng của thuốc"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsy0qwbrph8u",
+   "s": "mwsxm2xy4wfgt",
+   "sh": false,
+   "q": "Cấp cứu ngưng hô hấp tuần hoàn ở người lớn tiến hành theo trình tự:",
+   "o": [
+    "Thông đường thở, Thổi ngạt, Ép tim",
+    "Ép tim, Thông đường thở, Thổi ngạt",
+    "Thông đường thở, Ép tim, Thổi ngạt",
+    "Thổi ngạt, Ép tim, Thông đường thở"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsy0qwbngt9i",
+   "s": "mwsxm2xy4wfgt",
+   "sh": false,
+   "q": "Cần tiến hành cấp cứu ngừng tuần hoàn khi nạn nhân có dấu hiệu:",
+   "o": [
+    "Không đáp ứng với kích thích (1)",
+    "Ngưng thở hoặc thở ngáp (2)",
+    "Mất mạch bẹn hoặc mạch cảnh (3)",
+    "Tất cả (1), (2), (3) đều đúng"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsy0qwbubss8",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Sơ cứu hồi sinh tim phổi ở người lớn, tốc độ nhấn tim được khuyến cáo:",
+   "o": [
+    "80-100 lần/phút",
+    "Khoảng 100 lần/phút",
+    "Khoảng 80 lần/phút",
+    "100-120 lần/phút"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsy0qwb4bzme",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Nạn nhân bị điện giật ngưng tim ngừng thở, điều đầu tiên sơ cứu viên phải làm:",
+   "o": [
+    "Gọi hỗ trợ và nhanh chóng đưa nạn nhân ra khỏi nơi nguy hiểm",
+    "Gọi hỗ trợ và cắt cầu dao điện",
+    "Kiểm tra và thực hiện hồi sức hô hấp tuần hoàn",
+    "Thực hiện kiểm tra tình trạng hô hấp và tuần hoàn"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsy0qwbpw29c",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Động tác KHÔNG NÊN làm khi sơ cứu gãy xương là:",
+   "o": [
+    "Chuyển người bệnh đến bệnh viện khi chưa bất động",
+    "Cầm máu ngay nơi bị gãy",
+    "Bất động chi gãy",
+    "Giảm đau, phòng chống sốc"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwbl7w8j",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Điều nào không phù hợp khi chuẩn bị chuyển viện cho người bệnh:",
+   "o": [
+    "Không cần thông báo cho nơi chuyển đến",
+    "Kiểm tra tình trạng người bệnh",
+    "Chuẩn bị phương tiện, hồ sơ, thuốc",
+    "Báo cáo lại quá trình vận chuyển"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwbfv82u",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Trước khi cho người bệnh dùng thuốc, nếu nắm thông tin không rõ người điều dưỡng cần:",
+   "o": [
+    "Thay đổi y lệnh của bác sĩ",
+    "Pha trộn nhiều loại thuốc với nhau",
+    "Gọi điện hỏi ý kiến bác sĩ và nhận y lệnh qua điện thoại",
+    "Phải hỏi lại bác sĩ sau đó thực hiện chính xác y lệnh đã được điều chỉnh theo hồ sơ"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsy0qwb2a9gv",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Lưu ý khi dùng thuốc uống cho người bệnh:",
+   "o": [
+    "Thuốc làm tổn thương niêm mạc dạ dày uống trước khi ăn",
+    "Thuốc lợi tiểu uống sau 15 giờ",
+    "Người bệnh hôn mê uống qua sonde dạ dày",
+    "Nên uống các loại thuốc bằng nước ấm qua ống hút"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsy0qwb2rfcf",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Khi dùng thuốc qua đường uống dễ gây nôn ói cho người bệnh, người điều dưỡng cần:",
+   "o": [
+    "Cho người bệnh uống thuốc thật nhanh",
+    "Cho người bệnh ngậm đá trước khi uống và uống với nước ấm",
+    "Cho người bệnh dùng thuốc ngay sau khi ăn",
+    "Cho người bệnh ngậm đá trước khi uống hoặc dùng ống hút"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsy0qwb26zi4",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Không áp dụng 5 đúng trong quá trình tiêm có nguy cơ gây tai biến:",
+   "o": [
+    "Nhiễm khuẩn huyết",
+    "Nhầm lẫn thuốc",
+    "Sốc do bơm thuốc quá nhanh",
+    "Sốc do cơ thể phản ứng với thuốc"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsy0qwbe3vmk",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Khi người bệnh bị phản ứng phản vệ từ mức độ nặng và nguy kịch (độ II, III), nhân viên y tế lập tức xử trí ngay bằng thuốc:",
+   "o": [
+    "Adrenalin",
+    "Solumedrol",
+    "Depersolon",
+    "Hydrocortisol"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwbys0tn",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Vị trí tiêm bắp, NGOẠI TRỪ:",
+   "o": [
+    ".1/3 giữa mặt trước ngoài đùi",
+    ".1/4 trên ngoài mông",
+    "Cơ delta cách ụ vai 5 phân",
+    "Đầu dưới cơ delta"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsy0qwbkjhmr",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Chọn câu đúng, góc độ tiêm tĩnh mạch:",
+   "o": [
+    "45 độ",
+    "90 độ",
+    "15 độ",
+    "30-45 độ"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsy0qwbz522t",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Dung dịch nào sau đây là dung dịch ưu trương:",
+   "o": [
+    "Lactat Ringer",
+    "NaCl 3%",
+    "NaCl 0,9%",
+    "Gluco 5 %"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsy0qwbj76sc",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Mục đích của tiêm truyền dung dịch là:",
+   "o": [
+    "Ổn định nồng độ huyết sắc tố trong máu",
+    "Đem thuốc vào cơ thể với số lượng nhiều trực tiếp vào máu.",
+    "Cần thuốc vào cơ thể tác dụng nhanh dẫn đến mau lành bệnh",
+    "Đảm bảo cung cấp đủ oxy cho cơ thể"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsy0qwbc95z6",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Để phòng ngừa tai biến tán huyết cấp do truyền nhầm nhóm máu, trước khi truyền máu Điều dưỡng cần thực hiện:",
+   "o": [
+    "Thực hiện các xét nghiệm máu",
+    "Đối chiếu đúng người bệnh",
+    "Kiểm tra chất lượng máu",
+    "Định nhóm máu tại giường trước khi truyền máu"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsy0qwbvwv66",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Khi truyền máu người bệnh bị lạnh run, nổi mề đay, khó thở Điều dưỡng cần xử trí, NGOẠI TRỪ:",
+   "o": [
+    "Ngưng truyền máu.",
+    "Báo ngay cho bác sĩ và nhanh chóng thực hiện y lệnh",
+    "Hủy túi máu đang truyền cho người bệnh",
+    "Lấy máu để kiểm tra các xét nghiệm cần thiết"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsy0qwb6z7gm",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Nhóm thuốc dễ gây dị ứng Điều dưỡng cần theo dõi sát khi tiêm:",
+   "o": [
+    "Thuốc kháng sinh",
+    "Dịch truyền NaCl 0,9%",
+    "Diphehydramin",
+    "Adrenaline"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwb3610f",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Một người bệnh được dùng thuốc qua đường uống. Người bệnh có biểu hiện nổi mề đay, ngứa, dấu sinh hiệu ổn. Phân loại mức độ phản vệ:",
+   "o": [
+    "Độ 1",
+    "Độ 2",
+    "Độ 3",
+    "Độ 4"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwbu6z7w",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Mục đích của lấy bệnh phẩm làm xét nghiệm nhằm, NGOẠI TRỪ:",
+   "o": [
+    "Giúp thầy thuốc có đầy đủ dữ kiện để chuẩn đoán bệnh",
+    "Theo dõi diễn tiến bệnh và hiệu quả việc điều trị",
+    "Phòng bệnh",
+    "Tầm soát bệnh"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsy0qwbofb42",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Phân của người bệnh nghi ngờ xuất huyết tiêu hóa trên có màu:",
+   "o": [
+    "Vàng nâu",
+    "Phân đen",
+    "Màu trắng, loáng mỡ",
+    "Phân đỏ tươi"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsy0qwbj1uw9",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Chuẩn bị người bệnh đo điện tim, điều nào KHÔNG ĐÚNG:",
+   "o": [
+    "Nghỉ ngơi trước khi đo ít nhất 15 phút",
+    "Tư thế đo điện tim: người bệnh nằm xấp.",
+    "Bỏ các vật dụng bằng kim khí: đồng hồ, chìa khóa",
+    "Nối các dây với các bản điện cực phải đúng vị trí"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsy0qwb7782u",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Dấu hiệu sớm nhất để phát hiện nhiễm trùng vết khâu là:",
+   "o": [
+    "Đỏ nơi chân chỉ khâu",
+    "Sốt",
+    "Có tiết dịch và mủ",
+    "Mệt mỏi"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwb8qwv9",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Để giúp mô hạt mọc tốt khi vết thương đã sạch mủ, ta nên:",
+   "o": [
+    "Thường xuyên thay băng",
+    "Dùng dầu mù u đắp lên vết thương",
+    "Rửa vết thương bằng dung dịch có nồng độ mạnh",
+    "Rửa vết thương bằng oxy già"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsy0qwbtsgyi",
+   "s": "mwsxm2xy4wfgt",
+   "sh": false,
+   "q": "Phân loại vết thương vô khuẩn, sạch, nhiễm dựa vào:",
+   "o": [
+    "Theo cơ chế vết thương",
+    "Theo sự hiện diện của vi sinh vật",
+    "Theo nguyên nhân",
+    "Tất cả đều đúng"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsy0qwbdqn6k",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Cắt chỉ vết khâu cần bảo đảm nguyên tắc sau, NGOẠI TRỪ:",
+   "o": [
+    "Sát khuẩn trước khi cắt chỉ",
+    "Không để chỉ nằm trên da chui xuống dưới da",
+    "Kiểm tra sự nguyên vẹn của mối chỉ sau khi cắt",
+    "Vết thương nhiễm trùng không nên cắt chỉ sớm"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsy0qwbkcxya",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Hút thông đường hô hấp dưới là:",
+   "o": [
+    "Hút qua miệng",
+    "Hút qua mũi",
+    "Hút qua mũi miệng",
+    "Hút qua nội khí quản"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsy0qwbullnt",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Điều dưỡng cần theo dõi SpO2 của người bệnh trong lúc hút đàm nhằm tránh tai biến:",
+   "o": [
+    "Nhiễm khuẩn",
+    "Thiếu oxy",
+    "Tổn thương niêm mạc đường hô hấp",
+    "Chậm nhịp tim"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsy0qwbulzmj",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Khi thở oxy nồng độ cao kéo dài gây tai biến:",
+   "o": [
+    "Tắc nghẽn đường hô hấp",
+    "Chướng bụng",
+    "Vỡ phế nang",
+    "Ngộ độc oxy, teo võng mạc"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsy0qwbsp2i9",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Mặt nạ đơn giản cung cấp nồng độ oxy:",
+   "o": [
+    "24-40%",
+    "40-60%",
+    "60-80%",
+    "60-99%"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsy0qwblrli7",
+   "s": "mwsxm2xy4wfgt",
+   "sh": false,
+   "q": "Cách kiểm tra tube Levin đã vào trong dạ dày:",
+   "o": [
+    "Bơm hơi vào dạ dày và dùng ống nghe nơi vùng thượng vị",
+    "Rút dịch dạ dày thử trên giấy quỳ, giấy quỳ đổi màu",
+    "Chỉ cần thử 1 trong 2 cách",
+    "Phải thử cả 2 cách"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsy0qwbrlwid",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Trường hợp nào sau đây không áp dụng chườm lạnh:",
+   "o": [
+    "Người bệnh xuất huyết",
+    "Hạ thân nhiệt",
+    "Chấn thương sọ não",
+    "Sau khi mổ bướu"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsy0qwb6g183",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Tên dụng cụ thụt tháo cho người bệnh có cơ vòng tự chủ là:",
+   "o": [
+    "Sonde rectal",
+    "Sonde Nelaton",
+    "Sonde folley",
+    "Canule rectal"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsy0qwb50gss",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Nhiệt độ của dung dịch thụt tháo khoảng:",
+   "o": [
+    "8 – 10 độ C",
+    "10 – 15 độ C",
+    "37 – 40 độ C",
+    "60 – 70 độ C"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsy0qwble9mu",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Tư thế của người bệnh khi thụt trong trường hợp người bệnh có cơ vòng không tự chủ:",
+   "o": [
+    "Tư thế nằm nghiêng trái",
+    "Tư thế nằm nghiêng phải",
+    "Tư thế nằm ngửa trên bồn tiêu",
+    "Tư thế nằm sấp"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsy0qwbeizz1",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Lợi ích của cho ăn qua đường tĩnh mạch:",
+   "o": [
+    "Nhanh, cấp cứu ngay, đỡ tốn tiền",
+    "Chất dinh dưỡng được hấp thu trực tiếp vào máu",
+    "Làm cơ quan tiêu hóa hoạt động hiệu quả",
+    "Ít gây phản ứng phản vệ"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsy0qwbvcoo2",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Điều nào sau đây KHÔNG đúng khi chăm sóc người bệnh ăn qua sonde:",
+   "o": [
+    "Không nên thử ống trước mỗi lần cho ăn.",
+    "Thay ống mỗi 5 – 7 ngày",
+    "Nằm tư thế đầu cao 30 phút sau ăn",
+    "Tráng ống trước và sau mỗi lần cho thức ăn"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwbq02z2",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Tư thế người bệnh trong và sau ăn bằng ống thông mũi – dạ dày:",
+   "o": [
+    "Người bệnh nằm đầu thấp",
+    "Người bệnh nằm cao 30-45 độ",
+    "Người bệnh nằm đầu nghiêng",
+    "Người bệnh nằm sấp"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsy0qwb39q8y",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Tình trạng thiểu niệu khi số lượng nước tiểu trong 24 giờ là:",
+   "o": [
+    "< 200ml/24h",
+    "< 500ml/24h",
+    "1000ml/24h",
+    "1200 ml/24h"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsy0qwb5hx1l",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Chiều dài trung bình của niệu đạo người trưởng thành nữ khoảng:",
+   "o": [
+    "4 – 5 cm",
+    "12 – 15 cm",
+    "16-20 cm",
+    "30 – 50 cm"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwbozp9o",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Tên của ống thông dùng trong thông tiểu liên tục là:",
+   "o": [
+    "Tube Levin",
+    "Foley 2 nhánh",
+    "Nelaton",
+    "Cannula"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsy0qwc0655b",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Trường hợp nào sau đây CHỐNG chỉ định thông tiểu:",
+   "o": [
+    "Bí tiểu",
+    "Lấy nước tiểu vô trùng làm xét nghiệm",
+    "Phụ nữ trước khi sinh",
+    "Dập rách niệu đạo"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsy0qwcfxrc8",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Kích cỡ ống thông dùng thông tiểu cho người lớn khoảng:",
+   "o": [
+    "8-12Fr",
+    "13-15Fr",
+    "16-20Fr",
+    "25-30Fr"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsy0qwcqha5h",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Hệ thống dẫn lưu nước tiểu, cần phải:",
+   "o": [
+    "Túi chứa thấp hơn bàng quang 60cm",
+    "Lưu thông 2 chiều",
+    "Túi chứa đặt ngang bàng quang",
+    "Túi chứa cao hơn bàng quang"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwc4ygn9",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Tai biến khi đặt thông tiểu do kỹ thuật của điều dưỡng:",
+   "o": [
+    "Teo bàng quang",
+    "Dò niệu đạo",
+    "Sỏi bàng quang",
+    "Chấn thương niệu đạo"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsy0qwcnh0rg",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Hành vi KHÔNG an toàn khi tiêm là:",
+   "o": [
+    "Dùng hai tay đậy nắp kim sau khi tiêm",
+    "Dùng gạc bẻ ống thuốc",
+    "Mang găng khi có nguy cơ tiếp xúc với máu hoặc dịch tiết của người bệnh",
+    "Không dùng tay để đậy nắp kim sau tiêm."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwckoxbu",
+   "s": "mwsxm2xy4wfgt",
+   "sh": false,
+   "q": "Biện pháp quan trọng để phòng ngừa tổn thương do kim đâm:",
+   "o": [
+    "Luôn đóng nắp kim tiêm cẩn thận trước khi bỏ vào thùng đựng vật sắc nhọn",
+    "Luôn tháo rời kim tiêm khỏi bơm tiêm trước khi bỏ vào thùng đựng vật sắc nhọn",
+    "Hủy kim vào thùng đựng vật sắc nhọn ngay sau khi sử dụng",
+    "Tất cả đều đúng"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsy0qwclkbkn",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Trong hồi sinh tim phổi ở người lớn, tỉ lệ ấn tim – thổi ngạt là:",
+   "o": [
+    "30:1",
+    "30:2",
+    "15:1",
+    "15:2"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsy0qwcc9l0p",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Dấu hiệu nhận biết nạn nhân ngưng tim ngưng thở. NGOẠI TRỪ:",
+   "o": [
+    "Không đáp ứng với kích thích",
+    "Ngưng thở hoặc thở ngáp",
+    "Mất mạch bẹn hoặc mạch cảnh",
+    "Mạch quay: mạch nhanh nông, khó bắt"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsy0qwc7nzzw",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Ép tim ngoài lồng ngực ở người lớn. Xác định vị trí điểm ấn:",
+   "o": [
+    "Liên sườn 4-5 bên phải xương ức",
+    "Liên sườn 4-5 bên trái xương ức",
+    "Trên mấu xương ức 1 khoát ngón tay",
+    "Hai tay đặt trên nửa dưới của xương ức"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsy0qwc3fmkn",
+   "s": "mwsxm2xy4wfgt",
+   "sh": false,
+   "q": "Trình tự hồi sức tim phổi:",
+   "o": [
+    "Nhấn ngực ngay 30 lần Khai thông đường thở Thổi ngạt 2 lần",
+    "Nhấn ngực ngay 30 lần Thổi ngạt 2 lần Khai thông đường thở",
+    "Khai thông đường thở Thổi ngạt 2 lần Nhấn ngực ngay 30 lần",
+    "Thổi ngạt 2 lần Nhấn ngực ngay 30 lần Khai thông đường thở"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwc3zah7",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Động tác nên làm ngay khi sơ cứu gãy xương là:",
+   "o": [
+    "Chuyển người bệnh đến cơ sở y tế",
+    "Bất động xương gãy giảm đau cho người bệnh",
+    "Đặt chi gãy lên cao tránh phù nề",
+    "Chụp XQ để xác định người bệnh có gãy xương không."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsy0qwcmnq7s",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Điều nào KHÔNG phù hợp khi tiếp đón người bệnh ở phòng khám:",
+   "o": [
+    "Chuẩn bị phòng khám, dụng cụ khám",
+    "Sắp xếp theo thứ tự, lưu ý các trường hợp bệnh nặng",
+    "Hướng dẫn thủ tục, hỗ trợ bác sĩ khám bệnh",
+    "Chỉ đọc số thứ tự của người bệnh, không đọc tên người bệnh"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsy0qwcfsz72",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Tại sao trong quy trình dùng thuốc an toàn, điều dưỡng tuyệt đối không được phép thực hiện việc gộp nhiều loại thuốc tiêm khác nhau vào cùng một bơm tiêm hoặc dây truyền nếu chưa có nghiên cứu chứng minh tính tương kỵ thuốc?",
+   "o": [
+    "Vì có thể gây ra phản ứng hóa học tạo kết tủa, làm mất tác dụng thuốc hoặc gây tai biến tắc mạch, sốc nguy hiểm cho người bệnh.",
+    "Vì làm như vậy sẽ tốn nhiều thời gian thao tác của điều dưỡng.",
+    "Vì quy định của khoa dược không cho phép dùng chung bơm tiêm.",
+    "Vì làm mất nhãn mác của các thuốc thành phần."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwcdnrws",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Ý nghĩa cốt lõi của việc áp dụng nghiêm ngặt nguyên tắc '5 đúng' trong mọi hoạt động cấp phát và thực hiện y lệnh thuốc là gì?",
+   "o": [
+    "Là rào chắn an toàn quan trọng nhất nhằm triệt tiêu các sai sót y khoa có thể xảy ra, bảo vệ tính mạng và sức khỏe người bệnh.",
+    "Giúp điều dưỡng hoàn thành nhanh chóng các thủ tục hành chính sổ sách trong ca trực.",
+    "Để đối phó với các đoàn thanh tra kiểm tra bệnh viện định kỳ.",
+    "Nhằm giúp khoa phòng tiết kiệm tối đa lượng thuốc tiêu hao."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwcwkoae",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Khi thực hiện truyền dịch tĩnh mạch với tốc độ nhanh (như truyền bù dịch ở bệnh nhân sốc mất máu hoặc mất nước nặng), điều dưỡng cần phải lưu ý điều gì về mặt sinh lý để đảm bảo an toàn tim mạch?",
+   "o": [
+    "Phải theo dõi sát nhịp thở, sắc mặt và áp lực tĩnh mạch trung tâm (nếu có) để phòng ngừa nguy cơ quá tải tuần hoàn gây phù phổi cấp.",
+    "Cứ mở hết cỡ khóa dây truyền để dịch chảy nhanh nhất có thể.",
+    "Không cần quan tâm vì hệ thống tuần hoàn tự điều chỉnh được.",
+    "Chỉ cần đắp chăn ấm cho người bệnh là đủ."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwcgm2d9",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Phân tích lý do vì sao khi tiêm các thuốc có tính kích ứng mạnh (như Canxi Clorua hoặc một số hóa chất điều trị ung thư) ra ngoài mạch máu sẽ gây hoại tử mô nghiêm trọng?",
+   "o": [
+    "Vì các dung dịch này có độ pH hoặc áp lực thẩm thấu chênh lệch lớn so với dịch nội bào, gây tổn thương và chết tế bào vùng mô xung quanh.",
+    "Vì kim tiêm bị cùn làm rách da người bệnh.",
+    "Vì người bệnh có cơ địa dị ứng đặc biệt với thành phần nước cất.",
+    "Vì điều dưỡng sát khuẩn da chưa đủ thời gian quy định."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwcv90t4",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Tại sao trong quy trình quản lý tủ thuốc trực, các thuốc có hình thức bao bì, tên gọi hoặc hàm lượng gần giống nhau (Look-alike, Sound-alike - LASA) lại cần phải được sắp xếp tách biệt nhau?",
+   "o": [
+    "Nhằm tránh sự nhầm lẫn trực quan của điều dưỡng khi lấy thuốc trong điều kiện áp lực công việc cao hoặc mệt mỏi ca trực đêm.",
+    "Để tủ thuốc trông gọn gàng và đẹp mắt hơn khi kiểm tra.",
+    "Để phân loại theo giá thành đắt hay rẻ của thuốc.",
+    "Giúp sinh viên thực tập dễ dàng học thuộc tên thuốc."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwd6c7ek",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Khi người bệnh từ chối không chịu uống thuốc hoặc tiêm thuốc theo y lệnh bác sĩ, hành xử chuyên nghiệp và đúng đạo đức của điều dưỡng là gì?",
+   "o": [
+    "Quát mắng và bắt ép người bệnh phải uống bằng được vì đây là y lệnh.",
+    "Tìm hiểu nguyên nhân từ chối (do sợ tác dụng phụ, do khó uống hoặc lo lắng), kiên nhẫn giải thích lợi ích điều trị, đồng thời báo cáo bác sĩ nếu người bệnh vẫn kiên quyết từ chối.",
+    "Tự ý bỏ thuốc đi và ghi vào phiếu chăm sóc là người bệnh đã uống đủ.",
+    "Để thuốc ở đầu giường rồi mặc kệ người bệnh muốn làm gì thì làm."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsy0qwdjnni1",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Hiểu thế nào là hiện tượng 'tương tác thuốc' khi người bệnh phải sử dụng đồng thời nhiều loại thuốc khác nhau trong phác đồ điều trị?",
+   "o": [
+    "Là hiện tượng khi dùng chung các thuốc có thể làm gia tăng tác dụng phụ, làm giảm hiệu lực điều trị hoặc sinh ra chất độc hại do ảnh hưởng qua lại lẫn nhau.",
+    "Là hiện tượng các viên thuốc tự va đập vào nhau trong cốc đựng thuốc.",
+    "Là sự phối hợp hoàn hảo giúp người bệnh nhanh chóng xuất viện trong vòng 1 ngày.",
+    "Là phản ứng tâm lý giao tiếp giữa điều dưỡng và người bệnh."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwddb1h9",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Tại sao các thuốc tiêm truyền có yêu cầu bảo quản lạnh (như Insulin, một số loại vacxin hoặc sinh phẩm) nếu bị để ở nhiệt độ phòng quá lâu sẽ dẫn đến hậu quả gì?",
+   "o": [
+    "Làm biến tính protein, mất hoạt tính sinh học của thuốc, dẫn đến điều trị không hiệu quả hoặc gây tai biến độc hại.",
+    "Chỉ làm đổi màu sắc bao bì bên ngoài chứ chất lượng thuốc bên trong không thay đổi.",
+    "Làm cho ống thuốc dễ bị nứt vỡ hơn.",
+    "Làm cho dung dịch thuốc trở nên đặc sánh lại giống như thạch."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwd35stt",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Trong kỹ thuật tiêm tĩnh mạch, tại sao điều dưỡng phải tiến hành thao tác 'hút ngược kiểm tra máu' (kiểm tra xem có máu báo trong đốc kim hay không) trước khi bơm thuốc?",
+   "o": [
+    "Để chắc chắn đầu kim đang nằm chính xác trong lòng tĩnh mạch, phòng tránh việc thuốc bị bơm ra ngoài mô gây phồng đau hoặc hoại tử.",
+    "Để lấy mẫu máu xét nghiệm sinh hóa luôn tại thời điểm đó.",
+    "Giúp làm ấm dung dịch thuốc trước khi đi vào cơ thể.",
+    "Để xả sạch bọt khí còn sót lại trong bơm tiêm."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwdeitjy",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Ý nghĩa của việc thực hiện 'đối chiếu 3 lần 5 soát' trong cấp phát và chuẩn bị thuốc là gì?",
+   "o": [
+    "Giúp kiểm soát chặt chẽ từ khâu lĩnh thuốc, chuẩn bị thuốc đến khâu phát thuốc tận tay người bệnh, loại bỏ hoàn toàn các sai sót nhầm lẫn.",
+    "Để làm tăng gấp ba lần thời gian thực hiện công việc hành chính của khoa.",
+    "Giúp điều dưỡng phân phát thuốc xong sớm trước giờ quy định.",
+    "Để người nhà người bệnh quan sát và thán phục sự cẩn thận của điều dưỡng."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwd7q5kd",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Phân tích nguyên nhân vì sao việc dùng quá liều các thuốc nhóm hạ áp hoặc giảm đường huyết có thể gây ra nguy cơ tử vong nhanh chóng cho người bệnh nếu điều dưỡng không kiểm tra kỹ y lệnh và liều lượng?",
+   "o": [
+    "Vì làm tụt huyết áp quá nhanh hoặc hạ đường huyết sâu dẫn đến sốc trụy mạch, tổn thương não không hồi phục nếu không cấp cứu kịp thời.",
+    "Vì làm cho người bệnh bị buồn ngủ kéo dài qua ngày hôm sau.",
+    "Vì gây ra dị ứng ngoài da toàn thân.",
+    "Vì làm hỏng hệ thống đường truyền tĩnh mạch ngoại biên."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwda7xms",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Khi điều dưỡng phát hiện một ống thuốc tiêm bị mờ nhãn, mất thông tin số lô hoặc nứt rách phần cổ ống dù chưa hết hạn sử dụng, cách xử lý đúng chuyên môn an toàn là gì?",
+   "o": [
+    "Vẫn cố gắng dùng bút viết lại tên thuốc lên ống rồi tiêm cho người bệnh.",
+    "Tuyệt đối không sử dụng, tiến hành lập biên bản thu hồi và báo cáo khoa dược để đổi lọ thuốc mới nguyên vẹn, đảm bảo an toàn tuyệt đối.",
+    "Đưa cho điều dưỡng ca trực sau dùng để đỡ bị lập biên bản hao phí.",
+    "Đổ thuốc ra cốc giấy để phân biệt với các thuốc khác."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsy0qwdnqpkn",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Tại sao khi truyền dịch kéo dài nhiều ngày cho người bệnh, điều dưỡng phải tuân thủ nghiêm ngặt quy định thay dây truyền dịch và kim luồn/catheter tĩnh mạch định kỳ (thường là 24 - 72 giờ tùy loại)?",
+   "o": [
+    "Nhằm phòng ngừa tối đa nguy cơ nhiễm khuẩn huyết, viêm tĩnh mạch huyết khối do vi khuẩn xâm nhập từ đường truyền lâu ngày.",
+    "Để làm sạch sẽ các vết bám của dung dịch cũ trên dây truyền.",
+    "Vì quy định của bảo hiểm y tế bắt buộc phải thanh toán thay dây mới mỗi ngày.",
+    "Để người bệnh đỡ cảm thấy nhàm chán khi nhìn dây truyền cũ."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwd3veez",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Trong trường hợp người bệnh có chỉ định dùng đồng thời cả thuốc uống dạng lỏng (siro) và thuốc dạng viên trong cùng một thời điểm, thứ tự khuyên dùng để đạt hiệu quả tối ưu là gì?",
+   "o": [
+    "Thường uống thuốc viên trước, sau đó uống thuốc siro cuối cùng (để lớp siro ngọt bao phủ niêm mạc họng, át vị đắng của thuốc viên và tăng khả năng hấp thu).",
+    "Nghiền nát thuốc viên rồi hòa chung vào siro để uống một lần cho nhanh.",
+    "Chỉ uống siro còn bỏ lại thuốc viên vì siro dễ hấp thu hơn.",
+    "Uống thuốc nào trước cũng được không có quy định gì."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwdyfu6v",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Phân tích hậu quả pháp lý và đạo đức đối với điều dưỡng nếu để xảy ra sai sót cấp phát nhầm thuốc gây tổn hại tính mạng người bệnh do lơ là không thực hiện đúng quy trình đối chiếu?",
+   "o": [
+    "Chịu kỷ luật hành chính nặng, đình chỉ hành nghề, bồi thường thiệt hại và có thể vướng vào vòng lao lý truy cứu trách nhiệm hình sự theo pháp luật.",
+    "Chỉ bị nhắc nhở rút kinh nghiệm nội bộ khoa phòng trong buổi giao ban tuần.",
+    "Chỉ bị trừ một phần nhỏ tiền thi đua tháng và không ảnh hưởng gì thêm.",
+    "Được bệnh viện hỗ trợ chuyển công tác sang bộ phận nhẹ nhàng hơn."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwdnunu8",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Tại sao trong kỹ thuật tiêm truyền, việc sát khuẩn vùng da tiêm phải tuân thủ theo nguyên tắc từ trong ra ngoài (hình xoắn ốc) với đường kính rộng ít nhất 5cm?",
+   "o": [
+    "Nhằm đẩy các chất bẩn và vi khuẩn từ trung tâm ra vùng da xung quanh, tránh làm vi khuẩn xâm nhập ngược lại vào lỗ kim tiêm gây nhiễm trùng.",
+    "Giúp làm mát vùng da tiêm để người bệnh đỡ đau đớn.",
+    "Làm cho dung dịch cồn sát khuẩn nhanh bay hơi hơn.",
+    "Trình bày thao tác cho đẹp mắt trước mặt người nhà người bệnh."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwda11my",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Khi thực hiện y lệnh truyền các dung dịch cao phân tử hoặc máu và các chế phẩm từ máu, điều dưỡng cần đặc biệt lưu ý điều gì về quy trình theo dõi sát sao?",
+   "o": [
+    "Phải theo dõi cực kỳ chặt chẽ trong 15 phút đầu tiên của quá trình truyền (tốc độ chậm) để kịp thời phát hiện các phản ứng truyền máu cấp tính (sốt, rét run, dị ứng, tan máu).",
+    "Mở khóa truyền nhanh hết mức để máu không bị đông lại trong dây.",
+    "Treo túi máu ở vị trí thấp hơn giường bệnh để máu chảy tự nhiên.",
+    "Không cần theo dõi gì sau khi đã cắm kim truyền xong."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwd7bkjk",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Hiểu thế nào là khái niệm 'Sinh khả dụng' (Bioavailability) của một loại thuốc khi đưa vào cơ thể người bệnh qua các đường dùng khác nhau?",
+   "o": [
+    "Là tỷ lệ phần trăm lượng thuốc ở dạng còn hoạt tính xâm nhập được vào hệ tuần hoàn chung so với liều đã dùng và tốc độ hấp thu của nó.",
+    "Là thời gian thuốc tồn tại trong tủ lạnh của khoa phòng.",
+    "Là tổng chi phí tài chính mà người bệnh phải chi trả cho mua thuốc.",
+    "Là hạn sử dụng tối đa của thuốc do nhà sản xuất in trên vỏ hộp."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwdx61lj",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Tại sao khi cho người bệnh uống các loại thuốc có chứa sắt hoặc các loại siro ho có chứa hóa chất đậm màu, điều dưỡng cần hướng dẫn người bệnh uống bằng ống hút hoặc súc miệng kỹ sau khi uống?",
+   "o": [
+    "Để tránh làm xỉn màu, ố vàng men răng của người bệnh do tiếp xúc trực tiếp với hóa chất trong thuốc.",
+    "Để thuốc trôi qua cổ họng nhanh hơn không bị nghẹn.",
+    "Giúp thuốc không bị dính vào lưỡi làm mất vị giác ăn uống.",
+    "Để tiết kiệm nước súc miệng cho khoa phòng."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwd532ue",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Trong công tác an toàn dùng thuốc, việc điều dưỡng chủ động ghi nhận, báo cáo và phân tích các 'Sự cố suýt xảy ra' (Near-misses - những sai sót gần gây nhầm thuốc nhưng đã được phát hiện ngăn chặn kịp thời trước khi đến người bệnh) mang lại giá trị quản lý gì?",
+   "o": [
+    "Giúp bệnh viện nhận diện các lỗ hổng tiềm ẩn trong quy trình dùng thuốc để cải tiến chất lượng an toàn, thay vì che giấu hoặc chỉ đổ lỗi cho cá nhân.",
+    "Để tìm ra tên cá nhân sơ suất và đưa ra hình thức phạt tiền nặng.",
+    "Làm tăng thêm số lượng báo cáo giấy tờ nộp về phòng điều dưỡng.",
+    "Giúp khoa phòng cắt giảm bớt các buổi họp bình bầu thi đua."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwdnezmc",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Phân tích đặc điểm và công dụng của dung dịch Natri Clorid 3% (dung dịch ưu trương): loại dung dịch này được chỉ định trong trường hợp nào và yêu cầu kỹ thuật truyền ra sao?",
+   "o": [
+    "Dùng để điều trị bệnh hạ Natri máu và bắt buộc phải truyền thật chậm.",
+    "Dùng để giải độc nhanh và truyền tốc độ tối đa.",
+    "Dùng để nuôi dưỡng tĩnh mạch trung tâm với lượng lớn Kcal.",
+    "Dùng để thay thế máu mất cấp tính trong vòng 5 phút."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwdlu8xf",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Giải thích lý do vì sao khi chọn vị trí đặt đường truyền tĩnh mạch ngoại biên, điều dưỡng cần tránh chọn những vùng tĩnh mạch đã bị xơ cứng, viêm, bầm tím hoặc vị trí khớp vận động nhiều?",
+   "o": [
+    "Vì dễ làm kim bị gập, gây thoát mạch, tắc kim hoặc tăng nguy cơ viêm tĩnh mạch và làm người bệnh đau đớn khi vận động.",
+    "Vì các vùng đó không có máu lưu thông.",
+    "Vì băng dính y tế không dán được lên da bầm tím.",
+    "Vì làm cho tốc độ chảy của dịch truyền luôn nhanh hơn y lệnh."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwdb0loo",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Tại sao trong nguyên tắc truyền dịch, điều dưỡng tuyệt đối không được để bọt khí lọt vào bên trong lòng tĩnh mạch của người bệnh?",
+   "o": [
+    "Vì bọt khí lớn đi vào tim và phổi có thể gây hiện tượng thuyên tắc khí mạch máu nguy hiểm tính mạng.",
+    "Vì bọt khí làm cho dịch truyền đổi sang màu sẫm.",
+    "Vì bọt khí làm người bệnh bị nấc cụt liên tục.",
+    "Vì làm hỏng hoàn toàn dây truyền dịch đang sử dụng."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwdh0xeo",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Khi theo dõi người bệnh đang truyền dịch, đặc biệt là ở người lớn tuổi, điều dưỡng cần lưu ý quan sát những biểu hiện quan trọng nào tại chỗ tiêm và toàn thân trong khoảng 30 phút đến 1 giờ đầu?",
+   "o": [
+    "Quan sát màu sắc da (đỏ, tím), vùng tiêm có sưng phù, căng đau hay ẩm ướt băng vô khuẩn không, kết hợp kiểm tra tốc độ chảy.",
+    "Chỉ cần hỏi người bệnh có buồn ngủ không là đủ.",
+    "Đo chiều cao và cân nặng lại cho người bệnh.",
+    "Kiểm tra lượng nước tiểu trong 24 giờ qua."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwdipr04",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Phân tích nguyên nhân và dấu hiệu nhận biết của tai biến 'Thoát mạch' trong quá trình truyền dịch?",
+   "o": [
+    "Do lệch kim hoặc kim xuyên qua lòng mạch; dấu hiệu là đau/rát bỏng, sưng nề, căng da, trắng nhợt tại chỗ.",
+    "Do tắc cục máu đông ở đốc kim; dấu hiệu là máu trào ngược đầy dây truyền.",
+    "Do truyền quá nhanh; dấu hiệu là tĩnh mạch cổ nổi và phù phổi cấp.",
+    "Do nhiễm khuẩn dịch truyền; dấu hiệu là sốt cao rét run từng cơn."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwd9bcbf",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Khi xảy ra tai biến 'Quá tải tuần hoàn' do dịch truyền chảy quá nhanh, các dấu hiệu lâm sàng điển hình xuất hiện gồm những gì?",
+   "o": [
+    "Nhức đầu, choáng váng, mạch nhanh, lo sợ, vật vã, khó thở, tĩnh mạch cổ nổi, ớn lạnh, đau lưng.",
+    "Vùng da tiêm bị sưng phù trắng nhợt và đau rát cục bộ.",
+    "Nổi mẫn đỏ ngứa khắp toàn thân như dị ứng mề đay.",
+    "Huyết áp tăng vọt đột ngột kèm theo liệt chi thể."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwduodav",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Xử trí cấp cứu ban đầu chính xác của điều dưỡng ngay khi phát hiện người bệnh có dấu hiệu quá tải tuần hoàn trong lúc truyền dịch là gì?",
+   "o": [
+    "Ngay lập tức ngưng dịch truyền, báo cáo bác sĩ, theo dõi dấu hiệu sinh tồn và duy trì tốc độ truyền tối thiểu khoảng 8 giọt/phút.",
+    "Tăng tốc độ truyền lên tối đa để nhanh chóng đẩy dịch qua thận.",
+    "Rút kim ngay lập tức và băng ép mạnh vùng tiêm.",
+    "Cho người bệnh đứng dậy đi lại vận động nhẹ nhàng."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwdk02d9",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Nguyên nhân cốt lõi dẫn đến tai biến 'Thuyên tắc khí' trong truyền dịch là gì và cách phòng ngừa tốt nhất là gì?",
+   "o": [
+    "Do không đuổi hết khí trong dây dịch truyền; phòng ngừa bằng cách kiểm tra kỹ và đuổi sạch bọt khí trước khi cắm kim.",
+    "Do dùng chai dịch truyền quá hạn sử dụng.",
+    "Do đặt tay người bệnh ở tư thế quá cao so với tim.",
+    "Do dùng kim luồn quá khổ so với tĩnh mạch."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwdonfu9",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Phân tích nguyên tắc cơ bản của truyền máu hiện đại theo tài liệu bài học:",
+   "o": [
+    "Chỉ sử dụng loại chế phẩm máu mà người bệnh thực sự cần nhằm phát huy tối đa hiệu quả và hạn chế tối thiểu tai biến.",
+    "Luôn luôn truyền máu toàn phần cho tất cả các trường hợp mất máu để đơn giản hóa thủ tục.",
+    "Ưu tiên truyền nhóm máu O cho mọi người bệnh không cần xét nghiệm chéo.",
+    "Chỉ truyền máu khi người bệnh có yêu cầu trực tiếp từ gia đình."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwdpfuj3",
+   "s": "mwsxm2xy4wfgt",
+   "sh": false,
+   "q": "Tại sao kháng thể kháng Rh không có sẵn tự nhiên trong máu của người có Rh âm (Rh-), mà chỉ sinh ra khi người đó tiếp xúc với máu Rh dương (Rh+)?",
+   "o": [
+    "Vì hệ thống miễn dịch của người Rh- chỉ tạo ra kháng thể kháng Rh sau khi hệ miễn dịch nhận diện kháng nguyên Rh+ lạ xâm nhập (ví dụ qua truyền máu hoặc thai nghén).",
+    "Vì hệ nhóm máu Rh không chịu sự chi phối của di truyền học sinh học.",
+    "Vì hồng cầu Rh- có cấu trúc màng tế bào không chứa bất kỳ protein nào.",
+    "Vì kháng thể này chỉ tồn tại trong huyết tương của động vật thí nghiệm."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwdujxnw",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Trong tình huống cấp cứu tối khẩn cấp mà không có sẵn máu cùng nhóm cho người bệnh, nguyên tắc xử trí truyền máu khác nhóm được phép thực hiện như thế nào?",
+   "o": [
+    "Có thể truyền khác nhóm với số lượng ít (không quá 2 đơn vị máu) theo sơ đồ truyền máu an toàn cho phép.",
+    "Được phép truyền tự do bất kỳ nhóm máu nào có sẵn trong tủ lạnh khoa phòng.",
+    "Tuyệt đối không được truyền khác nhóm dưới mọi hình thức dù là cấp cứu nguy kịch.",
+    "Chỉ được truyền nếu có sự đồng ý ký cam kết của người nhà."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwd9ymkd",
+   "s": "mwsxm2xy4wfgt",
+   "sh": false,
+   "q": "Ý nghĩa quan trọng của việc thực hiện xét nghiệm 'Phản ứng chéo' trước khi tiến hành truyền máu cho người bệnh là gì?",
+   "o": [
+    "Nhằm phát hiện sớm sự tương hợp miễn dịch giữa máu người cho và huyết thanh/hồng cầu người nhận, phòng ngừa tai biến tan máu nghiêm trọng.",
+    "Để kiểm tra số lượng hồng cầu lắng đọng trong ống nghiệm.",
+    "Để xác định chính xác cân nặng và chiều cao của người bệnh.",
+    "Giúp làm sạch các tạp chất có trong mẫu máu xét nghiệm."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwd04zzw",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Khi điều dưỡng đang tiến hành truyền máu mà người bệnh đột ngột xuất hiện các triệu chứng như sốt cao, rét run, khó thở, đau ngực hoặc tụt huyết áp, hành động xử lý đầu tiên và quan trọng nhất là gì?",
+   "o": [
+    "Ngừng ngay lập tức túi máu đang truyền, báo cáo bác sĩ, giữ đường truyền bằng dung dịch NaCl 0,9% và thực hiện y lệnh cấp cứu chống sốc.",
+    "Tiếp tục truyền hết túi máu thật nhanh rồi mới đi báo cáo.",
+    "Rút kim truyền ra ngay lập tức và cho người bệnh uống thuốc hạ sốt.",
+    "Giảm tốc độ truyền xuống 5 giọt/phút và đắp chăn ấm cho người bệnh."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwdyud40",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Phân tích nguyên nhân gây ra tai biến chậm sau truyền máu (xảy ra từ 4 đến 11 ngày sau truyền) như 'Tan máu miễn dịch chậm':",
+   "o": [
+    "Do sự đáp ứng miễn dịch thứ phát của cơ thể người nhận đối với các kháng nguyên hồng cầu lạ từ máu người cho mà trước đó xét nghiệm sàng lọc chưa phát hiện ở mức độ thấp.",
+    "Do bảo quản túi máu ở nhiệt độ quá cao trong tủ lạnh.",
+    "Do dùng dây truyền máu quá hạn sử dụng định mức.",
+    "Do truyền máu với tốc độ quá nhanh trong những phút đầu."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwd1z2ul",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Tại sao chai máu cũ để quá lâu hoặc quá hạn bảo quản có nguy cơ làm tăng nồng độ ion Kali trong máu truyền và gây ảnh hưởng đến tim mạch của người bệnh?",
+   "o": [
+    "Vì các tế bào hồng cầu bị vỡ dần trong quá trình bảo quản, giải phóng Kali nội bào ra ngoài dịch huyết tương của túi máu.",
+    "Vì chất kháng đông có tính chất làm kết tủa ion Kali.",
+    "Vì nhiệt độ tủ lạnh làm tăng sinh nồng độ Kali tự nhiên.",
+    "Vì thành phần nhựa của túi đựng máu bị phân hủy thành Kali."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwdgwlwb",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Giải thích quy trình xử lý mẫu máu và bệnh phẩm sau khi xảy ra tai biến truyền máu tại khoa lâm sàng theo đúng quy định:",
+   "o": [
+    "Giữ lại phần máu còn thừa trong túi truyền cùng mẫu máu xét nghiệm của người bệnh gửi về phòng xét nghiệm để kiểm tra xác định nguyên nhân tai biến.",
+    "Đem tiêu hủy ngay túi máu thừa vào thùng rác y tế nhiễm khuẩn để tránh lây nhiễm.",
+    "Trả lại ngay túi máu cho ngân hàng máu mà không cần lưu mẫu xét nghiệm.",
+    "Đưa túi máu ra ngoài ánh sáng mặt trời để phân tích màu sắc."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwdu855k",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Khi thực hiện y lệnh truyền máu, tại sao bắt buộc dây truyền máu phải có bộ lưới lọc hoặc bầu lọc chuyên dụng?",
+   "o": [
+    "Để giữ lại các cục máu đông nhỏ, tế bào máu bị vỡ hoặc các mảnh vụn xơ huyết fibrin, ngăn không cho chúng lọt vào hệ tuần hoàn gây tắc mạch.",
+    "Để làm chậm tốc độ dòng chảy của máu xuống mức tối thiểu.",
+    "Để nhuộm màu cho máu truyền sáng hơn dễ quan sát.",
+    "Giúp làm ấm máu trước khi đi vào tĩnh mạch người bệnh."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwdxmwtk",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Ý nghĩa của việc kiểm tra đối chiếu kỹ lưỡng 3 lần và '5 đúng' trước khi truyền máu là gì?",
+   "o": [
+    "Là biện pháp then chốt để phòng tránh triệt để tai biến truyền nhầm máu - một dạng tai biến y khoa trầm trọng có thể dẫn đến tử vong.",
+    "Giúp điều dưỡng hoàn thành nhanh các loại giấy tờ hành chính trong ca trực.",
+    "Đáp ứng yêu cầu kiểm tra sổ sách của phòng kế hoạch tổng hợp.",
+    "Để người nhà người bệnh yên tâm ký cam kết thanh toán viện phí."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwdxumv9",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Phân tích nguyên nhân vì sao dịch truyền chứa Dextrose 5% hoặc 10% có tính chất cung cấp năng lượng nhưng không được dùng làm dung dịch pha loãng hoặc chạy đường truyền chính khi truyền máu?",
+   "o": [
+    "Vì dung dịch chứa đường nhược trương hoặc đẳng trương không có ion muối cân bằng có thể gây vỡ hồng cầu (tan máu) khi tiếp xúc trực tiếp với máu.",
+    "Vì đường làm đông đặc máu ngay lập tức trong ống nghiệm.",
+    "Vì đường làm giảm tác dụng cầm máu của tiểu cầu.",
+    "Vì đường làm tắc nghẽn bộ lưới lọc của dây truyền máu."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwd9lafx",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Tại sao trong suốt quá trình truyền máu, điều dưỡng không được phép làm lạnh túi máu quá mức (không dùng các biện pháp làm lạnh nhân tạo cực đoan) trước khi truyền?",
+   "o": [
+    "Vì truyền máu quá lạnh có thể gây co thắt mạch máu ngoại biên, rối loạn nhịp tim hoặc gây sốc lạnh nguy hiểm cho người bệnh.",
+    "Vì nhiệt độ thấp làm cho túi máu bị đông cứng không chảy được qua dây truyền.",
+    "Vì lạnh làm mất hoàn toàn nhóm máu của túi máu.",
+    "Vì làm vẩn đục các thành phần protein trong huyết tương"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsy0qwd6aw3h",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Theo định nghĩa trong bài học, 'vết thương' được hiểu là gì?",
+   "o": [
+    "Sự mất liên lạc của da và các tổ chức dưới da, kể cả xương và phủ tạng do tai nạn, va chạm, đè cấn hoặc do phẫu thuật gây ra.",
+    "Tình trạng viêm da dị ứng do tiếp xúc với hóa chất ngoài môi trường.",
+    "Sự biến đổi màu sắc của lớp biểu bì ngoài cùng do ánh nắng mặt trời.",
+    "Hiện tượng giãn mạch máu dưới da khi cơ thể thay đổi nhiệt độ."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwdi6awi",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Theo sự hiện diện của vi sinh vật, vết thương được phân thành mấy loại chính?",
+   "o": [
+    "2 loại (vết thương sạch và vết thương bẩn).",
+    "3 loại (vết thương vô khuẩn, vết thương sạch, vết thương nhiễm).",
+    "4 loại (vết thương cấp tính, mạn tính, hở và kín).",
+    "5 loại tùy theo mức độ sâu của tổn thương."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsy0qwd7o5kn",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Giai đoạn viêm trong quá trình lành vết thương thường kéo dài trong khoảng thời gian nào kể từ lúc bị thương?",
+   "o": [
+    "3 ngày đầu.",
+    "Từ 3 tuần đến 2 năm.",
+    "Từ 10 đến 12 tuần.",
+    "24 giờ đầu tiên."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsy0qwd9hifj",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Giai đoạn trưởng thành (co rút - ngoại bì co lại) trong quá trình lành vết thương thường diễn ra trong khoảng thời gian nào?",
+   "o": [
+    "Từ ngày thứ 1 đến ngày thứ 3.",
+    "Từ ngày thứ 4 đến ngày thứ 10.",
+    "Từ 3 tuần đến 2 năm.",
+    "Sau 5 năm kể từ khi lành sẹo."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsy0qwd1fd3b",
+   "s": "mwsxm2xy4wfgt",
+   "sh": false,
+   "q": "Kiểu lành vết thương nào xảy ra ở các vết thương sạch, mất mô rất ít hoặc không đáng kể, hai mép vết thương áp sát hoặc kéo lại gần nhau dễ dàng?",
+   "o": [
+    "Liền sẹo cấp 2 (Secondary Intention).",
+    "Liền sẹo cấp 1 (Primary Intention / Liền kỳ đầu).",
+    "Liền sẹo cấp 3 (Tertiary Intention).",
+    "Liền sẹo tự phát không qua khâu vá."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsy0qwd046kv",
+   "s": "mwsxm2xy4wfgt",
+   "sh": false,
+   "q": "Kiểu lành vết thương nào mà quá trình khép kín vết thương bị trì hoãn chủ động (để hở vết thương vài ngày rồi mới khâu đóng kín khi đã sạch)?",
+   "o": [
+    "Liền sẹo cấp 1 (Liền kỳ đầu).",
+    "Liền sẹo cấp 2 (Liền kỳ hai).",
+    "Liền sẹo cấp 3 (Tertiary Intention / Liền kỳ ba / Liền thì muộn).",
+    "Liền sẹo tự nhiên bằng mô hạt."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsy0qwdsdrg1",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Khi thực hiện nguyên tắc thay băng vết thương, thao tác rửa vết thương cần được tuân thủ theo chiều hướng nào?",
+   "o": [
+    "Rửa từ ngoài mép da vào sâu trong trung tâm vết thương.",
+    "Rửa đúng nguyên tắc từ trong ra ngoài.",
+    "Rửa ngẫu nhiên không cần theo thứ tự.",
+    "Rửa từ dưới đáy vết thương lên trên bề mặt."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsy0qwdy5ldn",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Khi trên một người bệnh có nhiều vết thương cần thay băng cùng lúc, điều dưỡng cần ưu tiên thứ tự rửa các vết thương theo nguyên tắc nào?",
+   "o": [
+    "Ưu tiên rửa vết thương nhiễm trước, vết thương sạch sau.",
+    "Ưu tiên rửa vết thương vô khuẩn trước, tiếp đến vết thương sạch, rồi đến vết thương nhiễm.",
+    "Ưu tiên vết thương nào ở gần tay thuận của điều dưỡng trước.",
+    "Rửa vết thương nào đau nhiều trước."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsy0qwdnmlxu",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Khi sát khuẩn vùng da xung quanh vết thương, diện tích cần rộng ra ngoài mép vết thương khoảng bao nhiêu?",
+   "o": [
+    "1 đến 2 cm.",
+    "3 đến 5 cm.",
+    "7 đến 10 cm.",
+    "Phủ kín toàn bộ chi thể hoặc vùng cơ thể đó."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwdeoawu",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Dung dịch rửa vết thương nào được đánh giá là rất thông dụng, an toàn và ít gây tai biến nhất trong chăm sóc y tế?",
+   "o": [
+    "Cồn 70 độ.",
+    "Oxy già nguyên chất.",
+    "Dung dịch NaCl 0,9%.",
+    "Cồn Iode đặc."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwd74yo2",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Đặc tính của dung dịch Oxy già khi dùng rửa vết thương là gì?",
+   "o": [
+    "Làm co mạch máu tại chỗ, sủi bọt giúp làm sạch vết thương sâu, có mủ hoặc dính đất cát nhưng sẽ phá hoại mô tế bào mới mọc.",
+    "Làm mát da và kích thích tế bào biểu mô mọc nhanh.",
+    "Dùng làm dung dịch kháng sinh toàn thân hiệu quả cao.",
+    "Làm mềm sẹo lồi lâu năm."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwdwy1s2",
+   "s": "mwsxm2xy4wfgt",
+   "sh": false,
+   "q": "Mục đích chính của việc thực hiện thủ thuật cắt chỉ vết khâu là gì?",
+   "o": [
+    "Tránh sẹo xấu, thoát lưu dịch và mủ.",
+    "Giúp tăng huyết áp cho người bệnh.",
+    "Kéo dài thời gian nằm viện điều trị.",
+    "Kiểm tra xem người bệnh có bị dị ứng chỉ không."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsy0qwd3rug1",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Thời gian thông thường để cắt chỉ đối với các vết thương lành tốt ở vùng đầu, mặt, cổ hoặc vùng thẩm mỹ là sau bao nhiêu ngày?",
+   "o": [
+    "3 đến 5 ngày.",
+    "7 ngày.",
+    "10 ngày.",
+    "14 ngày."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsy0qwd8as6o",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Đối với các vết thương ở người già yếu, suy dinh dưỡng hoặc vùng thành bụng có nhiều mỡ, thời gian cắt chỉ thường được kéo dài đến khoảng bao nhiêu ngày?",
+   "o": [
+    "3 đến 5 ngày.",
+    "7 ngày.",
+    "Sau 10 ngày.",
+    "20 ngày."
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsy0qwdpji8o",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Nguyên tắc kỹ thuật nào sau đây là đúng khi tiến hành cắt chỉ vết khâu cho người bệnh?",
+   "o": [
+    "Cắt đứt sợi chỉ rồi giật mạnh sợi chỉ chui qua dưới da thật nhanh.",
+    "Không được để đoạn chỉ nằm trên da bị kéo chui xuống dưới da khi cắt, đồng thời kiểm tra sự nguyên vẹn của mối chỉ sau khi cắt.",
+    "Không cần sát trùng vết khâu trước khi cắt chỉ.",
+    "Dùng tay không để rút chỉ ra cho nhanh."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwddw8am",
+   "s": "mwsxm2xy4wfgt",
+   "sh": false,
+   "q": "Dung dịch sát khuẩn nào có đặc tính khử khuẩn cao, không gây kích ứng mô và sự lành vết thương, thường dùng sát khuẩn da, niêm mạc và rửa vết thương?",
+   "o": [
+    "Cồn 90 độ.",
+    "Betadine 1/1000.",
+    "Xăng thơm y tế.",
+    "Axit đậm đặc."
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsy0qwdt9jp3",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Khi cần lấy bệnh phẩm để cấy tìm vi trùng từ vết thương nhiễm trùng, điều dưỡng cần thực hiện thao tác nào trước tiên?",
+   "o": [
+    "Lấy bớt mủ và chất tiết từ vết thương trước, sau đó dùng que gòn vô trùng phết lên vùng đáy hoặc cạnh bên của vết thương.",
+    "Đổ trực tiếp cồn iode vào vết thương rồi hút ra cấy.",
+    "Cạo lớp mô thịt xung quanh vết thương mang đi xét nghiệm.",
+    "Lấy máu ở tĩnh mạch tay người bệnh để cấy vi khuẩn vết thương."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwdrp4uz",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Theo nguyên tắc thay băng, bông băng đắp lên vết thương phải có kích thước phủ kín và cách rìa vết thương ít nhất bao nhiêu?",
+   "o": [
+    "1 cm.",
+    "2 cm.",
+    "3 đến 5 cm.",
+    "10 cm."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwdiw68a",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Trước khi tiến hành thay băng cho vết thương có mức độ đau nhiều, điều dưỡng cần lưu ý thực hiện y lệnh gì cho người bệnh?",
+   "o": [
+    "Cho người bệnh uống thuốc giảm đau trước khi thay băng khoảng 20 phút.",
+    "Cho người bệnh ngủ mê bằng thuốc gây mê sâu.",
+    "Tiêm thuốc giãn cơ toàn thân.",
+    "Không cần dùng thuốc giảm đau vì đau là cảm giác bình thường."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwdj8pa7",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Khi nhận định tình trạng vết khâu trước khi cắt chỉ, điều dưỡng cần quan sát các yếu tố nào của vết thương?",
+   "o": [
+    "Vị trí vết khâu, loại chỉ khâu, thời gian khâu, tình trạng sưng đỏ đau nóng hay dịch tiết, và tình trạng da xung quanh.",
+    "Chỉ cần đếm số lượng mối chỉ trên da là đủ.",
+    "Xem xét nhãn hiệu của hãng chỉ khâu.",
+    "Đo chiều cao và huyết áp của người bệnh."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwdrzcty",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Phân tích cơ chế và đặc điểm sinh lý của 'Giai đoạn tăng sinh' diễn ra sau giai đoạn viêm trong quá trình lành vết thương:",
+   "o": [
+    "Mô hạt bao gồm khối collagen được bao lấy bởi các đại thực bào, nguyên bào sợi và các chồi mao mạch sản sinh, lấp kín vết thương bằng mô liên kết.",
+    "Quá trình co thắt mạch máu cục bộ hoàn toàn để ngừng chảy máu vĩnh viễn.",
+    "Sự hình thành lớp vảy cứng màu đen che phủ toàn bộ bề mặt da bị tổn thương.",
+    "Tế bào biểu bì tiêu hủy hoàn toàn lớp mô cơ bên dưới."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwdh4kp3",
+   "s": "mwsxm2xy4wfgt",
+   "sh": false,
+   "q": "Giải thích lý do vì sao kiểu liền sẹo cấp 2 (Secondary Intention) thường để lại sẹo to, dễ co rút và kéo dài thời gian lành hơn so với cấp 1?",
+   "o": [
+    "Vì vết thương bị mất mô đáng kể, mép vết thương cách xa nhau, quá trình lành phải diễn ra tự nhiên từ đáy lên bằng việc lấp đầy mô hạt và co rút.",
+    "Vì điều dưỡng thường xuyên bôi mỡ kháng sinh quá nhiều.",
+    "Vì người bệnh không chịu nằm yên một chỗ trên giường.",
+    "Vì không được băng kín bằng gạc vô khuẩn."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwd9fm13",
+   "s": "mwsxm2xy4wfgt",
+   "sh": false,
+   "q": "Tại sao kiểu liền sẹo cấp 3 (Tertiary Intention - liền thì muộn) lại được chỉ định áp dụng chủ yếu cho các vết thương bị ô nhiễm nặng hoặc phù nề ban đầu?",
+   "o": [
+    "Giúp để hở vết thương, dẫn lưu và làm sạch trong vài ngày để ngăn ngừa ứ đọng dịch mủ bên dưới, sau đó mới khâu đóng kín khi đã sạch.",
+    "Giúp vết thương lành nhanh gấp đôi bình thường ngay trong ngày đầu tiên.",
+    "Tránh làm người bệnh phải chịu cảm giác đau đớn khi tiêm thuốc tê.",
+    "Giúp tiết kiệm tối đa lượng vật tư tiêu hao trong phòng mổ."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwdmfxlq",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Phân tích các yếu tố ảnh hưởng trực tiếp đến quá trình lành vết thương ở người bệnh:",
+   "o": [
+    "Tuổi tác, tình trạng oxy trong máu, dinh dưỡng, sự hiện diện của ổ nhiễm trùng, đè ép quá mức, bệnh lý mãn tính và việc sử dụng thuốc (corticoid, hóa trị).",
+    "Chỉ số cân nặng BMI và nhóm máu của người bệnh.",
+    "Thời gian trong ngày tiến hành thay băng vết thương.",
+    "Trình độ học vấn của người bệnh và người nhà."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwdqprp4",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Tại sao dung dịch cồn 70 độ hoặc cồn iode tuyệt đối không được dùng để rửa hoặc nhỏ trực tiếp lên bề mặt niêm mạc hay lòng vết thương hở?",
+   "o": [
+    "Vì có thể làm cháy mô tế bào, gây hoại tử và tổn thương nghiêm trọng các mô lành.",
+    "Vì cồn làm cho vết thương bay hơi hết nước gây khô cứng xương.",
+    "Vì cồn tạo ra màu sắc làm điều dưỡng khó quan sát vết thương.",
+    "Vì cồn làm đông đặc máu tạo thành cục máu đông lớn."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwdvdsjh",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Giải thích nhược điểm của dung dịch Betadine khi dùng trên vết thương có nhiều mủ:",
+   "o": [
+    "Iode trung tính gặp dịch tiết vết thương chứa protein sẽ làm giảm sự diệt khuẩn, do đó không dùng trên vết thương có nhiều mủ.",
+    "Betadine làm tan chảy toàn bộ chỉ khâu phẫu thuật.",
+    "Betadine làm cho vết thương đổi thành màu xanh lá cây.",
+    "Betadine gây ngộ độc thủy ngân cấp tính cho người bệnh."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwdhx5s2",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Trong những trường hợp nào thì dung dịch 'Oxy già' được khuyến cáo sử dụng phù hợp khi chăm sóc vết thương?",
+   "o": [
+    "Vết thương sâu có nhiều mủ, có lỗ dò, vết thương đang chảy máu (xuất huyết mao mạch) hoặc vết thương bẩn dính nhiều đất cát.",
+    "Vết thương ở giai đoạn biểu mô hóa đang mọc mô hạt non.",
+    "Vết thương mổ thẩm mỹ vùng mặt trẻ em.",
+    "Vết trầy xước da nhẹ không có dịch tiết."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwdhiwxw",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Tại sao tài liệu lưu ý không được dùng Oxy già để rửa các vết thương đang trong giai đoạn có mô hạt mới mọc?",
+   "o": [
+    "Vì oxy già phá hoại mô tế bào và hủy diệt lớp mô hạt non mới mọc, làm chậm quá trình lành vết thương.",
+    "Vì oxy già làm cho mô hạt phát triển quá nhanh thành sẹo lồi lớn.",
+    "Vì oxy già làm tan biến hoàn toàn các mạch máu tân tạo.",
+    "Vì oxy già tạo ra mùi thơm thu hút côn trùng."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwdz8i9c",
+   "s": "mwsxm2xy4wfgt",
+   "sh": false,
+   "q": "Dầu mù u có đặc tính gì trong việc hỗ trợ chăm sóc và điều trị vết thương?",
+   "o": [
+    "Đắp lên vết thương sạch giúp mô hạt mọc tốt, nhưng tuyệt đối không dùng trên vết thương có nhiều mủ.",
+    "Dùng để sát khuẩn mạnh thay thế hoàn toàn cồn y tế.",
+    "Làm tê bề mặt vết thương giúp giảm đau tức thì.",
+    "Dùng để làm tan rã các cục chỉ khâu dưới da."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwd4lnl0",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Hướng dẫn giáo dục sức khỏe quan trọng nào dành cho người bệnh bị liệt hoặc có cảm giác qua da kém để phòng ngừa lở loét da?",
+   "o": [
+    "Hướng dẫn người bệnh và người nhà thường xuyên kiểm tra bề mặt da (đặc biệt vùng chân) để phát hiện sớm các dấu hiệu tổn thương, lở loét.",
+    "Khuyên người bệnh tắm nước nóng liên tục 24/24 giờ.",
+    "Bôi mỡ kháng sinh toàn thân mỗi ngày 10 lần.",
+    "Không cần quan tâm vì da liệt tự phục hồi được."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwdrp77r",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Phân tích ý nghĩa của việc duy trì thời gian bộc lộ vết thương trong thời gian ngắn nhất có thể khi thay băng:",
+   "o": [
+    "Nhằm giảm thiểu tối đa nguy cơ vi khuẩn từ môi trường xâm nhập vào vết thương và tránh làm lạnh bề mặt mô tổn thương.",
+    "Giúp điều dưỡng kịp thời nghỉ ngơi giữa ca trực.",
+    "Để tiết kiệm gạc vô khuẩn trong khay dụng cụ.",
+    "Làm cho người bệnh đỡ phải nhìn thấy vết thương của mình."
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsy0qwdrfwkq",
+   "s": "mwsxm2xy4wfgt",
+   "sh": true,
+   "q": "Tại sao nguyên tắc vô khuẩn tuyệt đối lại được đặt lên hàng đầu trong quy trình thay băng và chăm sóc vết thương?",
+   "o": [
+    "Để phòng ngừa tuyệt đối nguy cơ bội nhiễm vi sinh vật từ bên ngoài vào vết thương, giúp vết thương liền sẹo thuận lợi.",
+    "Để tuân thủ đúng nội quy hình thức của khoa phòng điều dưỡng.",
+    "Giúp các dụng cụ kim loại không bị gỉ sét sau khi dùng.",
+    "Làm giảm chi phí mua hóa chất khử khuẩn của bệnh viện."
+   ],
+   "a": 0
   }
  ]
 }
