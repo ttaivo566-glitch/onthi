@@ -1404,6 +1404,1826 @@
     "Sử dụng ngôn ngữ phức tạp, học"
    ],
    "a": 2
+  },
+  {
+   "id": "mwsx4kpkt9qdm",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Ở người trưởng thành khỏe mạnh, quá trình tạo hồng cầu diễn ra chủ yếu tại đâu?",
+   "o": [
+    "Lách",
+    "Tủy tuyến ức",
+    "Tủy đỏ của xương",
+    "Hạch lympho"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsx4kpkf67uv",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Những tế bào nào có nguồn gốc từ tiền thân dòng lympho?",
+   "o": [
+    "Lympho B, lympho T và tế bào NK",
+    "Hồng cầu, tiểu cầu và bạch cầu trung tính",
+    "Bạch cầu trung tính, ái toan và ái kiềm",
+    "Đại thực bào, dưỡng bào và hồng cầu"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsx4kpkrpflo",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Bạch cầu nào sau đây thuộc nhóm bạch cầu có hạt?",
+   "o": [
+    "Lympho bào",
+    "Bạch cầu đơn nhân",
+    "Tế bào NK",
+    "Bạch cầu trung tính"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsx4kpk2sflw",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Xét nghiệm nào chủ yếu khảo sát con đường đông máu ngoại sinh?",
+   "o": [
+    "aPTT",
+    "PT/INR",
+    "Thời gian thrombin",
+    "D-dimer"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsx4kpkrg4rq",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Thành phần nào trực tiếp tham gia hình thành nút cầm máu ban đầu?",
+   "o": [
+    "Thrombin chuyển fibrinogen thành fibrin ổn định cục máu đông",
+    "Plasmin phân hủy mạng fibrin trong quá trình tiêu sợi huyết",
+    "Tiểu cầu kết dính, hoạt hóa và ngưng tập tại vị trí tổn thương",
+    "Hồng cầu kết tụ thành khối để bịt kín vị trí tổn thương mạch"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsx4kpk50ja1",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Người bệnh thiếu men G6PD xuất hiện tán huyết cấp sau khi dùng một thuốc có tính oxy hóa. Cơ chế nào phù hợp nhất?",
+   "o": [
+    "Giảm tổng hợp chuỗi globin làm hồng cầu nhỏ và nhược sắc",
+    "Giảm NADPH làm suy giảm glutathione khử và khả năng chống oxy hóa",
+    "Thiếu yếu tố VIII làm rối loạn đông máu và kéo dài aPTT",
+    "Tăng erythropoietin làm tủy xương sản xuất quá nhiều hồng cầu"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsx4kpkmcpt7",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Người bệnh viêm phổi cấp có tăng bạch cầu trung tính và xuất hiện nhiều dạng chưa phân thùy trong máu ngoại vi. Cách diễn giải phù hợp nhất là gì?",
+   "o": [
+    "Tăng lympho phản ứng, thường gặp trong nhiễm virus",
+    "Tăng bạch cầu ái toan, thường gặp trong dị ứng",
+    "Tăng bạch cầu đơn nhân, thường gặp trong nhiễm khuẩn mạn",
+    "Tăng bạch cầu trung tính phản ứng kèm chuyển trái"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsx4kpkrxefn",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Người bệnh có số lượng tiểu cầu 18 × 10⁹/L, chấm xuất huyết và chảy máu chân răng; PT và aPTT bình thường. Nhận định nào phù hợp nhất?",
+   "o": [
+    "Giảm tiểu cầu làm suy giảm cầm máu ban đầu",
+    "Thiếu yếu tố VIII làm kéo dài đông máu đường nội sinh",
+    "Thiếu yếu tố VII làm kéo dài đông máu đường ngoại sinh",
+    "Thiếu fibrinogen làm giảm hình thành mạng fibrin"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsx4kpkxfeiq",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Người bệnh có chảy máu khớp tái diễn, PT bình thường và aPTT kéo dài. Rối loạn nào cần được nghĩ đến trước tiên?",
+   "o": [
+    "Rối loạn chức năng tiểu cầu",
+    "Thiếu yếu tố VII",
+    "Thiếu yếu tố VIII hoặc IX",
+    "Giảm số lượng bạch cầu trung tính"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsx4kpkbkvl7",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Người bệnh nhiễm giun sán có tăng một loại bạch cầu trong máu ngoại vi. Loại tế bào nào thường tăng trong tình huống này?",
+   "o": [
+    "Bạch cầu trung tính",
+    "Bạch cầu ái toan",
+    "Lympho bào",
+    "Bạch cầu đơn nhân"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsx4kpkm5nac",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Vì sao suy thận mạn có thể gây thiếu máu đẳng sắc, đẳng bào với hồng cầu lưới giảm?",
+   "o": [
+    "Giảm erythropoietin làm giảm kích thích sinh hồng cầu tại tủy",
+    "Thiếu sắt làm giảm tổng hợp hemoglobin trong hồng cầu non",
+    "Thiếu folate làm rối loạn tổng hợp DNA ở tiền thân hồng cầu",
+    "Tán huyết làm rút ngắn thời gian sống của hồng cầu tuần hoàn"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsx4kpk8eg8t",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Thiếu sắt gây hồng cầu nhược sắc chủ yếu do cơ chế nào?",
+   "o": [
+    "Giảm tổng hợp DNA làm chậm trưởng thành nhân hồng cầu",
+    "Giảm tổng hợp chuỗi globin do đột biến gen di truyền",
+    "Giảm tổng hợp hem do thiếu nguyên liệu sắt",
+    "Giảm độ mềm dẻo do bất thường protein màng hồng cầu"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsx4kpkn3ype",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Thiếu vitamin B12 hoặc acid folic gây thiếu máu hồng cầu to chủ yếu vì lý do nào?",
+   "o": [
+    "Giảm erythropoietin làm giảm kích thích tạo hồng cầu",
+    "Giảm tổng hợp globin làm giảm lượng hemoglobin mỗi tế bào",
+    "Bất thường màng hồng cầu làm tăng phá hủy tại lách",
+    "Rối loạn tổng hợp DNA khiến trưởng thành nhân chậm hơn bào tương"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsx4kpk90t9n",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Sau khi hiệu chỉnh theo mức độ thiếu máu, số lượng hồng cầu lưới tăng thường gợi ý điều gì?",
+   "o": [
+    "Tủy xương đang tăng đáp ứng, thường gặp sau mất máu hoặc tán huyết",
+    "Tủy xương giảm sinh, thường gặp trong suy tủy hoặc thiếu erythropoietin",
+    "Hồng cầu trưởng thành sống lâu hơn nên hồng cầu lưới tăng kéo dài",
+    "Lách giữ hồng cầu non khiến số hồng cầu lưới trong máu tăng lên"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsx4kpk260wn",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Đông máu nội mạch lan tỏa (DIC) có thể gây huyết khối vi mạch rồi xuất huyết do cơ chế nào?",
+   "o": [
+    "Tăng tiêu sợi huyết đơn thuần tạo huyết khối rồi tiêu thụ yếu tố đông máu",
+    "Hoạt hóa đông máu lan tỏa gây tiêu thụ tiểu cầu và yếu tố đông máu",
+    "Giảm erythropoietin gây giảm hồng cầu rồi làm cạn kiệt yếu tố đông máu",
+    "Tăng sản xuất tiểu cầu gây hình thành huyết khối rồi giảm fibrinogen"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsx4kpkjek7g",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Người bệnh có Hb giảm, MCV 68 fL, ferritin giảm và số lượng hồng cầu lưới thấp. Nhận định nào phù hợp nhất?",
+   "o": [
+    "Thiếu máu hồng cầu to do rối loạn tổng hợp DNA",
+    "Thiếu máu tán huyết với đáp ứng tăng sinh hồng cầu",
+    "Thiếu máu do suy thận với giảm tiết erythropoietin",
+    "Thiếu máu thiếu sắt do giảm tổng hợp hemoglobin và giảm đáp ứng tủy"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsx4kpkiotak",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Công thức máu cho thấy bạch cầu tăng cao, thiếu máu và giảm tiểu cầu. Phết máu ngoại vi có nhiều tế bào non dạng blast. Nhận định nào phù hợp nhất?",
+   "o": [
+    "Tăng bạch cầu phản ứng trong nhiễm khuẩn cấp",
+    "Tăng bạch cầu ái toan do nhiễm ký sinh trùng",
+    "Bệnh bạch cầu cấp cần được khảo sát xác định thêm",
+    "Tăng lympho phản ứng trong nhiễm virus cấp"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsx4kpk8utru",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "PT bình thường nhưng aPTT kéo dài; tiểu cầu, thời gian thrombin và fibrinogen đều trong giới hạn bình thường. Kết quả này định hướng khảo sát chủ yếu vào đâu?",
+   "o": [
+    "Con đường đông máu nội sinh",
+    "Con đường đông máu ngoại sinh",
+    "Hoạt động cầm máu ban đầu của tiểu cầu",
+    "Quá trình tiêu sợi huyết sau hình thành fibrin"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsx4kpk9y2at",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Người bệnh sốc nhiễm khuẩn có giảm tiểu cầu, PT và aPTT kéo dài, fibrinogen giảm và D-dimer tăng. Rối loạn nào giải thích tốt nhất toàn bộ kết quả?",
+   "o": [
+    "Xuất huyết giảm tiểu cầu miễn dịch",
+    "Hemophilia do thiếu yếu tố đông máu nội sinh",
+    "Rối loạn chức năng tiểu cầu đơn thuần",
+    "DIC với hoạt hóa đông máu và tiêu thụ các thành phần cầm máu"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsx4kpkxfvez",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "PT và aPTT đều kéo dài, trong khi thời gian thrombin, fibrinogen và số lượng tiểu cầu bình thường. Vị trí nào cần được khảo sát ưu tiên?",
+   "o": [
+    "Thiếu đơn độc yếu tố VII của con đường ngoại sinh",
+    "Thiếu hoặc ức chế yếu tố thuộc con đường chung như II, V hoặc X",
+    "Thiếu đơn độc yếu tố VIII hoặc IX của con đường nội sinh",
+    "Rối loạn chức năng tiểu cầu trong cầm máu ban đầu"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsx4kpkc3wvv",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Tế bào nào của dạ dày tiết acid hydrochloric và yếu tố nội tại?",
+   "o": [
+    "Tế bào chính tiết pepsinogen và lipase dạ dày",
+    "Tế bào thành tiết HCl và yếu tố nội tại",
+    "Tế bào G tiết gastrin ở vùng hang vị",
+    "Tế bào D tiết somatostatin ở vùng hang vị"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsx4kpkuc2mm",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Enzyme nào của H. pylori phân giải ure, tạo amoniac giúp vi khuẩn chống chịu môi trường acid?",
+   "o": [
+    "Pepsin",
+    "Catalase",
+    "Phospholipase",
+    "Urease"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsx4kpk1vr1e",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Vị trí chủ yếu hấp thu các chất dinh dưỡng sau tiêu hóa là cơ quan nào?",
+   "o": [
+    "Ruột non",
+    "Dạ dày",
+    "Ruột già",
+    "Thực quản"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsx4kpki3r2t",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Viêm gan virus A và E lây truyền chủ yếu qua đường nào?",
+   "o": [
+    "Tiếp xúc với máu nhiễm virus",
+    "Giọt bắn qua đường hô hấp",
+    "Đường phân-miệng",
+    "Côn trùng trung gian truyền bệnh"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsx4kpknfo9a",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Trong vàng da trước gan do tán huyết, loại bilirubin nào thường tăng chủ yếu?",
+   "o": [
+    "Bilirubin trực tiếp",
+    "Bilirubin gián tiếp",
+    "Cả bilirubin trực tiếp và gián tiếp",
+    "Không tăng bilirubin máu"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsx4kpkvbpk2",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Một người bệnh lớn tuổi dùng NSAID kéo dài bị loét dạ dày. Cơ chế nào làm giảm hàng rào bảo vệ niêm mạc?",
+   "o": [
+    "Ức chế COX-1 làm giảm prostaglandin bảo vệ niêm mạc",
+    "Hoạt hóa COX-1 làm tăng tiết acid gây tổn thương niêm mạc",
+    "Ức chế COX-2 làm giảm tiết bicarbonate tại niêm mạc",
+    "Tăng tổng hợp prostaglandin làm giảm tưới máu niêm mạc"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsx4kpklcd4t",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Người bệnh tiêu chảy phân nước sau khi uống sữa; triệu chứng giảm khi nhịn ăn và khoảng trống thẩm thấu trong phân tăng. Cơ chế nào phù hợp nhất?",
+   "o": [
+    "Giảm nhu động làm phân lưu lại lâu và cô đặc",
+    "Tăng tiết điện giải làm nước đi vào lòng ruột liên tục",
+    "Lactose không hấp thu giữ nước trong lòng ruột",
+    "Viêm niêm mạc gây rỉ máu và tăng tiết dịch"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsx4kpk41wm2",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Người bệnh tắc ruột xuất hiện đau bụng liên tục, sốt và phản ứng thành bụng. Biến chứng nào cần được nghĩ đến?",
+   "o": [
+    "Liệt ruột do rối loạn thần kinh tự chủ",
+    "Tắc ruột do bít gây ứ đọng dịch và hơi",
+    "Táo bón nặng do phân khô làm giảm nhu động",
+    "Tắc ruột nghẹt gây thiếu máu cục bộ và nguy cơ hoại tử"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsx4kpkw82et",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Người bệnh có sỏi ống mật chủ, nước tiểu sẫm màu và phân bạc màu. Kiểu thay đổi bilirubin nào phù hợp nhất?",
+   "o": [
+    "Bilirubin gián tiếp tăng, không có bilirubin niệu",
+    "Bilirubin trực tiếp tăng, có bilirubin niệu",
+    "Bilirubin bình thường, nước tiểu sẫm màu",
+    "Bilirubin gián tiếp tăng, phân bạc màu"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsx4kpkqsfft",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Người bệnh xơ gan có phù ngoại biên và báng bụng. Cơ chế phối hợp nào giải thích phù hợp nhất?",
+   "o": [
+    "Giảm albumin, tăng áp lực cửa và giữ natri nước ở thận",
+    "Tăng albumin, giảm áp lực cửa và tăng thải natri nước",
+    "Tăng áp lực keo huyết tương và giảm thể tích dịch ngoại bào",
+    "Giảm áp lực thủy tĩnh và tăng lọc cầu thận kéo dài"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsx4kpkbhcc8",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Urease giúp H. pylori tồn tại trong môi trường dạ dày acid bằng cách nào?",
+   "o": [
+    "Tăng phóng thích histamin để kích thích tiết HCl",
+    "Phân giải lipid để tạo đường di chuyển qua lớp nhầy",
+    "Tạo amoniac giúp đệm acid quanh vi khuẩn",
+    "Ức chế pepsin để ngăn tiêu hóa protein của vi khuẩn"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsx4kpkzs24i",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Vì sao tiêu chảy tiết dịch có thể tiếp tục ngay cả khi người bệnh nhịn ăn?",
+   "o": [
+    "Tăng nhu động làm phân lưu lại lâu và mất nước",
+    "Sự bài tiết nước và điện giải vẫn diễn ra vào lòng ruột",
+    "Chất tan không hấp thu chỉ kéo nước vào sau bữa ăn",
+    "Viêm niêm mạc gây rỉ máu và tăng tiết nhầy"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsx4kpkims7y",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Ứ mật có thể gây tiêu phân mỡ chủ yếu do cơ chế nào?",
+   "o": [
+    "Giảm muối mật làm giảm hình thành micelle và hấp thu lipid",
+    "Tăng muối mật làm giảm hoạt tính men lipase tụy",
+    "Giảm acid dạ dày làm ngừng hấp thu lipid ở ruột",
+    "Tăng bilirubin trực tiếp làm bất hoạt enzyme tiêu hóa"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsx4kpkv6r8s",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Cơ chế nào góp phần quan trọng vào hình thành báng bụng trong xơ gan?",
+   "o": [
+    "Giảm albumin làm tăng áp lực keo và kéo dịch vào lòng mạch",
+    "Tăng albumin làm giảm áp lực cửa và tăng thải natri",
+    "Giảm áp lực cửa làm tăng tuần hoàn bàng hệ và ứ dịch",
+    "Tăng áp lực cửa, giảm thể tích động mạch hiệu dụng và giữ muối nước"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsx4kpkghfh2",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Vì sao suy giảm chức năng tổng hợp của gan có thể làm PT kéo dài?",
+   "o": [
+    "Bilirubin trực tiếp ức chế tổng hợp fibrinogen tại thận",
+    "Tăng áp lực cửa làm pha loãng yếu tố đông máu tuần hoàn",
+    "Giảm tổng hợp yếu tố đông máu làm giảm hoạt tính đông máu",
+    "Giảm albumin làm tăng tiêu thụ yếu tố đông máu tại lách"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsx4kpkg0quu",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Người bệnh có nhiều ổ loét tái phát, tiêu chảy nước, gastrin lúc đói tăng rõ và pH dịch vị thấp; người bệnh không dùng thuốc ức chế acid. Nguyên nhân nào phù hợp nhất?",
+   "o": [
+    "Viêm H. pylori ưu thế hang vị làm tăng gastrin",
+    "Viêm teo dạ dày gây giảm acid và tăng gastrin bù trừ",
+    "NSAID kéo dài làm giảm prostaglandin bảo vệ niêm mạc",
+    "Gastrinoma gây tăng gastrin và tăng tiết acid"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsx4kpko3fjk",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Người bệnh viêm tụy mạn có sụt cân, tiêu phân mỡ và elastase phân thấp. Cơ chế nào phù hợp nhất?",
+   "o": [
+    "Thiếu lipase tụy làm giảm tiêu hóa lipid và gây phân mỡ",
+    "Thiếu pepsin dạ dày làm giảm hấp thu lipid và gây phân mỡ",
+    "Thiếu mật làm giảm tiêu hóa protein và gây phân đạm",
+    "Tăng lactase ruột làm tăng hấp thu lipid và gây phân mỡ"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsx4kpk17ebg",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Người bệnh tán huyết có bilirubin gián tiếp tăng nhưng xét nghiệm nước tiểu không phát hiện bilirubin. Giải thích nào phù hợp nhất?",
+   "o": [
+    "Bilirubin trực tiếp được lọc qua thận và gây bilirubin niệu",
+    "Bilirubin gián tiếp gắn albumin nên không được lọc qua cầu thận",
+    "Bilirubin gián tiếp tan trong nước nên được thải nhiều qua nước tiểu",
+    "Bilirubin trực tiếp không tan trong nước nên không xuất hiện trong nước tiểu"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsx4kpkgld8p",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Người bệnh xơ gan có lách to, báng bụng và giãn tĩnh mạch thực quản. Cơ chế nào giải thích tốt nhất sự phối hợp các biểu hiện này?",
+   "o": [
+    "Giảm dòng máu cửa gây tuần hoàn bàng hệ và sung huyết lách",
+    "Giảm albumin đơn độc gây giãn tĩnh mạch thực quản và lách to",
+    "Tăng sức cản trong gan gây tăng áp lực cửa và sung huyết lách",
+    "Tăng bilirubin đơn độc làm tăng áp lực cửa và gây báng bụng"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsx4kpkdt9ca",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Người bệnh tiêu chảy nặng có bicarbonate máu giảm và khoảng trống anion bình thường. Rối loạn nào phù hợp nhất?",
+   "o": [
+    "Toan chuyển hóa tăng khoảng trống anion do tăng lactate",
+    "Kiềm chuyển hóa do mất acid hydrochloric qua nôn",
+    "Kiềm hô hấp do giảm CO2 khi tăng thông khí",
+    "Toan chuyển hóa khoảng trống anion bình thường do mất bicarbonate qua phân"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsx4kpkj0gq5",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Kiểu xét nghiệm nào điển hình cho suy giáp nguyên phát?",
+   "o": [
+    "TSH giảm, FT4 giảm",
+    "TSH tăng, FT4 giảm",
+    "TSH giảm, FT4 tăng",
+    "TSH tăng, FT4 tăng"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsx4kpkvq3s0",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Trong bệnh Graves, kháng thể TRAb gây cường giáp chủ yếu bằng cách nào?",
+   "o": [
+    "Phá hủy tế bào nang và làm giảm dự trữ hormon giáp",
+    "Ức chế thụ thể TSH và giảm tổng hợp hormon giáp",
+    "Trung hòa thyroperoxidase và ngăn iod hóa thyroglobulin",
+    "Kích thích thụ thể TSH và tăng tổng hợp hormon giáp"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsx4kpk3l8t0",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Tế bào nào của đảo tụy tiết insulin?",
+   "o": [
+    "Tế bào beta",
+    "Tế bào alpha",
+    "Tế bào delta",
+    "Tế bào PP"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsx4kpk3e5os",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Ở người không mang thai, HbA1c đạt ngưỡng nào đáp ứng tiêu chuẩn xét nghiệm chẩn đoán đái tháo đường?",
+   "o": [
+    "≥5,7%",
+    "≥6,0%",
+    "≥6,5%",
+    "≥7,0%"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsx4kpk9z7if",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Tế bào alpha của đảo tụy tiết hormon nào?",
+   "o": [
+    "Insulin",
+    "Glucagon",
+    "Somatostatin",
+    "Amylin"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsx4kpkssebz",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Người bệnh có bướu giáp nhân độc xuất hiện cường giáp sau khi dùng lượng lớn iod. Cơ chế nào phù hợp nhất?",
+   "o": [
+    "Iod kích thích mô giáp tự chủ tăng tổng hợp hormon",
+    "Iod ức chế thoáng qua quá trình tổng hợp hormon giáp",
+    "Iod phá hủy tế bào nang và giải phóng hormon dự trữ",
+    "Iod kích thích tuyến yên tăng tiết TSH kéo dài"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsx4kpks2f02",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Thai phụ chưa được chẩn đoán đái tháo đường trước đó, hiện thai 26 tuần. Thời điểm này có ý nghĩa gì trong tầm soát đái tháo đường thai kỳ?",
+   "o": [
+    "Tầm soát thường quy ở tuần 8–12 của thai kỳ",
+    "Tầm soát thường quy ở tuần 14–16 của thai kỳ",
+    "Tầm soát thường quy ở tuần 24–28 của thai kỳ",
+    "Tầm soát thường quy ở tuần 36–38 của thai kỳ"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsx4kpk8bqgy",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Người bệnh đái tháo đường típ 1 ngừng insulin, sau đó xuất hiện đau bụng, nôn, thở nhanh sâu và ceton máu tăng. Cơ chế nào giải thích tình trạng này?",
+   "o": [
+    "Đề kháng insulin tương đối gây tăng tạo glucose nhưng giảm tạo ceton",
+    "Tăng insulin nội sinh ức chế ly giải mỡ và làm giảm ceton máu",
+    "Tăng glucagon đơn độc làm tăng glucose nhưng không tăng ly giải mỡ",
+    "Thiếu insulin tuyệt đối thúc đẩy ly giải mỡ và tạo thể ceton"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsx4kpklmk7d",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Người bệnh béo bụng, có gai đen, tăng glucose máu và C-peptide còn cao. Cơ chế nào phù hợp nhất?",
+   "o": [
+    "Mất tế bào beta tự miễn gây thiếu insulin tuyệt đối",
+    "Đề kháng insulin kèm tăng tiết insulin bù trừ",
+    "Thiếu glucagon làm giảm phóng thích glucose từ gan",
+    "Giảm hấp thu glucose ở ruột gây tăng glucose máu"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsx4kpkg60z1",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Người bệnh có hạ glucose máu lúc đói, insulin và C-peptide không bị ức chế, ceton thấp; xét nghiệm thuốc kích tiết insulin âm tính. Nguyên nhân nào cần được nghĩ đến?",
+   "o": [
+    "U tế bào beta tiết insulin nội sinh",
+    "Tiêm insulin ngoại sinh gây hạ glucose máu",
+    "Suy thượng thận làm giảm hormon đối kháng insulin",
+    "Nhịn đói kéo dài làm cạn dự trữ glycogen gan"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsx4kpkhyk22",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Hiệu ứng Wolff–Chaikoff ban đầu xảy ra do cơ chế nào?",
+   "o": [
+    "Tăng vận chuyển iod vào tế bào và tăng tổng hợp T4",
+    "Giải phóng nhanh hormon dự trữ gây nhiễm độc giáp thoáng qua",
+    "Ức chế tạm thời quá trình hữu cơ hóa iod trong tuyến giáp",
+    "Kích thích kéo dài thụ thể TSH làm tăng tiết hormon giáp"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsx4kpkntbym",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "GLP-1 và GIP làm tăng tiết insulin sau ăn chủ yếu bằng cách nào?",
+   "o": [
+    "Kích thích tế bào beta tiết insulin không phụ thuộc glucose",
+    "Tăng tiết insulin theo mức glucose máu sau bữa ăn",
+    "Ức chế tế bào beta và tăng phóng thích glucagon",
+    "Tăng phân hủy insulin để điều chỉnh glucose máu"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsx4kpkt7cn1",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Vì sao đái tháo đường típ 2 có thể tiến triển từ tăng insulin bù trừ đến thiếu insulin tương đối?",
+   "o": [
+    "Đề kháng insulin kéo dài làm tăng nhu cầu tiết, rồi tế bào beta suy giảm",
+    "Tự miễn phá hủy tế bào beta nhanh chóng ngay từ giai đoạn đầu",
+    "Thiếu TSH làm giảm tổng hợp insulin và tăng glucose máu kéo dài",
+    "Tăng tái hấp thu glucose ở thận trực tiếp làm cạn insulin của tụy"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsx4kpkteyr8",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Các hormon stress như cortisol và catecholamine có thể làm tăng glucose máu bằng cách nào?",
+   "o": [
+    "Tăng tiết insulin và tăng thu nhận glucose ở mô ngoại biên",
+    "Ức chế tân sinh glucose và tăng tổng hợp glycogen tại gan",
+    "Giảm phân giải glycogen và tăng nhạy cảm insulin ở cơ",
+    "Tăng sản xuất glucose ở gan và giảm hiệu quả insulin ngoại biên"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsx4kpkossbc",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Insulin làm tăng thu nhận glucose ở cơ vân và mô mỡ chủ yếu qua cơ chế nào?",
+   "o": [
+    "Tăng tái hấp thu glucose ở thận qua chất vận chuyển GLUT2",
+    "Tăng phân giải glycogen và phóng thích glucose từ gan",
+    "Tăng chuyển vị GLUT4 đến màng tế bào ở cơ và mô mỡ",
+    "Tăng ly giải triglyceride và giải phóng acid béo tự do"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsx4kpk8ql90",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Thanh thiếu niên nhập viện vì nhiễm toan ceton, C-peptide thấp và kháng thể kháng GAD dương tính. Cơ chế bệnh sinh phù hợp nhất là gì?",
+   "o": [
+    "Đề kháng insulin ưu thế kèm tăng tiết insulin bù trừ",
+    "Đột biến đơn gen làm giảm nhẹ bài tiết insulin",
+    "Tác dụng glucocorticoid làm tăng sản xuất glucose ở gan",
+    "Tự miễn phá hủy tế bào beta gây thiếu insulin tuyệt đối"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsx4kpkx1w2r",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Người bệnh 48 tuổi, béo phì, có gai đen, tăng glucose máu và C-peptide còn cao. Nhận định nào phù hợp nhất?",
+   "o": [
+    "Đái tháo đường típ 2 với đề kháng insulin chiếm ưu thế",
+    "Đái tháo đường típ 1 với phá hủy hoàn toàn tế bào beta",
+    "Đái tháo đường do gen đơn lẻ với giảm tiết insulin nhẹ",
+    "Đái tháo đường thứ phát do mất toàn bộ mô tụy"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsx4kpkzxq6a",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Người bệnh không có triệu chứng tăng glucose máu, HbA1c 6,7% và glucose máu lúc đói 123 mg/dL. Bước tiếp theo nào phù hợp nhất?",
+   "o": [
+    "Chẩn đoán ngay vì một kết quả bất thường luôn đủ xác nhận",
+    "Lặp lại HbA1c hoặc làm xét nghiệm khác để xác nhận chẩn đoán",
+    "Loại trừ đái tháo đường vì glucose lúc đói dưới 126 mg/dL",
+    "Dùng C-peptide thay thế xét nghiệm glucose để xác nhận"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsx4kpknva2n",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Người bệnh có khối u tuyến yên, FT4 và FT3 tăng nhưng TSH không bị ức chế. Cơ chế nào cần được ưu tiên đánh giá?",
+   "o": [
+    "Graves nguyên phát làm TSH tuyến yên giảm",
+    "Viêm giáp phá hủy làm TSH tuyến yên giảm",
+    "U tuyến yên tiết TSH làm hormon giáp tăng nhưng TSH không bị ức chế",
+    "Suy giáp trung ương làm TSH giảm cùng với FT4"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsx4kpkqgr7y",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Người bệnh thiếu máu tán huyết có HbA1c 5,8%, nhưng glucose máu lúc đói ≥126 mg/dL ở hai lần xét nghiệm riêng biệt. Cách diễn giải nào phù hợp nhất?",
+   "o": [
+    "Dùng HbA1c đơn độc vì tan máu không ảnh hưởng tuổi thọ hồng cầu",
+    "Loại trừ đái tháo đường vì HbA1c thấp hơn ngưỡng chẩn đoán",
+    "Dùng C-peptide thay glucose để đánh giá tăng đường huyết mạn",
+    "Dựa vào glucose huyết tương vì tan máu có thể làm sai lệch HbA1c"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsx4kpk0oeck",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Bộ máy trao đổi khí tại phổi gồm ba thành phần nào?",
+   "o": [
+    "Hệ thống dẫn khí, lồng ngực và tuần hoàn hệ thống",
+    "Hệ thống thông khí, vận chuyển máu và thần kinh cơ",
+    "Hệ thống thông khí, màng khuếch tán và tuần hoàn phổi",
+    "Màng phổi, vận chuyển máu và tuần hoàn hệ thống"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsx4kpktrxa5",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Chỉ số nào thường được dùng để đánh giá tình trạng tắc nghẽn đường dẫn khí trên hô hấp ký?",
+   "o": [
+    "Tỷ số FEV₁/FVC",
+    "Thể tích cặn RV",
+    "Dung tích toàn phổi TLC",
+    "Khả năng khuếch tán DLCO"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsx4kpkcum9o",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Phép đo DLCO sử dụng khí nào ở nồng độ rất thấp?",
+   "o": [
+    "Khí oxy",
+    "Khí nitơ",
+    "Khí methane",
+    "Khí carbon monoxide"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsx4kpk18toz",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Phế thân ký thường được dùng để đo thể tích nào?",
+   "o": [
+    "Thể tích lưu thông TV",
+    "Thể tích cặn RV",
+    "Thể tích dự trữ hít vào IRV",
+    "Dung tích sống VC"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsx4kpkem1fx",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Tổ hợp khí máu nào phù hợp với suy hô hấp típ 2 theo các ngưỡng đang xét?",
+   "o": [
+    "PaO₂ < 60 mmHg, PaCO₂ > 50 mmHg, pH < 7,35",
+    "PaO₂ < 60 mmHg, PaCO₂ < 35 mmHg, pH > 7,45",
+    "PaO₂ > 80 mmHg, PaCO₂ > 50 mmHg, pH > 7,40",
+    "PaO₂ > 80 mmHg, PaCO₂ < 35 mmHg, pH < 7,35"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsx4kpkort61",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Một bệnh nhân viêm cột sống dính khớp có lồng ngực kém giãn nở, khó hít sâu nhưng không có bằng chứng tắc nghẽn phế quản. Rối loạn thông khí nào có khả năng nổi trội?",
+   "o": [
+    "Tắc nghẽn đường dẫn khí do co thắt phế quản",
+    "Giảm khuếch tán khí do màng phế nang dày",
+    "Giảm tưới máu phổi do tăng khoảng chết",
+    "Hạn chế thông khí do giảm độ giãn nở thành ngực"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsx4kpkon6r9",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Hô hấp ký của một bệnh nhân cho thấy FEV₁/FVC giảm rõ, trong khi FVC còn được bảo tồn. Kiểu rối loạn nào phù hợp nhất?",
+   "o": [
+    "Rối loạn khuếch tán đơn thuần",
+    "Rối loạn thông khí tắc nghẽn",
+    "Rối loạn thông khí hạn chế",
+    "Rối loạn vận chuyển oxy trong máu"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsx4kpkpk8v0",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Bệnh nhân co thắt phế quản lan tỏa có PaO₂ 55 mmHg, PaCO₂ 58 mmHg và pH 7,30. Phân loại nào phù hợp nhất?",
+   "o": [
+    "Suy hô hấp típ 1 kèm giảm thông khí",
+    "Suy hô hấp típ 2 kèm toan hô hấp",
+    "Rối loạn khuếch tán đơn thuần không giữ CO₂",
+    "Giảm oxy mô do thiếu hemoglobin đơn thuần"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsx4kpkg4lzn",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Bệnh nhân thuyên tắc động mạch phổi có vùng phổi vẫn được thông khí nhưng giảm tưới máu. Hậu quả nào có khả năng xảy ra?",
+   "o": [
+    "Tăng khoảng chết do thông khí không được tưới máu",
+    "Tăng shunt do tưới máu không được thông khí",
+    "Tăng khuếch tán do diện tích trao đổi khí tăng",
+    "Giảm thể tích cặn do đường dẫn khí giãn rộng"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsx4kpkhiaye",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Một bệnh nhân xơ phổi có DLCO giảm. Thay đổi nào giải thích hợp lý nhất kết quả này?",
+   "o": [
+    "Thành ngực mềm hơn, làm tăng dung tích sống",
+    "Đường dẫn khí lớn giãn rộng, làm tăng lưu lượng thở",
+    "Màng phế nang–mao mạch dày lên, cản trở khuếch tán",
+    "Hemoglobin tăng, làm giảm khả năng vận chuyển khí"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsx4kpk4qd4g",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Vì sao phép đo DLCO dùng CO nồng độ rất thấp thay vì đo trực tiếp sự khuếch tán của O₂?",
+   "o": [
+    "CO chỉ đi qua đường dẫn khí lớn, không vào mao mạch phổi",
+    "Sự khuếch tán O₂ thay đổi theo nồng độ và ái lực với hemoglobin",
+    "CO không chịu ảnh hưởng của màng phế nang–mao mạch",
+    "O₂ không thể được đo trong khí thở ra sau trao đổi khí"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsx4kpkzr3xs",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Phù phổi làm giảm trao đổi khí qua màng phế nang–mao mạch chủ yếu bằng cách nào?",
+   "o": [
+    "Làm tăng diện tích bề mặt trao đổi khí",
+    "Làm giảm thể tích khí cặn trong phổi",
+    "Làm giảm sức cản của đường dẫn khí",
+    "Làm tăng bề dày màng khuếch tán"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsx4kpkqq7ms",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Rối loạn kênh CFTR trong bệnh xơ nang góp phần gây tắc nghẽn đường dẫn khí bằng cơ chế nào?",
+   "o": [
+    "Làm thay đổi lớp dịch quanh lông chuyển, gây ứ đọng chất nhầy",
+    "Làm tăng thanh thải nhầy, hạn chế ứ đọng dịch tiết",
+    "Làm giảm tiết nhầy, gây khô đường dẫn khí",
+    "Làm giãn phế quản, giảm nguy cơ nhiễm trùng tái diễn"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsx4kpktnlyt",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Tăng CO₂ máu có thể gây đau đầu và đỏ da chủ yếu thông qua cơ chế nào?",
+   "o": [
+    "Co mạch ngoại vi và giảm lưu lượng máu não",
+    "Tăng độ nhớt máu và giảm tưới máu mô",
+    "Giãn mạch, có thể đi kèm tình trạng toan hô hấp",
+    "Giảm tính thấm mao mạch và giảm thể tích tuần hoàn"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsx4kpkkcsb0",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Đáp ứng nào phù hợp hơn với tình trạng hạ oxy máu kéo dài?",
+   "o": [
+    "Giảm tạo hồng cầu để hạn chế độ nhớt của máu",
+    "Chỉ tăng thông khí thoáng qua, không ảnh hưởng tạo máu",
+    "Giảm hoạt động tủy xương để hạn chế tăng hemoglobin",
+    "Tăng tạo hồng cầu, có thể kèm tăng hồng cầu lưới"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsx4kpkk7nw6",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Hô hấp ký cho thấy FEV₁/FVC giảm và FVC cũng giảm. Muốn xác định có kèm rối loạn hạn chế thật sự hay không, cần đánh giá thông số nào?",
+   "o": [
+    "RV; RV giảm xác nhận có thành phần hạn chế",
+    "TLC; TLC giảm xác nhận có thành phần hạn chế",
+    "DLCO; DLCO bình thường loại trừ thành phần hạn chế",
+    "PEF; PEF giảm xác nhận có thành phần hạn chế"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsx4kpkq8x59",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Xạ hình thông khí–tưới máu ghi nhận một vùng phổi được thông khí nhưng khuyết tưới máu. Kết luận nào phù hợp nhất?",
+   "o": [
+    "V/Q giảm, shunt sinh lý tại vùng đó tăng",
+    "Khuếch tán tăng, DLCO tại vùng đó tăng",
+    "V/Q tăng, khoảng chết sinh lý tại vùng đó tăng",
+    "Thông khí giảm, thải CO₂ tại vùng đó tăng"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsx4kpkdgxmm",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Bệnh nhân xơ phổi có PaO₂ 52 mmHg, PaCO₂ 34 mmHg và DLCO giảm. Giải thích nào phù hợp nhất với các dữ kiện này?",
+   "o": [
+    "Giảm thông khí gây ứ CO₂ và tăng khuếch tán qua màng",
+    "Giảm tưới máu gây tăng CO₂ và làm DLCO tăng",
+    "Thiếu hemoglobin gây giảm PaO₂ và giảm thông khí phế nang",
+    "Tổn thương màng khuếch tán gây giảm oxy máu, kèm tăng thông khí"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsx4kpkxrxps",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Bệnh nhân thiếu máu nặng có SpO₂ và PaO₂ bình thường nhưng vẫn biểu hiện thiếu oxy mô. Cơ chế nào giải thích phù hợp nhất?",
+   "o": [
+    "Giảm khả năng vận chuyển oxy do lượng hemoglobin thấp",
+    "Giảm oxy hòa tan do màng phế nang–mao mạch dày",
+    "Giảm tưới máu phổi do tắc nghẽn đường dẫn khí",
+    "Tăng khoảng chết phổi do thông khí bị hạn chế"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsx4kpkrgw3f",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Một người lên vùng núi cao có PaO₂ giảm và PaCO₂ giảm do tăng thông khí, nhưng không có bằng chứng bệnh phổi. Nguyên nhân nào phù hợp nhất?",
+   "o": [
+    "Tăng bề dày màng phế nang–mao mạch",
+    "Giảm áp suất riêng phần oxy trong khí hít vào",
+    "Giảm tưới máu phổi do tắc mạch",
+    "Giảm vận chuyển oxy do thiếu hemoglobin"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsx4kpkqakmo",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Mỗi nephron gồm hai phần chính nào?",
+   "o": [
+    "Niệu quản và bàng quang",
+    "Vỏ thận và tủy thận",
+    "Ống góp và niệu quản",
+    "Cầu thận và ống thận"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsx4kpkdsxfy",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Chất nào do thận sản xuất, có tác dụng kích thích tủy xương tạo hồng cầu?",
+   "o": [
+    "Erythropoietin, kích thích sinh hồng cầu",
+    "Renin, tham gia điều hòa huyết áp",
+    "Calcitriol, tăng hấp thu canxi",
+    "Aldosterone, tăng giữ natri"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsx4kpkesxrj",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Đặc điểm nào phù hợp nhất với định nghĩa bệnh thận mạn?",
+   "o": [
+    "Bất thường thận dưới 3 tháng, chưa rõ ý nghĩa sức khỏe",
+    "eGFR dưới 60 ml/phút/1,73 m² ở một lần đo",
+    "Bất thường cấu trúc hoặc chức năng thận kéo dài ít nhất 3 tháng",
+    "Creatinine tăng trong vài ngày kèm giảm lượng nước tiểu"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsx4kpkvvt5h",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Lượng nước tiểu nào được xếp là đa niệu theo ngưỡng đang xét?",
+   "o": [
+    "Dưới 100 ml trong 24 giờ",
+    "Trên 3 lít trong 24 giờ",
+    "Dưới 400 ml trong 24 giờ",
+    "Từ 400 đến 1.000 ml trong 24 giờ"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsx4kpktun1q",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Công thức bài xuất một chất qua thận là gì?",
+   "o": [
+    "Lọc + tái hấp thu − bài tiết",
+    "Tái hấp thu − lọc + bài tiết",
+    "Lọc + tái hấp thu + bài tiết",
+    "Lọc − tái hấp thu + bài tiết"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsx4kpkdpmzd",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Bệnh nhân tiêu chảy nhiều ngày, tụt huyết áp và thiểu niệu. Nếu chưa có tổn thương nhu mô thận trực tiếp, loại tổn thương thận cấp nào phù hợp nhất?",
+   "o": [
+    "Tổn thương thận cấp tại thận",
+    "Tổn thương thận cấp sau thận",
+    "Tổn thương thận cấp trước thận",
+    "Bệnh thận mạn giai đoạn tiến triển"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsx4kpk2dt4m",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Bệnh nhân có sỏi gây tắc nghẽn đường niệu hai bên và xuất hiện thiểu niệu cấp. Cơ chế nào phù hợp nhất?",
+   "o": [
+    "Tổn thương thận cấp sau thận",
+    "Tổn thương thận cấp trước thận",
+    "Tổn thương cầu thận do miễn dịch",
+    "Tổn thương ống thận do độc chất"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsx4kpkslfko",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Một người thường xuyên tiểu gấp, tiểu nhiều lần và tiểu đêm, nhưng không tiểu yếu hay tiểu ngập ngừng. Nhóm triệu chứng nào nổi bật?",
+   "o": [
+    "Triệu chứng tống xuất do tắc nghẽn",
+    "Triệu chứng đổ đầy do kích thích",
+    "Triệu chứng viêm cầu thận cấp",
+    "Triệu chứng suy giảm chức năng thận"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsx4kpksaj4g",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Bệnh nhân tiểu protein 4,2 g/24 giờ, albumin máu giảm, phù và tăng lipid máu. Hội chứng nào phù hợp nhất?",
+   "o": [
+    "Hội chứng viêm cầu thận",
+    "Hội chứng ure huyết cao",
+    "Hội chứng thận hư",
+    "Hội chứng tắc nghẽn đường niệu"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsx4kpkw558r",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Bệnh nhân tiểu yếu, tiểu ngắt quãng, phải rặn và có cảm giác tiểu không hết. Đây chủ yếu là nhóm triệu chứng nào?",
+   "o": [
+    "Triệu chứng đổ đầy của bàng quang",
+    "Triệu chứng kích thích của bàng quang",
+    "Triệu chứng viêm của đường niệu",
+    "Triệu chứng tống xuất của đường niệu"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsx4kpk9b7ll",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "NSAID có thể làm giảm GFR ở người giảm thể tích tuần hoàn chủ yếu bằng cơ chế nào?",
+   "o": [
+    "Gây co tiểu động mạch đến cầu thận",
+    "Gây giãn tiểu động mạch đến cầu thận",
+    "Gây co tiểu động mạch đi khỏi cầu thận",
+    "Gây giãn tiểu động mạch đi khỏi cầu thận"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsx4kpk9r2xz",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Vì sao bệnh thận mạn có thể gây thiếu máu?",
+   "o": [
+    "Tăng mất hồng cầu qua nước tiểu kéo dài",
+    "Giảm sản xuất erythropoietin tại thận",
+    "Tăng giữ sắt trong các nephron tổn thương",
+    "Giảm hấp thu vitamin K tại ống thận"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsx4kpkg17oj",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Cơ chế nào góp phần gây phù trong hội chứng thận hư?",
+   "o": [
+    "Tăng albumin máu làm tăng áp lực thủy tĩnh",
+    "Tăng hồng cầu máu làm giảm áp lực keo",
+    "Giảm albumin máu làm giảm áp lực keo huyết tương",
+    "Giảm natri máu làm tăng áp lực keo huyết tương"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsx4kpk8njdz",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Hồng cầu biến dạng và trụ hồng cầu trong nước tiểu gợi ý vị trí chảy máu nào?",
+   "o": [
+    "Niệu đạo và bàng quang",
+    "Niệu quản và bể thận",
+    "Ống góp và đài thận",
+    "Cầu thận và các nephron"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsx4kpktt6c3",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Mô tả nào đúng về tái hấp thu và bài tiết tại ống thận?",
+   "o": [
+    "Tái hấp thu đưa chất từ máu vào lòng ống",
+    "Tái hấp thu đưa chất từ lòng ống về máu",
+    "Bài tiết đưa chất từ lòng ống vào máu",
+    "Bài tiết đưa chất từ nước tiểu ra ngoài cơ thể"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsx4kpkng9ac",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "eGFR của một bệnh nhân là 54 ml/phút/1,73 m² qua các lần đo cách nhau trên 4 tháng. Phân loại nào phù hợp nhất?",
+   "o": [
+    "Tổn thương thận cấp do eGFR giảm",
+    "Bệnh thận mạn nhóm G3a",
+    "Bệnh thận mạn nhóm G3b",
+    "Bệnh thận mạn nhóm G5"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsx4kpkrgads",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Bệnh nhân phù, tăng huyết áp, thiểu niệu, creatinine tăng và có hồng cầu biến dạng cùng trụ hồng cầu trong nước tiểu. Hội chứng nào phù hợp nhất?",
+   "o": [
+    "Hội chứng thận hư ưu thế",
+    "Hội chứng bàng quang tăng hoạt",
+    "Hội chứng viêm cầu thận",
+    "Hội chứng tắc nghẽn đường niệu"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsx4kpka4z4p",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Bệnh nhân giảm eGFR kéo dài nhiều tháng, thiếu máu, hai thận teo nhỏ và vỏ thận mỏng trên siêu âm. Nhận định nào phù hợp nhất?",
+   "o": [
+    "Bệnh thận mạn có biến đổi cấu trúc và nội tiết",
+    "Tổn thương thận cấp trước thận mới khởi phát",
+    "Tổn thương thận cấp sau thận đang hồi phục",
+    "Giảm GFR thoáng qua chưa đủ bằng chứng mạn tính"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsx4kpkkwlrq",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Nhật ký tiểu của một người lớn tuổi cho thấy lượng nước tiểu ban đêm chiếm phần lớn tổng lượng nước tiểu 24 giờ; ban ngày không tiểu gấp, tiểu yếu hay tiểu ngập ngừng. Nguyên nhân nào phù hợp nhất?",
+   "o": [
+    "Bàng quang tăng hoạt gây giảm dung tích chứa",
+    "Tăng sinh tuyến tiền liệt gây tắc nghẽn đường ra",
+    "Viêm cầu thận gây tiểu máu và giảm GFR",
+    "Đa niệu về đêm làm tăng lượng nước tiểu khi ngủ"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsx4kpk5nlby",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Một nam giới lớn tuổi có tiểu yếu, ngập ngừng, rặn tiểu và cảm giác tiểu không hết; thăm khám ghi nhận tuyến tiền liệt tăng kích thước. Nguyên nhân nào phù hợp nhất?",
+   "o": [
+    "Bàng quang tăng hoạt gây triệu chứng đổ đầy",
+    "Tăng sinh tuyến tiền liệt gây triệu chứng tống xuất",
+    "Đa niệu về đêm gây tăng thể tích nước tiểu",
+    "Bệnh cầu thận gây bất thường tế bào nước tiểu"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsx4kpk8wsg2",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Cặp tình trạng nào thường gây quá tải thể tích mạn tính cho tim?",
+   "o": [
+    "Hẹp van động mạch chủ và tăng huyết áp",
+    "Hở van hai lá và thông liên thất",
+    "Nhồi máu cơ tim và viêm cơ tim",
+    "Block dẫn truyền và rối loạn nhịp"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsx4kpk8p9up",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Cặp tình trạng nào thường làm tăng gánh áp lực cho tim?",
+   "o": [
+    "Hở van tim và thông liên thất",
+    "Còn ống động mạch và thông liên nhĩ",
+    "Tăng huyết áp và hẹp van động mạch chủ",
+    "Viêm cơ tim và bệnh cơ tim giãn"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsx4kpk67ah7",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Hậu quả trực tiếp thường gặp của suy tim trái là gì?",
+   "o": [
+    "Sung huyết phổi, gây khó thở hoặc phù phổi",
+    "Sung huyết hệ thống, gây phù chân và gan to",
+    "Tăng tưới máu hệ thống, làm giảm phù phổi",
+    "Tắc động mạch phổi, làm tăng gánh thất phải"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsx4kpky97zg",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Biểu hiện nào phù hợp nhất với sung huyết do suy tim phải?",
+   "o": [
+    "Khó thở kịch phát và ran ẩm ở phổi",
+    "Giảm tưới máu ngoại biên và lạnh đầu chi",
+    "Đau thắt ngực khi gắng sức và hồi hộp",
+    "Phù chân, tĩnh mạch cổ nổi và gan to"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsx4kpksvar7",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Mối liên hệ nào mô tả đúng các yếu tố quyết định huyết áp?",
+   "o": [
+    "Huyết áp = tần số tim × sức cản ngoại biên",
+    "Huyết áp = thể tích nhát bóp × sức cản ngoại biên",
+    "Huyết áp = cung lượng tim × sức cản ngoại biên",
+    "Huyết áp = tần số tim × thể tích nhát bóp"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsx4kpkwbpnb",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Bệnh nhân tăng huyết áp kéo dài có phì đại thất trái. Tim phải thích nghi chủ yếu với loại gánh nào?",
+   "o": [
+    "Quá tải thể tích, làm tăng gánh tiền tải",
+    "Tổn thương cơ tim, làm giảm sức co bóp",
+    "Rối loạn dẫn truyền, làm giảm nhịp tim",
+    "Quá tải áp lực, làm tăng gánh hậu tải"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsx4kpkarykp",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Hở van hai lá mạn tính làm tăng lượng máu trở về thất trái trong thì tâm trương. Thay đổi nào phù hợp nhất?",
+   "o": [
+    "Tăng tiền tải, lâu dài có thể gây giãn buồng tim",
+    "Tăng hậu tải, lâu dài chủ yếu gây dày thành thất",
+    "Giảm tiền tải, lâu dài có thể gây giảm thể tích thất",
+    "Giảm hậu tải, lâu dài chủ yếu gây teo cơ tim"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsx4kpkjnpjm",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Một người đau ngực có tính chất lặp lại khi gắng sức và giảm khi nghỉ. Hội chứng nào phù hợp nhất?",
+   "o": [
+    "Hội chứng vành cấp",
+    "Hội chứng vành mạn với đau thắt ngực ổn định",
+    "Suy tim phải do tăng áp phổi",
+    "Tăng huyết áp thứ phát do hẹp động mạch thận"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsx4kpk6znk8",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Bệnh nhân đột ngột đau ngực kéo dài khi đang nghỉ, kèm vã mồ hôi và biến đổi điện tâm đồ. Chẩn đoán hội chứng nào cần được ưu tiên nghĩ đến?",
+   "o": [
+    "Đau thắt ngực ổn định",
+    "Suy tim mạn còn bù",
+    "Hội chứng vành cấp",
+    "Tăng huyết áp nguyên phát"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsx4kpkgqq1u",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Một người đau bắp chân sau khi đi bộ một quãng đường tương đối cố định; cơn đau giảm khi nghỉ. Cơ chế nào phù hợp nhất?",
+   "o": [
+    "Hẹp động mạch chi làm giảm tưới máu khi gắng sức",
+    "Sung huyết tĩnh mạch chi làm tăng áp lực khi nghỉ",
+    "Suy tim phải làm tăng lượng máu đến cơ bắp chân",
+    "Viêm cơ làm giảm nhu cầu oxy của chi dưới"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsx4kpke4bbf",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Vì sao nhịp tim tăng quá mức có thể làm giảm tưới máu mạch vành?",
+   "o": [
+    "Làm tăng thời gian tâm trương và giảm áp lực động mạch",
+    "Làm giảm thời gian tâm thu và tăng lưu lượng vành",
+    "Làm ngắn thì tâm trương, giảm thời gian tưới máu vành",
+    "Làm tăng thời gian làm đầy thất và giảm nhu cầu oxy tim"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsx4kpktrq5d",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Giãn buồng thất có thể làm giảm sức co bóp khi nào?",
+   "o": [
+    "Khi tiền tải giảm xuống dưới mức cần thiết",
+    "Khi cơ tim co bóp trước khi được đổ đầy",
+    "Khi thể tích nhát bóp tăng trong giới hạn thích nghi",
+    "Khi sợi cơ tim bị kéo giãn quá mức tối ưu"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsx4kpkfrfx6",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Phì đại thất trái kéo dài có thể dẫn đến thiếu máu cơ tim vì lý do nào?",
+   "o": [
+    "Khối cơ tăng nhưng mạng mao mạch không tăng tương xứng",
+    "Khối cơ giảm nhưng nhu cầu oxy lại tăng lên",
+    "Áp lực động mạch giảm làm tăng lưu lượng mạch vành",
+    "Thành thất mỏng đi làm giảm thời gian tưới máu"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsx4kpkmils6",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Vì sao hoạt hóa giao cảm và hệ renin–angiotensin–aldosterone ban đầu có lợi nhưng lâu dài có thể làm suy tim nặng hơn?",
+   "o": [
+    "Làm giãn mạch và tăng thải natri, khiến tiền tải giảm liên tục",
+    "Duy trì tưới máu ngắn hạn nhưng tăng hậu tải, tiền tải và tái cấu trúc",
+    "Làm giảm nhịp tim và ngăn cơ tim tăng nhu cầu oxy",
+    "Tăng co bóp tim nhưng đồng thời làm giảm thể tích tuần hoàn"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsx4kpka85fb",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Cơ chế nào giải thích tĩnh mạch cổ nổi và phù chân trong suy tim phải?",
+   "o": [
+    "Tăng áp lực tĩnh mạch phổi gây ứ máu ở mao mạch phổi",
+    "Giảm áp lực động mạch hệ thống làm dịch thoát khỏi mao mạch",
+    "Tăng áp lực động mạch vành gây ứ máu ở ngoại biên",
+    "Tăng áp lực tĩnh mạch hệ thống do máu ứ phía sau thất phải"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsx4kpkas5c6",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Bệnh nhân tăng huyết áp lâu năm có phì đại thất trái, sau đó xuất hiện khó thở và sung huyết phổi. Chuỗi cơ chế nào giải thích phù hợp nhất?",
+   "o": [
+    "Giảm độ giãn nở thất trái làm tăng áp lực đổ đầy và áp lực tĩnh mạch phổi",
+    "Tăng độ giãn nở thất trái làm giảm áp lực đổ đầy và gây sung huyết phổi",
+    "Giảm sức cản ngoại biên làm tăng áp lực động mạch phổi và gây phù phổi",
+    "Tăng lưu lượng vành làm giảm co bóp thất trái và gây ứ máu phổi"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsx4kpk76tx7",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Bệnh nhân suy tim có cung lượng tim giảm. Giao cảm, hệ renin–angiotensin–aldosterone và vasopressin cùng hoạt hóa. Nhận định nào giải thích đúng nhất hậu quả lâu dài?",
+   "o": [
+    "Giãn mạch và tăng thải nước giúp giảm cả tiền tải lẫn hậu tải",
+    "Co mạch và giữ muối nước hỗ trợ ngắn hạn nhưng thúc đẩy tái cấu trúc tim",
+    "Giảm nhịp tim và giảm sức cản ngoại biên làm cung lượng tim tăng",
+    "Tăng thải natri và giãn buồng tim giúp ngăn suy tim mất bù"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsx4kpkhardc",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Bệnh nhân có mảng xơ vữa động mạch vành đột ngột xuất hiện đau ngực kéo dài và biến đổi điện tâm đồ. Cơ chế nào phù hợp nhất với tình trạng cấp tính này?",
+   "o": [
+    "Mảng xơ vữa ổn định làm giãn động mạch vành và tăng tưới máu",
+    "Co thắt tĩnh mạch vành làm giảm máu trở về tâm nhĩ trái",
+    "Huyết khối hình thành trên mảng xơ vữa làm giảm đột ngột dòng máu vành",
+    "Giãn mao mạch vành làm tăng nhu cầu oxy của cơ tim"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsx4kpk07509",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Người trẻ tăng huyết áp khó kiểm soát có hẹp động mạch thận. Chuỗi cơ chế nào phù hợp nhất?",
+   "o": [
+    "Tăng tưới máu thận → giảm renin → giãn mạch ngoại biên",
+    "Giảm tưới máu thận → giảm renin → tăng thải natri",
+    "Tăng tưới máu thận → tăng aldosterone → giảm sức cản mạch",
+    "Giảm tưới máu thận → tăng renin → co mạch và giữ natri nước"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsx4kpkdic6v",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Bệnh nhân phù chân, tĩnh mạch cổ nổi, gan to và giảm tưới máu phổi. Cơ chế nào giải thích đồng thời các biểu hiện này?",
+   "o": [
+    "Suy thất trái làm tăng áp lực tĩnh mạch phổi và giảm máu vào đại tuần hoàn",
+    "Suy thất trái làm tăng áp lực tĩnh mạch chủ và giảm tưới máu phổi",
+    "Suy thất phải gây ứ máu hệ thống và giảm lượng máu được bơm lên phổi",
+    "Suy thất phải gây ứ máu phổi và tăng lượng máu vào đại tuần hoàn"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsx4kpk9t9wo",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Đặc điểm nào phù hợp nhất với miễn dịch không đặc hiệu?",
+   "o": [
+    "Đáp ứng nhanh, nhận diện mẫu chung, ít tạo trí nhớ đặc hiệu",
+    "Đáp ứng chậm, nhận diện đặc hiệu, tạo trí nhớ miễn dịch",
+    "Tạo kháng thể đặc hiệu sau hoạt hóa lympho B",
+    "Tiêu diệt tế bào đích nhờ lympho T gây độc"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsx4kpkss89f",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Loại tế bào nào có vai trò thực bào vi khuẩn nổi bật trong đáp ứng viêm cấp?",
+   "o": [
+    "Lympho B tạo kháng thể đặc hiệu",
+    "Neutrophil thực bào và tiêu hủy vi khuẩn",
+    "Eosinophil phóng thích hạt chống ký sinh trùng",
+    "Mast cell giải phóng chất trung gian dị ứng"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsx4kpk0hcpc",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Lympho T trưởng thành chủ yếu tại cơ quan nào?",
+   "o": [
+    "Tủy xương",
+    "Hạch bạch huyết",
+    "Tuyến ức",
+    "Lách"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsx4kpkfjxcg",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Lớp kháng thể nào thường hiện diện nhiều trong dịch tiết niêm mạc?",
+   "o": [
+    "IgD",
+    "IgE",
+    "IgM",
+    "IgA"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsx4kpkd83e0",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Phức hợp bổ thể C5b–9 có chức năng chính nào?",
+   "o": [
+    "Gắn lên mầm bệnh để tăng thực bào",
+    "Tạo lỗ trên màng tế bào đích, gây ly giải",
+    "Thu hút lympho B đến vị trí viêm",
+    "Trình diện kháng nguyên cho lympho T"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsx4kpkx8dfv",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Bệnh nhân nhiễm khuẩn cấp có số lượng neutrophil tăng. Hoạt động nào phù hợp nhất với chức năng của tế bào này?",
+   "o": [
+    "Tiết kháng thể lưu hành chống vi khuẩn",
+    "Điều hòa đáp ứng miễn dịch qua CD4",
+    "Thực bào vi khuẩn và tiêu hủy trong lysosome",
+    "Tiêu diệt ký sinh trùng bằng IgE gắn bề mặt"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsx4kpk1bpsw",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Bệnh nhân nhiễm giun sán có tăng eosinophil máu. Cơ chế nào phù hợp nhất?",
+   "o": [
+    "Tạo kháng thể IgA tại niêm mạc ruột",
+    "Trình diện kháng nguyên cho lympho T CD4",
+    "Thực bào ký sinh trùng có kích thước lớn",
+    "Phóng thích hạt chứa protein gây độc cho ký sinh trùng"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsx4kpk76yfy",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Tế bào biểu mô nhiễm virus trình diện peptide virus trên HLA lớp I. Tế bào nào nhận diện và có thể tiêu diệt tế bào nhiễm?",
+   "o": [
+    "Lympho T CD8",
+    "Lympho T CD4",
+    "Lympho B",
+    "Bạch cầu ái toan"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsx4kpkvy9d7",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Kháng nguyên đi vào cơ thể theo đường máu cần được cơ quan lympho ngoại biên nào bắt giữ và khảo sát?",
+   "o": [
+    "Tuyến ức",
+    "Lách",
+    "Hạch bạch huyết",
+    "Tủy xương"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsx4kpks9j0z",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Kháng nguyên xâm nhập qua da được dẫn theo bạch huyết về vị trí nào để gặp lympho và khởi phát đáp ứng đặc hiệu?",
+   "o": [
+    "Tủy đỏ của lách",
+    "Tủy xương",
+    "Hạch bạch huyết dẫn lưu vùng da",
+    "Tuyến ức"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsx4kpkp6qey",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Vì sao một hapten nhỏ thường cần gắn với phân tử mang mới có thể tạo đáp ứng miễn dịch?",
+   "o": [
+    "Phân tử mang giúp hapten tự thực bào vào lympho B",
+    "Hapten có tính đặc hiệu nhưng thường thiếu tính sinh miễn dịch",
+    "Hapten chỉ gắn được với thụ thể của lympho T",
+    "Phân tử mang ngăn hapten kết hợp với kháng thể"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsx4kplveya4",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Tế bào tua bắt giữ một vi khuẩn ngoại bào, xử lý protein của vi khuẩn rồi hoạt hóa lympho T CD4. Cặp trình diện nào phù hợp nhất?",
+   "o": [
+    "Peptide nội bào trên HLA I cho lympho T CD4",
+    "Kháng nguyên nguyên vẹn trên HLA I cho lympho T CD8",
+    "Peptide ngoại bào đã xử lý trên HLA II cho lympho T CD4",
+    "Kháng nguyên nguyên vẹn trên HLA II cho lympho T CD8"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsx4kplg133f",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "C3b bám lên bề mặt vi khuẩn giúp thực bào hiệu quả hơn chủ yếu bằng cách nào?",
+   "o": [
+    "Opsonin hóa, giúp tế bào thực bào nhận diện và bắt giữ vi khuẩn",
+    "Tạo kháng thể đặc hiệu, giúp lympho B ghi nhớ vi khuẩn",
+    "Tạo lỗ trên màng vi khuẩn, gây ly giải trực tiếp",
+    "Ức chế hóa ứng động, hạn chế bạch cầu đến ổ viêm"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsx4kplggctd",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Dị nguyên gây hoạt hóa dưỡng bào ở người đã mẫn cảm chủ yếu bằng cơ chế nào?",
+   "o": [
+    "Gắn với HLA I, làm hoạt hóa lympho T CD8",
+    "Gắn với C3b, làm hoạt hóa trực tiếp neutrophil",
+    "Gắn với BCR, làm dưỡng bào tiết kháng thể",
+    "Bắt chéo các phân tử IgE gắn trên dưỡng bào, gây thoát hạt"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsx4kpljz0b4",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Vì sao đáp ứng miễn dịch đặc hiệu lần tiếp xúc thứ hai với cùng kháng nguyên thường nhanh và mạnh hơn?",
+   "o": [
+    "Neutrophil sống lâu hơn và lưu giữ kháng nguyên",
+    "Bổ thể tạo trí nhớ đặc hiệu sau lần hoạt hóa đầu tiên",
+    "Tế bào nhớ được tạo ra sau lần tiếp xúc trước",
+    "Dưỡng bào chuyển thành lympho B tạo kháng thể"
+   ],
+   "a": 2
+  },
+  {
+   "id": "mwsx4kplixjzs",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Sau khi tiếp xúc dị nguyên, bệnh nhân xuất hiện tụt huyết áp, ban đỏ và phù mô nhanh. Chuỗi cơ chế nào giải thích phù hợp nhất?",
+   "o": [
+    "IgE trên dưỡng bào bị bắt chéo, gây phóng thích chất trung gian làm giãn và tăng tính thấm mạch",
+    "C3b bám lên hồng cầu, gây ngưng kết và giảm tưới máu mô",
+    "HLA II hoạt hóa CD8, gây ly giải tế bào nội mô",
+    "IgA hoạt hóa neutrophil, gây co mạch và giảm thoát dịch"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsx4kplfpg1e",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Một tế bào u giảm biểu hiện HLA lớp I để né lympho T CD8, đồng thời biểu hiện tín hiệu hoạt hóa NK. Cơ chế nào có thể giúp NK nhận diện tế bào này?",
+   "o": [
+    "Giảm tín hiệu ức chế qua HLA I, tạo điều kiện cho NK tiêu diệt",
+    "Tăng trình diện HLA II, trực tiếp hoạt hóa lympho B",
+    "Mất BCR, làm lympho T CD4 nhận diện tế bào u",
+    "Tăng C3b nội bào, kích hoạt phức hợp tấn công màng"
+   ],
+   "a": 0
+  },
+  {
+   "id": "mwsx4kpll0cym",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Bệnh nhân nhiễm HIV có số lượng lympho T CD4 giảm sâu. Hậu quả miễn dịch nào phù hợp nhất?",
+   "o": [
+    "Chỉ giảm hoạt động thực bào của neutrophil",
+    "Giảm hỗ trợ hoạt hóa lympho B và đáp ứng tế bào T CD8",
+    "Tăng trưởng thành lympho B và tăng tạo kháng thể",
+    "Mất chọn lọc kháng nguyên tại tuyến ức, tăng hoạt hóa bổ thể"
+   ],
+   "a": 1
+  },
+  {
+   "id": "mwsx4kplxsmgz",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Huyết thanh chưa có kháng thể đặc hiệu vẫn hoạt hóa bổ thể khi MBL nhận diện mannose trên bề mặt vi khuẩn. Con đường nào được khởi phát?",
+   "o": [
+    "Con đường cổ điển qua phức hợp kháng nguyên–kháng thể",
+    "Con đường tế bào qua lympho T CD8",
+    "Con đường tắt do C3b gắn lên phức hợp miễn dịch",
+    "Con đường lectin qua MBL nhận diện carbohydrate"
+   ],
+   "a": 3
+  },
+  {
+   "id": "mwsx4kplhb90e",
+   "s": "mwswttggw8ufe",
+   "sh": true,
+   "q": "Thiếu C1q làm giảm rõ hoạt hóa bổ thể qua con đường nào, trong khi các con đường khác vẫn có thể hoạt hóa?",
+   "o": [
+    "Con đường lectin",
+    "Con đường tắt",
+    "Con đường cổ điển",
+    "Con đường HLA"
+   ],
+   "a": 2
   }
  ]
 }
